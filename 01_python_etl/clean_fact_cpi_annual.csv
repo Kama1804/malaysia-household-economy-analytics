@@ -1,0 +1,3809 @@
+state,year,division,category,cpi_index
+Johor,2010,01,"Food & Beverages",99.99
+Johor,2010,02,"Alcohol & Tobacco",100
+Johor,2010,03,"Clothing & Footwear",99.98
+Johor,2010,04,"Housing, Utilities & Fuel",99.98
+Johor,2010,05,"Furnishings & Household Maintenance",99.98
+Johor,2010,06,Health,99.99
+Johor,2010,07,Transport,100.01
+Johor,2010,08,"Information & Communication",99.99
+Johor,2010,09,"Recreation, Sport & Culture",100
+Johor,2010,10,Education,100
+Johor,2010,11,"Restaurants & Accommodation",99.99
+Johor,2010,12,"Insurance & Financial Services",100
+Johor,2010,13,"Personal Care & Miscellaneous",100.01
+Johor,2010,overall,"Overall CPI",100.01
+Johor,2011,01,"Food & Beverages",105.3
+Johor,2011,02,"Alcohol & Tobacco",104.83
+Johor,2011,03,"Clothing & Footwear",98.63
+Johor,2011,04,"Housing, Utilities & Fuel",101.65
+Johor,2011,05,"Furnishings & Household Maintenance",101.71
+Johor,2011,06,Health,101.89
+Johor,2011,07,Transport,104.41
+Johor,2011,08,"Information & Communication",99.66
+Johor,2011,09,"Recreation, Sport & Culture",103.52
+Johor,2011,10,Education,101.72
+Johor,2011,11,"Restaurants & Accommodation",104.58
+Johor,2011,12,"Insurance & Financial Services",100.85
+Johor,2011,13,"Personal Care & Miscellaneous",102.21
+Johor,2011,overall,"Overall CPI",103.25
+Johor,2012,01,"Food & Beverages",108.63
+Johor,2012,02,"Alcohol & Tobacco",105.36
+Johor,2012,03,"Clothing & Footwear",97.92
+Johor,2012,04,"Housing, Utilities & Fuel",103.02
+Johor,2012,05,"Furnishings & Household Maintenance",104.22
+Johor,2012,06,Health,104.2
+Johor,2012,07,Transport,105.42
+Johor,2012,08,"Information & Communication",99.27
+Johor,2012,09,"Recreation, Sport & Culture",106.22
+Johor,2012,10,Education,104.37
+Johor,2012,11,"Restaurants & Accommodation",107.52
+Johor,2012,12,"Insurance & Financial Services",106.92
+Johor,2012,13,"Personal Care & Miscellaneous",105.42
+Johor,2012,overall,"Overall CPI",105.18
+Johor,2013,01,"Food & Beverages",112.95
+Johor,2013,02,"Alcohol & Tobacco",111.89
+Johor,2013,03,"Clothing & Footwear",97.57
+Johor,2013,04,"Housing, Utilities & Fuel",104.62
+Johor,2013,05,"Furnishings & Household Maintenance",105.71
+Johor,2013,06,Health,106.87
+Johor,2013,07,Transport,107.98
+Johor,2013,08,"Information & Communication",98.79
+Johor,2013,09,"Recreation, Sport & Culture",106.38
+Johor,2013,10,Education,107.69
+Johor,2013,11,"Restaurants & Accommodation",109.51
+Johor,2013,12,"Insurance & Financial Services",110.78
+Johor,2013,13,"Personal Care & Miscellaneous",107.87
+Johor,2013,overall,"Overall CPI",107.75
+Johor,2014,01,"Food & Beverages",116.89
+Johor,2014,02,"Alcohol & Tobacco",125.29
+Johor,2014,03,"Clothing & Footwear",97.67
+Johor,2014,04,"Housing, Utilities & Fuel",108.14
+Johor,2014,05,"Furnishings & Household Maintenance",107.31
+Johor,2014,06,Health,111.04
+Johor,2014,07,Transport,113.98
+Johor,2014,08,"Information & Communication",98.23
+Johor,2014,09,"Recreation, Sport & Culture",108.37
+Johor,2014,10,Education,110.04
+Johor,2014,11,"Restaurants & Accommodation",114.29
+Johor,2014,12,"Insurance & Financial Services",115.46
+Johor,2014,13,"Personal Care & Miscellaneous",110.83
+Johor,2014,overall,"Overall CPI",111.64
+Johor,2015,01,"Food & Beverages",122.33
+Johor,2015,02,"Alcohol & Tobacco",142.75
+Johor,2015,03,"Clothing & Footwear",98.86
+Johor,2015,04,"Housing, Utilities & Fuel",111.98
+Johor,2015,05,"Furnishings & Household Maintenance",109.98
+Johor,2015,06,Health,117.81
+Johor,2015,07,Transport,108.41
+Johor,2015,08,"Information & Communication",100.26
+Johor,2015,09,"Recreation, Sport & Culture",109.98
+Johor,2015,10,Education,114.63
+Johor,2015,11,"Restaurants & Accommodation",119.27
+Johor,2015,12,"Insurance & Financial Services",122.27
+Johor,2015,13,"Personal Care & Miscellaneous",117.27
+Johor,2015,overall,"Overall CPI",114.82
+Johor,2016,01,"Food & Beverages",128.31
+Johor,2016,02,"Alcohol & Tobacco",167.72
+Johor,2016,03,"Clothing & Footwear",98.81
+Johor,2016,04,"Housing, Utilities & Fuel",115.93
+Johor,2016,05,"Furnishings & Household Maintenance",112.06
+Johor,2016,06,Health,123.39
+Johor,2016,07,Transport,102.88
+Johor,2016,08,"Information & Communication",98.32
+Johor,2016,09,"Recreation, Sport & Culture",112.06
+Johor,2016,10,Education,118.89
+Johor,2016,11,"Restaurants & Accommodation",123.82
+Johor,2016,12,"Insurance & Financial Services",124.2
+Johor,2016,13,"Personal Care & Miscellaneous",121.67
+Johor,2016,overall,"Overall CPI",117.99
+Johor,2017,01,"Food & Beverages",134.22
+Johor,2017,02,"Alcohol & Tobacco",168.02
+Johor,2017,03,"Clothing & Footwear",99.93
+Johor,2017,04,"Housing, Utilities & Fuel",118.41
+Johor,2017,05,"Furnishings & Household Maintenance",114.42
+Johor,2017,06,Health,127.57
+Johor,2017,07,Transport,117.2
+Johor,2017,08,"Information & Communication",98.11
+Johor,2017,09,"Recreation, Sport & Culture",113.93
+Johor,2017,10,Education,122.07
+Johor,2017,11,"Restaurants & Accommodation",127.24
+Johor,2017,12,"Insurance & Financial Services",124.26
+Johor,2017,13,"Personal Care & Miscellaneous",123.19
+Johor,2017,overall,"Overall CPI",123.02
+Johor,2018,01,"Food & Beverages",136.48
+Johor,2018,02,"Alcohol & Tobacco",168.09
+Johor,2018,03,"Clothing & Footwear",98.46
+Johor,2018,04,"Housing, Utilities & Fuel",120.44
+Johor,2018,05,"Furnishings & Household Maintenance",114.59
+Johor,2018,06,Health,127.52
+Johor,2018,07,Transport,119.13
+Johor,2018,08,"Information & Communication",96.64
+Johor,2018,09,"Recreation, Sport & Culture",113.47
+Johor,2018,10,Education,124.12
+Johor,2018,11,"Restaurants & Accommodation",130.43
+Johor,2018,12,"Insurance & Financial Services",120.68
+Johor,2018,13,"Personal Care & Miscellaneous",121.34
+Johor,2018,overall,"Overall CPI",124.25
+Johor,2019,01,"Food & Beverages",139.08
+Johor,2019,02,"Alcohol & Tobacco",171.17
+Johor,2019,03,"Clothing & Footwear",96.5
+Johor,2019,04,"Housing, Utilities & Fuel",122.68
+Johor,2019,05,"Furnishings & Household Maintenance",115.96
+Johor,2019,06,Health,128.18
+Johor,2019,07,Transport,115.36
+Johor,2019,08,"Information & Communication",97
+Johor,2019,09,"Recreation, Sport & Culture",114.88
+Johor,2019,10,Education,126.16
+Johor,2019,11,"Restaurants & Accommodation",133.02
+Johor,2019,12,"Insurance & Financial Services",118.1
+Johor,2019,13,"Personal Care & Miscellaneous",121.6
+Johor,2019,overall,"Overall CPI",125.08
+Johor,2020,01,"Food & Beverages",141.19
+Johor,2020,02,"Alcohol & Tobacco",171.94
+Johor,2020,03,"Clothing & Footwear",95.49
+Johor,2020,04,"Housing, Utilities & Fuel",120.54
+Johor,2020,05,"Furnishings & Household Maintenance",115.84
+Johor,2020,06,Health,129.71
+Johor,2020,07,Transport,102.39
+Johor,2020,08,"Information & Communication",97.9
+Johor,2020,09,"Recreation, Sport & Culture",116.35
+Johor,2020,10,Education,127.28
+Johor,2020,11,"Restaurants & Accommodation",134.22
+Johor,2020,12,"Insurance & Financial Services",118.1
+Johor,2020,13,"Personal Care & Miscellaneous",123.53
+Johor,2020,overall,"Overall CPI",123.26
+Johor,2021,01,"Food & Beverages",143.75
+Johor,2021,02,"Alcohol & Tobacco",172.44
+Johor,2021,03,"Clothing & Footwear",95.19
+Johor,2021,04,"Housing, Utilities & Fuel",122.39
+Johor,2021,05,"Furnishings & Household Maintenance",116.38
+Johor,2021,06,Health,129.88
+Johor,2021,07,Transport,113.89
+Johor,2021,08,"Information & Communication",97.99
+Johor,2021,09,"Recreation, Sport & Culture",116.61
+Johor,2021,10,Education,126.56
+Johor,2021,11,"Restaurants & Accommodation",134.26
+Johor,2021,12,"Insurance & Financial Services",118.1
+Johor,2021,13,"Personal Care & Miscellaneous",123.43
+Johor,2021,overall,"Overall CPI",126.3
+Johor,2022,01,"Food & Beverages",152.58
+Johor,2022,02,"Alcohol & Tobacco",173.65
+Johor,2022,03,"Clothing & Footwear",95.63
+Johor,2022,04,"Housing, Utilities & Fuel",123.96
+Johor,2022,05,"Furnishings & Household Maintenance",121.21
+Johor,2022,06,Health,130.15
+Johor,2022,07,Transport,119.98
+Johor,2022,08,"Information & Communication",98
+Johor,2022,09,"Recreation, Sport & Culture",119.48
+Johor,2022,10,Education,127.15
+Johor,2022,11,"Restaurants & Accommodation",140.78
+Johor,2022,12,"Insurance & Financial Services",118.8
+Johor,2022,13,"Personal Care & Miscellaneous",125.92
+Johor,2022,overall,"Overall CPI",130.62
+Johor,2023,01,"Food & Beverages",159.17
+Johor,2023,02,"Alcohol & Tobacco",174.78
+Johor,2023,03,"Clothing & Footwear",96.36
+Johor,2023,04,"Housing, Utilities & Fuel",126.15
+Johor,2023,05,"Furnishings & Household Maintenance",125.48
+Johor,2023,06,Health,134.58
+Johor,2023,07,Transport,120.82
+Johor,2023,08,"Information & Communication",95.01
+Johor,2023,09,"Recreation, Sport & Culture",121.59
+Johor,2023,10,Education,136.16
+Johor,2023,11,"Restaurants & Accommodation",149.02
+Johor,2023,12,"Insurance & Financial Services",119.3
+Johor,2023,13,"Personal Care & Miscellaneous",129.43
+Johor,2023,overall,"Overall CPI",133.78
+Johor,2024,01,"Food & Beverages",161.93
+Johor,2024,02,"Alcohol & Tobacco",175.74
+Johor,2024,03,"Clothing & Footwear",97.72
+Johor,2024,04,"Housing, Utilities & Fuel",130.05
+Johor,2024,05,"Furnishings & Household Maintenance",126.72
+Johor,2024,06,Health,136.91
+Johor,2024,07,Transport,122.61
+Johor,2024,08,"Information & Communication",93.78
+Johor,2024,09,"Recreation, Sport & Culture",122.31
+Johor,2024,10,Education,139.66
+Johor,2024,11,"Restaurants & Accommodation",152.37
+Johor,2024,12,"Insurance & Financial Services",119.3
+Johor,2024,13,"Personal Care & Miscellaneous",133.04
+Johor,2024,overall,"Overall CPI",136.13
+Johor,2025,01,"Food & Beverages",165.78
+Johor,2025,02,"Alcohol & Tobacco",178.21
+Johor,2025,03,"Clothing & Footwear",98.62
+Johor,2025,04,"Housing, Utilities & Fuel",132.76
+Johor,2025,05,"Furnishings & Household Maintenance",128.13
+Johor,2025,06,Health,140.48
+Johor,2025,07,Transport,123.73
+Johor,2025,08,"Information & Communication",90.39
+Johor,2025,09,"Recreation, Sport & Culture",123.98
+Johor,2025,10,Education,148.26
+Johor,2025,11,"Restaurants & Accommodation",157.06
+Johor,2025,12,"Insurance & Financial Services",124.15
+Johor,2025,13,"Personal Care & Miscellaneous",139.75
+Johor,2025,overall,"Overall CPI",138.8
+Johor,2026,01,"Food & Beverages",169.76
+Johor,2026,02,"Alcohol & Tobacco",182.08
+Johor,2026,03,"Clothing & Footwear",99.14
+Johor,2026,04,"Housing, Utilities & Fuel",134.57
+Johor,2026,05,"Furnishings & Household Maintenance",128.92
+Johor,2026,06,Health,142.47
+Johor,2026,07,Transport,126.07
+Johor,2026,08,"Information & Communication",91.54
+Johor,2026,09,"Recreation, Sport & Culture",124.87
+Johor,2026,10,Education,155
+Johor,2026,11,"Restaurants & Accommodation",161.57
+Johor,2026,12,"Insurance & Financial Services",129.49
+Johor,2026,13,"Personal Care & Miscellaneous",143.46
+Johor,2026,overall,"Overall CPI",141.56
+Kedah,2010,01,"Food & Beverages",99.99
+Kedah,2010,02,"Alcohol & Tobacco",99.99
+Kedah,2010,03,"Clothing & Footwear",99.99
+Kedah,2010,04,"Housing, Utilities & Fuel",100
+Kedah,2010,05,"Furnishings & Household Maintenance",100.01
+Kedah,2010,06,Health,100
+Kedah,2010,07,Transport,100
+Kedah,2010,08,"Information & Communication",100.01
+Kedah,2010,09,"Recreation, Sport & Culture",99.99
+Kedah,2010,10,Education,99.96
+Kedah,2010,11,"Restaurants & Accommodation",100
+Kedah,2010,12,"Insurance & Financial Services",100
+Kedah,2010,13,"Personal Care & Miscellaneous",100
+Kedah,2010,overall,"Overall CPI",100
+Kedah,2011,01,"Food & Beverages",103.93
+Kedah,2011,02,"Alcohol & Tobacco",104.67
+Kedah,2011,03,"Clothing & Footwear",98.78
+Kedah,2011,04,"Housing, Utilities & Fuel",103.31
+Kedah,2011,05,"Furnishings & Household Maintenance",101.05
+Kedah,2011,06,Health,101.58
+Kedah,2011,07,Transport,103.71
+Kedah,2011,08,"Information & Communication",99.73
+Kedah,2011,09,"Recreation, Sport & Culture",102.57
+Kedah,2011,10,Education,99.24
+Kedah,2011,11,"Restaurants & Accommodation",107.29
+Kedah,2011,12,"Insurance & Financial Services",100.1
+Kedah,2011,13,"Personal Care & Miscellaneous",102.7
+Kedah,2011,overall,"Overall CPI",103.15
+Kedah,2012,01,"Food & Beverages",106.94
+Kedah,2012,02,"Alcohol & Tobacco",105.17
+Kedah,2012,03,"Clothing & Footwear",97.68
+Kedah,2012,04,"Housing, Utilities & Fuel",104.91
+Kedah,2012,05,"Furnishings & Household Maintenance",103.1
+Kedah,2012,06,Health,103.47
+Kedah,2012,07,Transport,104.32
+Kedah,2012,08,"Information & Communication",99.18
+Kedah,2012,09,"Recreation, Sport & Culture",103.35
+Kedah,2012,10,Education,101.06
+Kedah,2012,11,"Restaurants & Accommodation",110.22
+Kedah,2012,12,"Insurance & Financial Services",101.88
+Kedah,2012,13,"Personal Care & Miscellaneous",105.39
+Kedah,2012,overall,"Overall CPI",104.98
+Kedah,2013,01,"Food & Beverages",111.21
+Kedah,2013,02,"Alcohol & Tobacco",111.38
+Kedah,2013,03,"Clothing & Footwear",96.79
+Kedah,2013,04,"Housing, Utilities & Fuel",106.19
+Kedah,2013,05,"Furnishings & Household Maintenance",105.28
+Kedah,2013,06,Health,104.92
+Kedah,2013,07,Transport,106.23
+Kedah,2013,08,"Information & Communication",98.58
+Kedah,2013,09,"Recreation, Sport & Culture",104.08
+Kedah,2013,10,Education,102.18
+Kedah,2013,11,"Restaurants & Accommodation",112.76
+Kedah,2013,12,"Insurance & Financial Services",105.06
+Kedah,2013,13,"Personal Care & Miscellaneous",106.28
+Kedah,2013,overall,"Overall CPI",107.34
+Kedah,2014,01,"Food & Beverages",115
+Kedah,2014,02,"Alcohol & Tobacco",124.39
+Kedah,2014,03,"Clothing & Footwear",96.26
+Kedah,2014,04,"Housing, Utilities & Fuel",109.03
+Kedah,2014,05,"Furnishings & Household Maintenance",106.57
+Kedah,2014,06,Health,107.08
+Kedah,2014,07,Transport,111.14
+Kedah,2014,08,"Information & Communication",98.02
+Kedah,2014,09,"Recreation, Sport & Culture",106.02
+Kedah,2014,10,Education,103.55
+Kedah,2014,11,"Restaurants & Accommodation",116.46
+Kedah,2014,12,"Insurance & Financial Services",107.27
+Kedah,2014,13,"Personal Care & Miscellaneous",107.41
+Kedah,2014,overall,"Overall CPI",110.51
+Kedah,2015,01,"Food & Beverages",117.98
+Kedah,2015,02,"Alcohol & Tobacco",141.98
+Kedah,2015,03,"Clothing & Footwear",95.25
+Kedah,2015,04,"Housing, Utilities & Fuel",113.74
+Kedah,2015,05,"Furnishings & Household Maintenance",109.23
+Kedah,2015,06,Health,111.43
+Kedah,2015,07,Transport,105.72
+Kedah,2015,08,"Information & Communication",101.1
+Kedah,2015,09,"Recreation, Sport & Culture",107.71
+Kedah,2015,10,Education,104.78
+Kedah,2015,11,"Restaurants & Accommodation",119.78
+Kedah,2015,12,"Insurance & Financial Services",112.55
+Kedah,2015,13,"Personal Care & Miscellaneous",112.05
+Kedah,2015,overall,"Overall CPI",112.5
+Kedah,2016,01,"Food & Beverages",121.83
+Kedah,2016,02,"Alcohol & Tobacco",168.87
+Kedah,2016,03,"Clothing & Footwear",94.22
+Kedah,2016,04,"Housing, Utilities & Fuel",116.77
+Kedah,2016,05,"Furnishings & Household Maintenance",112.19
+Kedah,2016,06,Health,113.46
+Kedah,2016,07,Transport,100.96
+Kedah,2016,08,"Information & Communication",99.34
+Kedah,2016,09,"Recreation, Sport & Culture",109.48
+Kedah,2016,10,Education,105.1
+Kedah,2016,11,"Restaurants & Accommodation",122.17
+Kedah,2016,12,"Insurance & Financial Services",118.12
+Kedah,2016,13,"Personal Care & Miscellaneous",116.2
+Kedah,2016,overall,"Overall CPI",114.35
+Kedah,2017,01,"Food & Beverages",126.91
+Kedah,2017,02,"Alcohol & Tobacco",169.88
+Kedah,2017,03,"Clothing & Footwear",93.1
+Kedah,2017,04,"Housing, Utilities & Fuel",118.98
+Kedah,2017,05,"Furnishings & Household Maintenance",114.78
+Kedah,2017,06,Health,115.59
+Kedah,2017,07,Transport,112.91
+Kedah,2017,08,"Information & Communication",99.03
+Kedah,2017,09,"Recreation, Sport & Culture",112.03
+Kedah,2017,10,Education,106.26
+Kedah,2017,11,"Restaurants & Accommodation",124.53
+Kedah,2017,12,"Insurance & Financial Services",119.6
+Kedah,2017,13,"Personal Care & Miscellaneous",117.93
+Kedah,2017,overall,"Overall CPI",118.87
+Kedah,2018,01,"Food & Beverages",125.45
+Kedah,2018,02,"Alcohol & Tobacco",169.14
+Kedah,2018,03,"Clothing & Footwear",91
+Kedah,2018,04,"Housing, Utilities & Fuel",120.46
+Kedah,2018,05,"Furnishings & Household Maintenance",112.96
+Kedah,2018,06,Health,115.93
+Kedah,2018,07,Transport,110.88
+Kedah,2018,08,"Information & Communication",98.69
+Kedah,2018,09,"Recreation, Sport & Culture",110.85
+Kedah,2018,10,Education,106.58
+Kedah,2018,11,"Restaurants & Accommodation",125.59
+Kedah,2018,12,"Insurance & Financial Services",116.92
+Kedah,2018,13,"Personal Care & Miscellaneous",115.49
+Kedah,2018,overall,"Overall CPI",117.87
+Kedah,2019,01,"Food & Beverages",128.78
+Kedah,2019,02,"Alcohol & Tobacco",173.43
+Kedah,2019,03,"Clothing & Footwear",88.02
+Kedah,2019,04,"Housing, Utilities & Fuel",123.82
+Kedah,2019,05,"Furnishings & Household Maintenance",114.12
+Kedah,2019,06,Health,117.68
+Kedah,2019,07,Transport,109.82
+Kedah,2019,08,"Information & Communication",98.18
+Kedah,2019,09,"Recreation, Sport & Culture",112.83
+Kedah,2019,10,Education,107.48
+Kedah,2019,11,"Restaurants & Accommodation",128.21
+Kedah,2019,12,"Insurance & Financial Services",117.8
+Kedah,2019,13,"Personal Care & Miscellaneous",116.79
+Kedah,2019,overall,"Overall CPI",119.48
+Kedah,2020,01,"Food & Beverages",129.65
+Kedah,2020,02,"Alcohol & Tobacco",173.93
+Kedah,2020,03,"Clothing & Footwear",87.47
+Kedah,2020,04,"Housing, Utilities & Fuel",119.68
+Kedah,2020,05,"Furnishings & Household Maintenance",114.2
+Kedah,2020,06,Health,118.65
+Kedah,2020,07,Transport,99.64
+Kedah,2020,08,"Information & Communication",98.9
+Kedah,2020,09,"Recreation, Sport & Culture",113.57
+Kedah,2020,10,Education,108.4
+Kedah,2020,11,"Restaurants & Accommodation",128.24
+Kedah,2020,12,"Insurance & Financial Services",117.8
+Kedah,2020,13,"Personal Care & Miscellaneous",119.52
+Kedah,2020,overall,"Overall CPI",117.36
+Kedah,2021,01,"Food & Beverages",131.27
+Kedah,2021,02,"Alcohol & Tobacco",174.4
+Kedah,2021,03,"Clothing & Footwear",87.18
+Kedah,2021,04,"Housing, Utilities & Fuel",122.75
+Kedah,2021,05,"Furnishings & Household Maintenance",114.99
+Kedah,2021,06,Health,119.31
+Kedah,2021,07,Transport,109.49
+Kedah,2021,08,"Information & Communication",98.9
+Kedah,2021,09,"Recreation, Sport & Culture",113.82
+Kedah,2021,10,Education,108.57
+Kedah,2021,11,"Restaurants & Accommodation",127.92
+Kedah,2021,12,"Insurance & Financial Services",117.8
+Kedah,2021,13,"Personal Care & Miscellaneous",119.92
+Kedah,2021,overall,"Overall CPI",120.36
+Kedah,2022,01,"Food & Beverages",136.1
+Kedah,2022,02,"Alcohol & Tobacco",175.07
+Kedah,2022,03,"Clothing & Footwear",86.86
+Kedah,2022,04,"Housing, Utilities & Fuel",125.09
+Kedah,2022,05,"Furnishings & Household Maintenance",118.42
+Kedah,2022,06,Health,120.72
+Kedah,2022,07,Transport,113.14
+Kedah,2022,08,"Information & Communication",98.84
+Kedah,2022,09,"Recreation, Sport & Culture",115.47
+Kedah,2022,10,Education,109.35
+Kedah,2022,11,"Restaurants & Accommodation",133.83
+Kedah,2022,12,"Insurance & Financial Services",118.5
+Kedah,2022,13,"Personal Care & Miscellaneous",121.31
+Kedah,2022,overall,"Overall CPI",123.48
+Kedah,2023,01,"Food & Beverages",140.02
+Kedah,2023,02,"Alcohol & Tobacco",175.68
+Kedah,2023,03,"Clothing & Footwear",86.72
+Kedah,2023,04,"Housing, Utilities & Fuel",127.1
+Kedah,2023,05,"Furnishings & Household Maintenance",120.42
+Kedah,2023,06,Health,122.26
+Kedah,2023,07,Transport,114.48
+Kedah,2023,08,"Information & Communication",95.7
+Kedah,2023,09,"Recreation, Sport & Culture",116.44
+Kedah,2023,10,Education,110.77
+Kedah,2023,11,"Restaurants & Accommodation",137.99
+Kedah,2023,12,"Insurance & Financial Services",119
+Kedah,2023,13,"Personal Care & Miscellaneous",123.24
+Kedah,2023,overall,"Overall CPI",125.57
+Kedah,2024,01,"Food & Beverages",140.95
+Kedah,2024,02,"Alcohol & Tobacco",176.53
+Kedah,2024,03,"Clothing & Footwear",85.13
+Kedah,2024,04,"Housing, Utilities & Fuel",131.78
+Kedah,2024,05,"Furnishings & Household Maintenance",120.76
+Kedah,2024,06,Health,123.72
+Kedah,2024,07,Transport,115.79
+Kedah,2024,08,"Information & Communication",93.83
+Kedah,2024,09,"Recreation, Sport & Culture",118.09
+Kedah,2024,10,Education,112.05
+Kedah,2024,11,"Restaurants & Accommodation",144.67
+Kedah,2024,12,"Insurance & Financial Services",119.2
+Kedah,2024,13,"Personal Care & Miscellaneous",126.51
+Kedah,2024,overall,"Overall CPI",127.2
+Kedah,2025,01,"Food & Beverages",142.15
+Kedah,2025,02,"Alcohol & Tobacco",177.54
+Kedah,2025,03,"Clothing & Footwear",84.52
+Kedah,2025,04,"Housing, Utilities & Fuel",132.79
+Kedah,2025,05,"Furnishings & Household Maintenance",119.44
+Kedah,2025,06,Health,125.16
+Kedah,2025,07,Transport,116.62
+Kedah,2025,08,"Information & Communication",89.72
+Kedah,2025,09,"Recreation, Sport & Culture",120.68
+Kedah,2025,10,Education,114.35
+Kedah,2025,11,"Restaurants & Accommodation",148.13
+Kedah,2025,12,"Insurance & Financial Services",124.5
+Kedah,2025,13,"Personal Care & Miscellaneous",132.82
+Kedah,2025,overall,"Overall CPI",128.16
+Kedah,2026,01,"Food & Beverages",144.18
+Kedah,2026,02,"Alcohol & Tobacco",182.48
+Kedah,2026,03,"Clothing & Footwear",83.67
+Kedah,2026,04,"Housing, Utilities & Fuel",135.83
+Kedah,2026,05,"Furnishings & Household Maintenance",119.73
+Kedah,2026,06,Health,127.77
+Kedah,2026,07,Transport,117.88
+Kedah,2026,08,"Information & Communication",91.7
+Kedah,2026,09,"Recreation, Sport & Culture",123.77
+Kedah,2026,10,Education,116.52
+Kedah,2026,11,"Restaurants & Accommodation",150.1
+Kedah,2026,12,"Insurance & Financial Services",133.83
+Kedah,2026,13,"Personal Care & Miscellaneous",137.79
+Kedah,2026,overall,"Overall CPI",130.5
+Kelantan,2010,01,"Food & Beverages",100.01
+Kelantan,2010,02,"Alcohol & Tobacco",100.02
+Kelantan,2010,03,"Clothing & Footwear",99.98
+Kelantan,2010,04,"Housing, Utilities & Fuel",100
+Kelantan,2010,05,"Furnishings & Household Maintenance",100
+Kelantan,2010,06,Health,99.99
+Kelantan,2010,07,Transport,100.01
+Kelantan,2010,08,"Information & Communication",99.99
+Kelantan,2010,09,"Recreation, Sport & Culture",100
+Kelantan,2010,10,Education,100
+Kelantan,2010,11,"Restaurants & Accommodation",100.01
+Kelantan,2010,12,"Insurance & Financial Services",100
+Kelantan,2010,13,"Personal Care & Miscellaneous",100
+Kelantan,2010,overall,"Overall CPI",100.01
+Kelantan,2011,01,"Food & Beverages",106
+Kelantan,2011,02,"Alcohol & Tobacco",105.5
+Kelantan,2011,03,"Clothing & Footwear",100.34
+Kelantan,2011,04,"Housing, Utilities & Fuel",102.02
+Kelantan,2011,05,"Furnishings & Household Maintenance",100.54
+Kelantan,2011,06,Health,102.53
+Kelantan,2011,07,Transport,104.47
+Kelantan,2011,08,"Information & Communication",100.04
+Kelantan,2011,09,"Recreation, Sport & Culture",101.08
+Kelantan,2011,10,Education,103.13
+Kelantan,2011,11,"Restaurants & Accommodation",104.17
+Kelantan,2011,12,"Insurance & Financial Services",99.8
+Kelantan,2011,13,"Personal Care & Miscellaneous",103.48
+Kelantan,2011,overall,"Overall CPI",103.94
+Kelantan,2012,01,"Food & Beverages",108.62
+Kelantan,2012,02,"Alcohol & Tobacco",105.85
+Kelantan,2012,03,"Clothing & Footwear",100.96
+Kelantan,2012,04,"Housing, Utilities & Fuel",103.56
+Kelantan,2012,05,"Furnishings & Household Maintenance",102.18
+Kelantan,2012,06,Health,105.21
+Kelantan,2012,07,Transport,105.31
+Kelantan,2012,08,"Information & Communication",99.88
+Kelantan,2012,09,"Recreation, Sport & Culture",101.31
+Kelantan,2012,10,Education,108.45
+Kelantan,2012,11,"Restaurants & Accommodation",105.75
+Kelantan,2012,12,"Insurance & Financial Services",100.82
+Kelantan,2012,13,"Personal Care & Miscellaneous",105.71
+Kelantan,2012,overall,"Overall CPI",105.72
+Kelantan,2013,01,"Food & Beverages",112.41
+Kelantan,2013,02,"Alcohol & Tobacco",113.43
+Kelantan,2013,03,"Clothing & Footwear",101
+Kelantan,2013,04,"Housing, Utilities & Fuel",105.05
+Kelantan,2013,05,"Furnishings & Household Maintenance",103.62
+Kelantan,2013,06,Health,107.23
+Kelantan,2013,07,Transport,107.62
+Kelantan,2013,08,"Information & Communication",99.63
+Kelantan,2013,09,"Recreation, Sport & Culture",101.4
+Kelantan,2013,10,Education,113.66
+Kelantan,2013,11,"Restaurants & Accommodation",106.21
+Kelantan,2013,12,"Insurance & Financial Services",105.14
+Kelantan,2013,13,"Personal Care & Miscellaneous",105.06
+Kelantan,2013,overall,"Overall CPI",108.09
+Kelantan,2014,01,"Food & Beverages",116.57
+Kelantan,2014,02,"Alcohol & Tobacco",129.52
+Kelantan,2014,03,"Clothing & Footwear",100.78
+Kelantan,2014,04,"Housing, Utilities & Fuel",107.79
+Kelantan,2014,05,"Furnishings & Household Maintenance",103.98
+Kelantan,2014,06,Health,110.22
+Kelantan,2014,07,Transport,113.35
+Kelantan,2014,08,"Information & Communication",99.1
+Kelantan,2014,09,"Recreation, Sport & Culture",102.57
+Kelantan,2014,10,Education,115.74
+Kelantan,2014,11,"Restaurants & Accommodation",108.96
+Kelantan,2014,12,"Insurance & Financial Services",108.85
+Kelantan,2014,13,"Personal Care & Miscellaneous",104.95
+Kelantan,2014,overall,"Overall CPI",111.62
+Kelantan,2015,01,"Food & Beverages",120.19
+Kelantan,2015,02,"Alcohol & Tobacco",149.39
+Kelantan,2015,03,"Clothing & Footwear",101.65
+Kelantan,2015,04,"Housing, Utilities & Fuel",109.63
+Kelantan,2015,05,"Furnishings & Household Maintenance",107
+Kelantan,2015,06,Health,114.64
+Kelantan,2015,07,Transport,107.63
+Kelantan,2015,08,"Information & Communication",101.43
+Kelantan,2015,09,"Recreation, Sport & Culture",103.18
+Kelantan,2015,10,Education,119.44
+Kelantan,2015,11,"Restaurants & Accommodation",112.3
+Kelantan,2015,12,"Insurance & Financial Services",115.62
+Kelantan,2015,13,"Personal Care & Miscellaneous",109.81
+Kelantan,2015,overall,"Overall CPI",113.58
+Kelantan,2016,01,"Food & Beverages",123.83
+Kelantan,2016,02,"Alcohol & Tobacco",179
+Kelantan,2016,03,"Clothing & Footwear",101.98
+Kelantan,2016,04,"Housing, Utilities & Fuel",111.2
+Kelantan,2016,05,"Furnishings & Household Maintenance",108.97
+Kelantan,2016,06,Health,117.64
+Kelantan,2016,07,Transport,101.58
+Kelantan,2016,08,"Information & Communication",99.04
+Kelantan,2016,09,"Recreation, Sport & Culture",104.67
+Kelantan,2016,10,Education,123.61
+Kelantan,2016,11,"Restaurants & Accommodation",114.64
+Kelantan,2016,12,"Insurance & Financial Services",118.52
+Kelantan,2016,13,"Personal Care & Miscellaneous",112.49
+Kelantan,2016,overall,"Overall CPI",115.35
+Kelantan,2017,01,"Food & Beverages",128.04
+Kelantan,2017,02,"Alcohol & Tobacco",179
+Kelantan,2017,03,"Clothing & Footwear",101.08
+Kelantan,2017,04,"Housing, Utilities & Fuel",112.88
+Kelantan,2017,05,"Furnishings & Household Maintenance",110.54
+Kelantan,2017,06,Health,120.66
+Kelantan,2017,07,Transport,114.88
+Kelantan,2017,08,"Information & Communication",98.72
+Kelantan,2017,09,"Recreation, Sport & Culture",106.82
+Kelantan,2017,10,Education,124.57
+Kelantan,2017,11,"Restaurants & Accommodation",116.33
+Kelantan,2017,12,"Insurance & Financial Services",118.8
+Kelantan,2017,13,"Personal Care & Miscellaneous",113.42
+Kelantan,2017,overall,"Overall CPI",119.31
+Kelantan,2018,01,"Food & Beverages",129.33
+Kelantan,2018,02,"Alcohol & Tobacco",179.6
+Kelantan,2018,03,"Clothing & Footwear",99.37
+Kelantan,2018,04,"Housing, Utilities & Fuel",114.68
+Kelantan,2018,05,"Furnishings & Household Maintenance",110.4
+Kelantan,2018,06,Health,122.44
+Kelantan,2018,07,Transport,116.22
+Kelantan,2018,08,"Information & Communication",97.93
+Kelantan,2018,09,"Recreation, Sport & Culture",106.01
+Kelantan,2018,10,Education,125.79
+Kelantan,2018,11,"Restaurants & Accommodation",117.55
+Kelantan,2018,12,"Insurance & Financial Services",117.75
+Kelantan,2018,13,"Personal Care & Miscellaneous",111.76
+Kelantan,2018,overall,"Overall CPI",120.09
+Kelantan,2019,01,"Food & Beverages",130.64
+Kelantan,2019,02,"Alcohol & Tobacco",183.33
+Kelantan,2019,03,"Clothing & Footwear",98.14
+Kelantan,2019,04,"Housing, Utilities & Fuel",116.89
+Kelantan,2019,05,"Furnishings & Household Maintenance",110.76
+Kelantan,2019,06,Health,124.22
+Kelantan,2019,07,Transport,111.83
+Kelantan,2019,08,"Information & Communication",98.46
+Kelantan,2019,09,"Recreation, Sport & Culture",106.88
+Kelantan,2019,10,Education,129.42
+Kelantan,2019,11,"Restaurants & Accommodation",118.68
+Kelantan,2019,12,"Insurance & Financial Services",117
+Kelantan,2019,13,"Personal Care & Miscellaneous",113.32
+Kelantan,2019,overall,"Overall CPI",120.55
+Kelantan,2020,01,"Food & Beverages",131.79
+Kelantan,2020,02,"Alcohol & Tobacco",183.54
+Kelantan,2020,03,"Clothing & Footwear",97.62
+Kelantan,2020,04,"Housing, Utilities & Fuel",113.03
+Kelantan,2020,05,"Furnishings & Household Maintenance",110.95
+Kelantan,2020,06,Health,126.3
+Kelantan,2020,07,Transport,99.52
+Kelantan,2020,08,"Information & Communication",99.4
+Kelantan,2020,09,"Recreation, Sport & Culture",107.83
+Kelantan,2020,10,Education,130.26
+Kelantan,2020,11,"Restaurants & Accommodation",119.54
+Kelantan,2020,12,"Insurance & Financial Services",117
+Kelantan,2020,13,"Personal Care & Miscellaneous",117.81
+Kelantan,2020,overall,"Overall CPI",118.78
+Kelantan,2021,01,"Food & Beverages",134.59
+Kelantan,2021,02,"Alcohol & Tobacco",183.81
+Kelantan,2021,03,"Clothing & Footwear",97.15
+Kelantan,2021,04,"Housing, Utilities & Fuel",115.72
+Kelantan,2021,05,"Furnishings & Household Maintenance",112.72
+Kelantan,2021,06,Health,126.94
+Kelantan,2021,07,Transport,112.58
+Kelantan,2021,08,"Information & Communication",99.35
+Kelantan,2021,09,"Recreation, Sport & Culture",108.2
+Kelantan,2021,10,Education,131.22
+Kelantan,2021,11,"Restaurants & Accommodation",120.67
+Kelantan,2021,12,"Insurance & Financial Services",117
+Kelantan,2021,13,"Personal Care & Miscellaneous",118.8
+Kelantan,2021,overall,"Overall CPI",122.48
+Kelantan,2022,01,"Food & Beverages",140.63
+Kelantan,2022,02,"Alcohol & Tobacco",184.12
+Kelantan,2022,03,"Clothing & Footwear",97.71
+Kelantan,2022,04,"Housing, Utilities & Fuel",117.32
+Kelantan,2022,05,"Furnishings & Household Maintenance",115.77
+Kelantan,2022,06,Health,128.48
+Kelantan,2022,07,Transport,115.98
+Kelantan,2022,08,"Information & Communication",99.25
+Kelantan,2022,09,"Recreation, Sport & Culture",109.04
+Kelantan,2022,10,Education,131.92
+Kelantan,2022,11,"Restaurants & Accommodation",124.74
+Kelantan,2022,12,"Insurance & Financial Services",117
+Kelantan,2022,13,"Personal Care & Miscellaneous",120.85
+Kelantan,2022,overall,"Overall CPI",125.88
+Kelantan,2023,01,"Food & Beverages",145.12
+Kelantan,2023,02,"Alcohol & Tobacco",184.47
+Kelantan,2023,03,"Clothing & Footwear",98.22
+Kelantan,2023,04,"Housing, Utilities & Fuel",117.61
+Kelantan,2023,05,"Furnishings & Household Maintenance",117.65
+Kelantan,2023,06,Health,130.54
+Kelantan,2023,07,Transport,116.8
+Kelantan,2023,08,"Information & Communication",97.23
+Kelantan,2023,09,"Recreation, Sport & Culture",109.64
+Kelantan,2023,10,Education,132.48
+Kelantan,2023,11,"Restaurants & Accommodation",128.35
+Kelantan,2023,12,"Insurance & Financial Services",117
+Kelantan,2023,13,"Personal Care & Miscellaneous",124.02
+Kelantan,2023,overall,"Overall CPI",128
+Kelantan,2024,01,"Food & Beverages",146.28
+Kelantan,2024,02,"Alcohol & Tobacco",184.62
+Kelantan,2024,03,"Clothing & Footwear",98.61
+Kelantan,2024,04,"Housing, Utilities & Fuel",119.94
+Kelantan,2024,05,"Furnishings & Household Maintenance",118.31
+Kelantan,2024,06,Health,131.38
+Kelantan,2024,07,Transport,117.53
+Kelantan,2024,08,"Information & Communication",96.32
+Kelantan,2024,09,"Recreation, Sport & Culture",109.79
+Kelantan,2024,10,Education,132.6
+Kelantan,2024,11,"Restaurants & Accommodation",131.06
+Kelantan,2024,12,"Insurance & Financial Services",117
+Kelantan,2024,13,"Personal Care & Miscellaneous",128.31
+Kelantan,2024,overall,"Overall CPI",129.29
+Kelantan,2025,01,"Food & Beverages",146.39
+Kelantan,2025,02,"Alcohol & Tobacco",185.7
+Kelantan,2025,03,"Clothing & Footwear",98.37
+Kelantan,2025,04,"Housing, Utilities & Fuel",120.17
+Kelantan,2025,05,"Furnishings & Household Maintenance",119.08
+Kelantan,2025,06,Health,131.99
+Kelantan,2025,07,Transport,117.25
+Kelantan,2025,08,"Information & Communication",94.07
+Kelantan,2025,09,"Recreation, Sport & Culture",110.54
+Kelantan,2025,10,Education,133.22
+Kelantan,2025,11,"Restaurants & Accommodation",133.07
+Kelantan,2025,12,"Insurance & Financial Services",119.4
+Kelantan,2025,13,"Personal Care & Miscellaneous",135.16
+Kelantan,2025,overall,"Overall CPI",129.73
+Kelantan,2026,01,"Food & Beverages",145.71
+Kelantan,2026,02,"Alcohol & Tobacco",190.7
+Kelantan,2026,03,"Clothing & Footwear",97.91
+Kelantan,2026,04,"Housing, Utilities & Fuel",121.34
+Kelantan,2026,05,"Furnishings & Household Maintenance",119.36
+Kelantan,2026,06,Health,133.13
+Kelantan,2026,07,Transport,119.98
+Kelantan,2026,08,"Information & Communication",95.11
+Kelantan,2026,09,"Recreation, Sport & Culture",111.26
+Kelantan,2026,10,Education,134.17
+Kelantan,2026,11,"Restaurants & Accommodation",133.43
+Kelantan,2026,12,"Insurance & Financial Services",122.07
+Kelantan,2026,13,"Personal Care & Miscellaneous",140.43
+Kelantan,2026,overall,"Overall CPI",130.67
+Melaka,2010,01,"Food & Beverages",100
+Melaka,2010,02,"Alcohol & Tobacco",100
+Melaka,2010,03,"Clothing & Footwear",100
+Melaka,2010,04,"Housing, Utilities & Fuel",99.99
+Melaka,2010,05,"Furnishings & Household Maintenance",100.02
+Melaka,2010,06,Health,99.98
+Melaka,2010,07,Transport,99.98
+Melaka,2010,08,"Information & Communication",100
+Melaka,2010,09,"Recreation, Sport & Culture",100
+Melaka,2010,10,Education,100
+Melaka,2010,11,"Restaurants & Accommodation",100
+Melaka,2010,12,"Insurance & Financial Services",100
+Melaka,2010,13,"Personal Care & Miscellaneous",100
+Melaka,2010,overall,"Overall CPI",99.99
+Melaka,2011,01,"Food & Beverages",105
+Melaka,2011,02,"Alcohol & Tobacco",104.77
+Melaka,2011,03,"Clothing & Footwear",97.48
+Melaka,2011,04,"Housing, Utilities & Fuel",101.34
+Melaka,2011,05,"Furnishings & Household Maintenance",101.58
+Melaka,2011,06,Health,102.33
+Melaka,2011,07,Transport,103.77
+Melaka,2011,08,"Information & Communication",98.12
+Melaka,2011,09,"Recreation, Sport & Culture",103.89
+Melaka,2011,10,Education,105.6
+Melaka,2011,11,"Restaurants & Accommodation",104.98
+Melaka,2011,12,"Insurance & Financial Services",100
+Melaka,2011,13,"Personal Care & Miscellaneous",102.12
+Melaka,2011,overall,"Overall CPI",102.92
+Melaka,2012,01,"Food & Beverages",108.27
+Melaka,2012,02,"Alcohol & Tobacco",105.44
+Melaka,2012,03,"Clothing & Footwear",95.34
+Melaka,2012,04,"Housing, Utilities & Fuel",103.02
+Melaka,2012,05,"Furnishings & Household Maintenance",104.76
+Melaka,2012,06,Health,103.77
+Melaka,2012,07,Transport,104.58
+Melaka,2012,08,"Information & Communication",96.89
+Melaka,2012,09,"Recreation, Sport & Culture",106.43
+Melaka,2012,10,Education,109.96
+Melaka,2012,11,"Restaurants & Accommodation",108.56
+Melaka,2012,12,"Insurance & Financial Services",100.59
+Melaka,2012,13,"Personal Care & Miscellaneous",104.13
+Melaka,2012,overall,"Overall CPI",104.76
+Melaka,2013,01,"Food & Beverages",112.71
+Melaka,2013,02,"Alcohol & Tobacco",111.99
+Melaka,2013,03,"Clothing & Footwear",92.76
+Melaka,2013,04,"Housing, Utilities & Fuel",104.17
+Melaka,2013,05,"Furnishings & Household Maintenance",107.53
+Melaka,2013,06,Health,106.59
+Melaka,2013,07,Transport,106.4
+Melaka,2013,08,"Information & Communication",96.11
+Melaka,2013,09,"Recreation, Sport & Culture",105.57
+Melaka,2013,10,Education,112.4
+Melaka,2013,11,"Restaurants & Accommodation",110.79
+Melaka,2013,12,"Insurance & Financial Services",101.29
+Melaka,2013,13,"Personal Care & Miscellaneous",104.21
+Melaka,2013,overall,"Overall CPI",106.79
+Melaka,2014,01,"Food & Beverages",116.45
+Melaka,2014,02,"Alcohol & Tobacco",125.26
+Melaka,2014,03,"Clothing & Footwear",91.01
+Melaka,2014,04,"Housing, Utilities & Fuel",109.15
+Melaka,2014,05,"Furnishings & Household Maintenance",109.78
+Melaka,2014,06,Health,109.62
+Melaka,2014,07,Transport,110.56
+Melaka,2014,08,"Information & Communication",95.38
+Melaka,2014,09,"Recreation, Sport & Culture",106.34
+Melaka,2014,10,Education,116.8
+Melaka,2014,11,"Restaurants & Accommodation",115.48
+Melaka,2014,12,"Insurance & Financial Services",101.45
+Melaka,2014,13,"Personal Care & Miscellaneous",104.74
+Melaka,2014,overall,"Overall CPI",110.21
+Melaka,2015,01,"Food & Beverages",120.61
+Melaka,2015,02,"Alcohol & Tobacco",142.41
+Melaka,2015,03,"Clothing & Footwear",89.45
+Melaka,2015,04,"Housing, Utilities & Fuel",114.03
+Melaka,2015,05,"Furnishings & Household Maintenance",112.12
+Melaka,2015,06,Health,112.98
+Melaka,2015,07,Transport,104.73
+Melaka,2015,08,"Information & Communication",98.71
+Melaka,2015,09,"Recreation, Sport & Culture",107.5
+Melaka,2015,10,Education,121.35
+Melaka,2015,11,"Restaurants & Accommodation",118.46
+Melaka,2015,12,"Insurance & Financial Services",106.6
+Melaka,2015,13,"Personal Care & Miscellaneous",109.23
+Melaka,2015,overall,"Overall CPI",112.4
+Melaka,2016,01,"Food & Beverages",126.18
+Melaka,2016,02,"Alcohol & Tobacco",167.07
+Melaka,2016,03,"Clothing & Footwear",86.94
+Melaka,2016,04,"Housing, Utilities & Fuel",117.26
+Melaka,2016,05,"Furnishings & Household Maintenance",114.79
+Melaka,2016,06,Health,115.03
+Melaka,2016,07,Transport,100.18
+Melaka,2016,08,"Information & Communication",99.88
+Melaka,2016,09,"Recreation, Sport & Culture",109.62
+Melaka,2016,10,Education,123.6
+Melaka,2016,11,"Restaurants & Accommodation",118.98
+Melaka,2016,12,"Insurance & Financial Services",110.65
+Melaka,2016,13,"Personal Care & Miscellaneous",112.37
+Melaka,2016,overall,"Overall CPI",114.65
+Melaka,2017,01,"Food & Beverages",132.23
+Melaka,2017,02,"Alcohol & Tobacco",168.25
+Melaka,2017,03,"Clothing & Footwear",86.62
+Melaka,2017,04,"Housing, Utilities & Fuel",119.1
+Melaka,2017,05,"Furnishings & Household Maintenance",118.2
+Melaka,2017,06,Health,117.62
+Melaka,2017,07,Transport,111.15
+Melaka,2017,08,"Information & Communication",99.09
+Melaka,2017,09,"Recreation, Sport & Culture",112.27
+Melaka,2017,10,Education,125.52
+Melaka,2017,11,"Restaurants & Accommodation",124.06
+Melaka,2017,12,"Insurance & Financial Services",110.6
+Melaka,2017,13,"Personal Care & Miscellaneous",114.19
+Melaka,2017,overall,"Overall CPI",119.41
+Melaka,2018,01,"Food & Beverages",133.98
+Melaka,2018,02,"Alcohol & Tobacco",168.04
+Melaka,2018,03,"Clothing & Footwear",82.78
+Melaka,2018,04,"Housing, Utilities & Fuel",122.95
+Melaka,2018,05,"Furnishings & Household Maintenance",117.78
+Melaka,2018,06,Health,118.81
+Melaka,2018,07,Transport,111.78
+Melaka,2018,08,"Information & Communication",96.32
+Melaka,2018,09,"Recreation, Sport & Culture",112.07
+Melaka,2018,10,Education,125.94
+Melaka,2018,11,"Restaurants & Accommodation",126.08
+Melaka,2018,12,"Insurance & Financial Services",110.33
+Melaka,2018,13,"Personal Care & Miscellaneous",112.19
+Melaka,2018,overall,"Overall CPI",120.25
+Melaka,2019,01,"Food & Beverages",135.7
+Melaka,2019,02,"Alcohol & Tobacco",169.6
+Melaka,2019,03,"Clothing & Footwear",79.23
+Melaka,2019,04,"Housing, Utilities & Fuel",124.61
+Melaka,2019,05,"Furnishings & Household Maintenance",118.22
+Melaka,2019,06,Health,119.59
+Melaka,2019,07,Transport,107.99
+Melaka,2019,08,"Information & Communication",95.99
+Melaka,2019,09,"Recreation, Sport & Culture",112.86
+Melaka,2019,10,Education,129.8
+Melaka,2019,11,"Restaurants & Accommodation",126.6
+Melaka,2019,12,"Insurance & Financial Services",110
+Melaka,2019,13,"Personal Care & Miscellaneous",112.76
+Melaka,2019,overall,"Overall CPI",120.35
+Melaka,2020,01,"Food & Beverages",136.7
+Melaka,2020,02,"Alcohol & Tobacco",168.96
+Melaka,2020,03,"Clothing & Footwear",77.78
+Melaka,2020,04,"Housing, Utilities & Fuel",120.46
+Melaka,2020,05,"Furnishings & Household Maintenance",117.8
+Melaka,2020,06,Health,120.42
+Melaka,2020,07,Transport,97.48
+Melaka,2020,08,"Information & Communication",97.8
+Melaka,2020,09,"Recreation, Sport & Culture",113.16
+Melaka,2020,10,Education,130.88
+Melaka,2020,11,"Restaurants & Accommodation",126.32
+Melaka,2020,12,"Insurance & Financial Services",110
+Melaka,2020,13,"Personal Care & Miscellaneous",114.72
+Melaka,2020,overall,"Overall CPI",118.08
+Melaka,2021,01,"Food & Beverages",138.64
+Melaka,2021,02,"Alcohol & Tobacco",169.48
+Melaka,2021,03,"Clothing & Footwear",76.38
+Melaka,2021,04,"Housing, Utilities & Fuel",123.38
+Melaka,2021,05,"Furnishings & Household Maintenance",119
+Melaka,2021,06,Health,119.53
+Melaka,2021,07,Transport,106.68
+Melaka,2021,08,"Information & Communication",97.78
+Melaka,2021,09,"Recreation, Sport & Culture",113.21
+Melaka,2021,10,Education,131.15
+Melaka,2021,11,"Restaurants & Accommodation",126.34
+Melaka,2021,12,"Insurance & Financial Services",110.29
+Melaka,2021,13,"Personal Care & Miscellaneous",115.05
+Melaka,2021,overall,"Overall CPI",120.86
+Melaka,2022,01,"Food & Beverages",145.05
+Melaka,2022,02,"Alcohol & Tobacco",170.28
+Melaka,2022,03,"Clothing & Footwear",74.92
+Melaka,2022,04,"Housing, Utilities & Fuel",125.86
+Melaka,2022,05,"Furnishings & Household Maintenance",123
+Melaka,2022,06,Health,120.55
+Melaka,2022,07,Transport,109.47
+Melaka,2022,08,"Information & Communication",97.7
+Melaka,2022,09,"Recreation, Sport & Culture",114.92
+Melaka,2022,10,Education,131.2
+Melaka,2022,11,"Restaurants & Accommodation",132.84
+Melaka,2022,12,"Insurance & Financial Services",111.25
+Melaka,2022,13,"Personal Care & Miscellaneous",117.16
+Melaka,2022,overall,"Overall CPI",124.19
+Melaka,2023,01,"Food & Beverages",151.8
+Melaka,2023,02,"Alcohol & Tobacco",171.07
+Melaka,2023,03,"Clothing & Footwear",74.32
+Melaka,2023,04,"Housing, Utilities & Fuel",127.74
+Melaka,2023,05,"Furnishings & Household Maintenance",125.9
+Melaka,2023,06,Health,123.1
+Melaka,2023,07,Transport,111.49
+Melaka,2023,08,"Information & Communication",96.04
+Melaka,2023,09,"Recreation, Sport & Culture",115.57
+Melaka,2023,10,Education,132.62
+Melaka,2023,11,"Restaurants & Accommodation",137.4
+Melaka,2023,12,"Insurance & Financial Services",112.56
+Melaka,2023,13,"Personal Care & Miscellaneous",119.48
+Melaka,2023,overall,"Overall CPI",127.16
+Melaka,2024,01,"Food & Beverages",153.42
+Melaka,2024,02,"Alcohol & Tobacco",171.52
+Melaka,2024,03,"Clothing & Footwear",74.69
+Melaka,2024,04,"Housing, Utilities & Fuel",131.42
+Melaka,2024,05,"Furnishings & Household Maintenance",127.12
+Melaka,2024,06,Health,124.98
+Melaka,2024,07,Transport,112.42
+Melaka,2024,08,"Information & Communication",95.27
+Melaka,2024,09,"Recreation, Sport & Culture",116.84
+Melaka,2024,10,Education,134.47
+Melaka,2024,11,"Restaurants & Accommodation",138.4
+Melaka,2024,12,"Insurance & Financial Services",112.6
+Melaka,2024,13,"Personal Care & Miscellaneous",123.48
+Melaka,2024,overall,"Overall CPI",128.86
+Melaka,2025,01,"Food & Beverages",157.11
+Melaka,2025,02,"Alcohol & Tobacco",173.08
+Melaka,2025,03,"Clothing & Footwear",73.49
+Melaka,2025,04,"Housing, Utilities & Fuel",133.88
+Melaka,2025,05,"Furnishings & Household Maintenance",127.5
+Melaka,2025,06,Health,126.28
+Melaka,2025,07,Transport,113.5
+Melaka,2025,08,"Information & Communication",91.21
+Melaka,2025,09,"Recreation, Sport & Culture",116.98
+Melaka,2025,10,Education,137.96
+Melaka,2025,11,"Restaurants & Accommodation",142.4
+Melaka,2025,12,"Insurance & Financial Services",116.2
+Melaka,2025,13,"Personal Care & Miscellaneous",130.08
+Melaka,2025,overall,"Overall CPI",130.78
+Melaka,2026,01,"Food & Beverages",159.88
+Melaka,2026,02,"Alcohol & Tobacco",176.39
+Melaka,2026,03,"Clothing & Footwear",71.91
+Melaka,2026,04,"Housing, Utilities & Fuel",136.01
+Melaka,2026,05,"Furnishings & Household Maintenance",126.76
+Melaka,2026,06,Health,128.73
+Melaka,2026,07,Transport,114.39
+Melaka,2026,08,"Information & Communication",92.21
+Melaka,2026,09,"Recreation, Sport & Culture",118.46
+Melaka,2026,10,Education,140.73
+Melaka,2026,11,"Restaurants & Accommodation",144.4
+Melaka,2026,12,"Insurance & Financial Services",120.2
+Melaka,2026,13,"Personal Care & Miscellaneous",137.29
+Melaka,2026,overall,"Overall CPI",132.86
+"Negeri Sembilan",2010,01,"Food & Beverages",99.99
+"Negeri Sembilan",2010,02,"Alcohol & Tobacco",100.01
+"Negeri Sembilan",2010,03,"Clothing & Footwear",100.01
+"Negeri Sembilan",2010,04,"Housing, Utilities & Fuel",100
+"Negeri Sembilan",2010,05,"Furnishings & Household Maintenance",99.99
+"Negeri Sembilan",2010,06,Health,99.99
+"Negeri Sembilan",2010,07,Transport,100.01
+"Negeri Sembilan",2010,08,"Information & Communication",100
+"Negeri Sembilan",2010,09,"Recreation, Sport & Culture",100
+"Negeri Sembilan",2010,10,Education,99.97
+"Negeri Sembilan",2010,11,"Restaurants & Accommodation",100.01
+"Negeri Sembilan",2010,12,"Insurance & Financial Services",100
+"Negeri Sembilan",2010,13,"Personal Care & Miscellaneous",99.99
+"Negeri Sembilan",2010,overall,"Overall CPI",100
+"Negeri Sembilan",2011,01,"Food & Beverages",105.75
+"Negeri Sembilan",2011,02,"Alcohol & Tobacco",104.8
+"Negeri Sembilan",2011,03,"Clothing & Footwear",99.85
+"Negeri Sembilan",2011,04,"Housing, Utilities & Fuel",101.71
+"Negeri Sembilan",2011,05,"Furnishings & Household Maintenance",101.88
+"Negeri Sembilan",2011,06,Health,103.04
+"Negeri Sembilan",2011,07,Transport,105.43
+"Negeri Sembilan",2011,08,"Information & Communication",100.13
+"Negeri Sembilan",2011,09,"Recreation, Sport & Culture",102.73
+"Negeri Sembilan",2011,10,Education,101.51
+"Negeri Sembilan",2011,11,"Restaurants & Accommodation",106.43
+"Negeri Sembilan",2011,12,"Insurance & Financial Services",100
+"Negeri Sembilan",2011,13,"Personal Care & Miscellaneous",101.19
+"Negeri Sembilan",2011,overall,"Overall CPI",103.74
+"Negeri Sembilan",2012,01,"Food & Beverages",107.61
+"Negeri Sembilan",2012,02,"Alcohol & Tobacco",104.87
+"Negeri Sembilan",2012,03,"Clothing & Footwear",98.57
+"Negeri Sembilan",2012,04,"Housing, Utilities & Fuel",103.32
+"Negeri Sembilan",2012,05,"Furnishings & Household Maintenance",104.92
+"Negeri Sembilan",2012,06,Health,103.59
+"Negeri Sembilan",2012,07,Transport,106.17
+"Negeri Sembilan",2012,08,"Information & Communication",99.62
+"Negeri Sembilan",2012,09,"Recreation, Sport & Culture",104.24
+"Negeri Sembilan",2012,10,Education,102.8
+"Negeri Sembilan",2012,11,"Restaurants & Accommodation",108.48
+"Negeri Sembilan",2012,12,"Insurance & Financial Services",100
+"Negeri Sembilan",2012,13,"Personal Care & Miscellaneous",102.4
+"Negeri Sembilan",2012,overall,"Overall CPI",105.07
+"Negeri Sembilan",2013,01,"Food & Beverages",111.01
+"Negeri Sembilan",2013,02,"Alcohol & Tobacco",111.23
+"Negeri Sembilan",2013,03,"Clothing & Footwear",98.02
+"Negeri Sembilan",2013,04,"Housing, Utilities & Fuel",105.11
+"Negeri Sembilan",2013,05,"Furnishings & Household Maintenance",106.77
+"Negeri Sembilan",2013,06,Health,105.76
+"Negeri Sembilan",2013,07,Transport,108.7
+"Negeri Sembilan",2013,08,"Information & Communication",99.17
+"Negeri Sembilan",2013,09,"Recreation, Sport & Culture",104.48
+"Negeri Sembilan",2013,10,Education,106.88
+"Negeri Sembilan",2013,11,"Restaurants & Accommodation",110.16
+"Negeri Sembilan",2013,12,"Insurance & Financial Services",100
+"Negeri Sembilan",2013,13,"Personal Care & Miscellaneous",102.06
+"Negeri Sembilan",2013,overall,"Overall CPI",107.3
+"Negeri Sembilan",2014,01,"Food & Beverages",113.82
+"Negeri Sembilan",2014,02,"Alcohol & Tobacco",124.48
+"Negeri Sembilan",2014,03,"Clothing & Footwear",98.26
+"Negeri Sembilan",2014,04,"Housing, Utilities & Fuel",107.28
+"Negeri Sembilan",2014,05,"Furnishings & Household Maintenance",107.73
+"Negeri Sembilan",2014,06,Health,108.64
+"Negeri Sembilan",2014,07,Transport,115.48
+"Negeri Sembilan",2014,08,"Information & Communication",98.59
+"Negeri Sembilan",2014,09,"Recreation, Sport & Culture",106.87
+"Negeri Sembilan",2014,10,Education,108.17
+"Negeri Sembilan",2014,11,"Restaurants & Accommodation",113.58
+"Negeri Sembilan",2014,12,"Insurance & Financial Services",100
+"Negeri Sembilan",2014,13,"Personal Care & Miscellaneous",102.11
+"Negeri Sembilan",2014,overall,"Overall CPI",110.43
+"Negeri Sembilan",2015,01,"Food & Beverages",118.95
+"Negeri Sembilan",2015,02,"Alcohol & Tobacco",141.82
+"Negeri Sembilan",2015,03,"Clothing & Footwear",99.79
+"Negeri Sembilan",2015,04,"Housing, Utilities & Fuel",110.98
+"Negeri Sembilan",2015,05,"Furnishings & Household Maintenance",110.67
+"Negeri Sembilan",2015,06,Health,113.38
+"Negeri Sembilan",2015,07,Transport,109.29
+"Negeri Sembilan",2015,08,"Information & Communication",100.58
+"Negeri Sembilan",2015,09,"Recreation, Sport & Culture",108.12
+"Negeri Sembilan",2015,10,Education,112.03
+"Negeri Sembilan",2015,11,"Restaurants & Accommodation",118.18
+"Negeri Sembilan",2015,12,"Insurance & Financial Services",100
+"Negeri Sembilan",2015,13,"Personal Care & Miscellaneous",104.99
+"Negeri Sembilan",2015,overall,"Overall CPI",113.16
+"Negeri Sembilan",2016,01,"Food & Beverages",124.14
+"Negeri Sembilan",2016,02,"Alcohol & Tobacco",165.8
+"Negeri Sembilan",2016,03,"Clothing & Footwear",100.91
+"Negeri Sembilan",2016,04,"Housing, Utilities & Fuel",113.33
+"Negeri Sembilan",2016,05,"Furnishings & Household Maintenance",112.07
+"Negeri Sembilan",2016,06,Health,117.01
+"Negeri Sembilan",2016,07,Transport,102.83
+"Negeri Sembilan",2016,08,"Information & Communication",99.6
+"Negeri Sembilan",2016,09,"Recreation, Sport & Culture",109.98
+"Negeri Sembilan",2016,10,Education,112.99
+"Negeri Sembilan",2016,11,"Restaurants & Accommodation",119.36
+"Negeri Sembilan",2016,12,"Insurance & Financial Services",100
+"Negeri Sembilan",2016,13,"Personal Care & Miscellaneous",107.39
+"Negeri Sembilan",2016,overall,"Overall CPI",115.41
+"Negeri Sembilan",2017,01,"Food & Beverages",128.58
+"Negeri Sembilan",2017,02,"Alcohol & Tobacco",165.88
+"Negeri Sembilan",2017,03,"Clothing & Footwear",102.08
+"Negeri Sembilan",2017,04,"Housing, Utilities & Fuel",116.28
+"Negeri Sembilan",2017,05,"Furnishings & Household Maintenance",114.33
+"Negeri Sembilan",2017,06,Health,120.74
+"Negeri Sembilan",2017,07,Transport,117.82
+"Negeri Sembilan",2017,08,"Information & Communication",99.57
+"Negeri Sembilan",2017,09,"Recreation, Sport & Culture",112.17
+"Negeri Sembilan",2017,10,Education,113.98
+"Negeri Sembilan",2017,11,"Restaurants & Accommodation",123.44
+"Negeri Sembilan",2017,12,"Insurance & Financial Services",100.64
+"Negeri Sembilan",2017,13,"Personal Care & Miscellaneous",108.88
+"Negeri Sembilan",2017,overall,"Overall CPI",120.22
+"Negeri Sembilan",2018,01,"Food & Beverages",130.55
+"Negeri Sembilan",2018,02,"Alcohol & Tobacco",166.55
+"Negeri Sembilan",2018,03,"Clothing & Footwear",101.58
+"Negeri Sembilan",2018,04,"Housing, Utilities & Fuel",118.22
+"Negeri Sembilan",2018,05,"Furnishings & Household Maintenance",114.84
+"Negeri Sembilan",2018,06,Health,123.41
+"Negeri Sembilan",2018,07,Transport,120.08
+"Negeri Sembilan",2018,08,"Information & Communication",98.72
+"Negeri Sembilan",2018,09,"Recreation, Sport & Culture",112.47
+"Negeri Sembilan",2018,10,Education,113.81
+"Negeri Sembilan",2018,11,"Restaurants & Accommodation",124.06
+"Negeri Sembilan",2018,12,"Insurance & Financial Services",101.19
+"Negeri Sembilan",2018,13,"Personal Care & Miscellaneous",108.62
+"Negeri Sembilan",2018,overall,"Overall CPI",121.63
+"Negeri Sembilan",2019,01,"Food & Beverages",132.51
+"Negeri Sembilan",2019,02,"Alcohol & Tobacco",170.3
+"Negeri Sembilan",2019,03,"Clothing & Footwear",100.06
+"Negeri Sembilan",2019,04,"Housing, Utilities & Fuel",120.28
+"Negeri Sembilan",2019,05,"Furnishings & Household Maintenance",115
+"Negeri Sembilan",2019,06,Health,125.05
+"Negeri Sembilan",2019,07,Transport,116.05
+"Negeri Sembilan",2019,08,"Information & Communication",100.05
+"Negeri Sembilan",2019,09,"Recreation, Sport & Culture",114.78
+"Negeri Sembilan",2019,10,Education,114.4
+"Negeri Sembilan",2019,11,"Restaurants & Accommodation",125.42
+"Negeri Sembilan",2019,12,"Insurance & Financial Services",101.6
+"Negeri Sembilan",2019,13,"Personal Care & Miscellaneous",109.36
+"Negeri Sembilan",2019,overall,"Overall CPI",122.48
+"Negeri Sembilan",2020,01,"Food & Beverages",134.1
+"Negeri Sembilan",2020,02,"Alcohol & Tobacco",170.29
+"Negeri Sembilan",2020,03,"Clothing & Footwear",99.54
+"Negeri Sembilan",2020,04,"Housing, Utilities & Fuel",116.58
+"Negeri Sembilan",2020,05,"Furnishings & Household Maintenance",114.97
+"Negeri Sembilan",2020,06,Health,125.89
+"Negeri Sembilan",2020,07,Transport,102.39
+"Negeri Sembilan",2020,08,"Information & Communication",102.6
+"Negeri Sembilan",2020,09,"Recreation, Sport & Culture",115.62
+"Negeri Sembilan",2020,10,Education,115.07
+"Negeri Sembilan",2020,11,"Restaurants & Accommodation",124.93
+"Negeri Sembilan",2020,12,"Insurance & Financial Services",101.6
+"Negeri Sembilan",2020,13,"Personal Care & Miscellaneous",111.06
+"Negeri Sembilan",2020,overall,"Overall CPI",120.5
+"Negeri Sembilan",2021,01,"Food & Beverages",136.22
+"Negeri Sembilan",2021,02,"Alcohol & Tobacco",170.62
+"Negeri Sembilan",2021,03,"Clothing & Footwear",99.39
+"Negeri Sembilan",2021,04,"Housing, Utilities & Fuel",119.64
+"Negeri Sembilan",2021,05,"Furnishings & Household Maintenance",116.08
+"Negeri Sembilan",2021,06,Health,126.12
+"Negeri Sembilan",2021,07,Transport,114.38
+"Negeri Sembilan",2021,08,"Information & Communication",102.6
+"Negeri Sembilan",2021,09,"Recreation, Sport & Culture",115.58
+"Negeri Sembilan",2021,10,Education,114.86
+"Negeri Sembilan",2021,11,"Restaurants & Accommodation",124.97
+"Negeri Sembilan",2021,12,"Insurance & Financial Services",101.6
+"Negeri Sembilan",2021,13,"Personal Care & Miscellaneous",111.22
+"Negeri Sembilan",2021,overall,"Overall CPI",123.59
+"Negeri Sembilan",2022,01,"Food & Beverages",142.75
+"Negeri Sembilan",2022,02,"Alcohol & Tobacco",171.04
+"Negeri Sembilan",2022,03,"Clothing & Footwear",99.76
+"Negeri Sembilan",2022,04,"Housing, Utilities & Fuel",121.91
+"Negeri Sembilan",2022,05,"Furnishings & Household Maintenance",118.73
+"Negeri Sembilan",2022,06,Health,127.36
+"Negeri Sembilan",2022,07,Transport,117.93
+"Negeri Sembilan",2022,08,"Information & Communication",102.6
+"Negeri Sembilan",2022,09,"Recreation, Sport & Culture",117.02
+"Negeri Sembilan",2022,10,Education,115.1
+"Negeri Sembilan",2022,11,"Restaurants & Accommodation",129.74
+"Negeri Sembilan",2022,12,"Insurance & Financial Services",101.6
+"Negeri Sembilan",2022,13,"Personal Care & Miscellaneous",112.11
+"Negeri Sembilan",2022,overall,"Overall CPI",126.98
+"Negeri Sembilan",2023,01,"Food & Beverages",149.22
+"Negeri Sembilan",2023,02,"Alcohol & Tobacco",171.83
+"Negeri Sembilan",2023,03,"Clothing & Footwear",100.06
+"Negeri Sembilan",2023,04,"Housing, Utilities & Fuel",123.37
+"Negeri Sembilan",2023,05,"Furnishings & Household Maintenance",120.53
+"Negeri Sembilan",2023,06,Health,128.83
+"Negeri Sembilan",2023,07,Transport,118.55
+"Negeri Sembilan",2023,08,"Information & Communication",99.19
+"Negeri Sembilan",2023,09,"Recreation, Sport & Culture",117.48
+"Negeri Sembilan",2023,10,Education,116.14
+"Negeri Sembilan",2023,11,"Restaurants & Accommodation",133.09
+"Negeri Sembilan",2023,12,"Insurance & Financial Services",101.6
+"Negeri Sembilan",2023,13,"Personal Care & Miscellaneous",113.42
+"Negeri Sembilan",2023,overall,"Overall CPI",129.47
+"Negeri Sembilan",2024,01,"Food & Beverages",150.96
+"Negeri Sembilan",2024,02,"Alcohol & Tobacco",172.86
+"Negeri Sembilan",2024,03,"Clothing & Footwear",100.18
+"Negeri Sembilan",2024,04,"Housing, Utilities & Fuel",126.28
+"Negeri Sembilan",2024,05,"Furnishings & Household Maintenance",121.33
+"Negeri Sembilan",2024,06,Health,129.49
+"Negeri Sembilan",2024,07,Transport,119.09
+"Negeri Sembilan",2024,08,"Information & Communication",97.62
+"Negeri Sembilan",2024,09,"Recreation, Sport & Culture",120.84
+"Negeri Sembilan",2024,10,Education,117.58
+"Negeri Sembilan",2024,11,"Restaurants & Accommodation",136.85
+"Negeri Sembilan",2024,12,"Insurance & Financial Services",101.6
+"Negeri Sembilan",2024,13,"Personal Care & Miscellaneous",115.61
+"Negeri Sembilan",2024,overall,"Overall CPI",131.07
+"Negeri Sembilan",2025,01,"Food & Beverages",155.75
+"Negeri Sembilan",2025,02,"Alcohol & Tobacco",174.99
+"Negeri Sembilan",2025,03,"Clothing & Footwear",101.58
+"Negeri Sembilan",2025,04,"Housing, Utilities & Fuel",127.78
+"Negeri Sembilan",2025,05,"Furnishings & Household Maintenance",122.4
+"Negeri Sembilan",2025,06,Health,131.17
+"Negeri Sembilan",2025,07,Transport,119.9
+"Negeri Sembilan",2025,08,"Information & Communication",93.52
+"Negeri Sembilan",2025,09,"Recreation, Sport & Culture",123.28
+"Negeri Sembilan",2025,10,Education,120.29
+"Negeri Sembilan",2025,11,"Restaurants & Accommodation",143.34
+"Negeri Sembilan",2025,12,"Insurance & Financial Services",102.2
+"Negeri Sembilan",2025,13,"Personal Care & Miscellaneous",120.27
+"Negeri Sembilan",2025,overall,"Overall CPI",133.27
+"Negeri Sembilan",2026,01,"Food & Beverages",159.41
+"Negeri Sembilan",2026,02,"Alcohol & Tobacco",179.58
+"Negeri Sembilan",2026,03,"Clothing & Footwear",102.8
+"Negeri Sembilan",2026,04,"Housing, Utilities & Fuel",130.51
+"Negeri Sembilan",2026,05,"Furnishings & Household Maintenance",122.22
+"Negeri Sembilan",2026,06,Health,133.82
+"Negeri Sembilan",2026,07,Transport,122.78
+"Negeri Sembilan",2026,08,"Information & Communication",95.74
+"Negeri Sembilan",2026,09,"Recreation, Sport & Culture",125.33
+"Negeri Sembilan",2026,10,Education,121.41
+"Negeri Sembilan",2026,11,"Restaurants & Accommodation",146.43
+"Negeri Sembilan",2026,12,"Insurance & Financial Services",102.84
+"Negeri Sembilan",2026,13,"Personal Care & Miscellaneous",124.14
+"Negeri Sembilan",2026,overall,"Overall CPI",136.07
+Pahang,2010,01,"Food & Beverages",100.01
+Pahang,2010,02,"Alcohol & Tobacco",99.99
+Pahang,2010,03,"Clothing & Footwear",100.02
+Pahang,2010,04,"Housing, Utilities & Fuel",100
+Pahang,2010,05,"Furnishings & Household Maintenance",99.99
+Pahang,2010,06,Health,99.98
+Pahang,2010,07,Transport,100
+Pahang,2010,08,"Information & Communication",100
+Pahang,2010,09,"Recreation, Sport & Culture",100.01
+Pahang,2010,10,Education,99.98
+Pahang,2010,11,"Restaurants & Accommodation",99.99
+Pahang,2010,12,"Insurance & Financial Services",100
+Pahang,2010,13,"Personal Care & Miscellaneous",100
+Pahang,2010,overall,"Overall CPI",99.99
+Pahang,2011,01,"Food & Beverages",104.82
+Pahang,2011,02,"Alcohol & Tobacco",105.18
+Pahang,2011,03,"Clothing & Footwear",99.96
+Pahang,2011,04,"Housing, Utilities & Fuel",101.4
+Pahang,2011,05,"Furnishings & Household Maintenance",100.56
+Pahang,2011,06,Health,102.28
+Pahang,2011,07,Transport,103.64
+Pahang,2011,08,"Information & Communication",99.54
+Pahang,2011,09,"Recreation, Sport & Culture",101.3
+Pahang,2011,10,Education,101.07
+Pahang,2011,11,"Restaurants & Accommodation",104.5
+Pahang,2011,12,"Insurance & Financial Services",100.2
+Pahang,2011,13,"Personal Care & Miscellaneous",104.61
+Pahang,2011,overall,"Overall CPI",103.05
+Pahang,2012,01,"Food & Beverages",108.16
+Pahang,2012,02,"Alcohol & Tobacco",105.68
+Pahang,2012,03,"Clothing & Footwear",100.62
+Pahang,2012,04,"Housing, Utilities & Fuel",102.82
+Pahang,2012,05,"Furnishings & Household Maintenance",103.6
+Pahang,2012,06,Health,104.75
+Pahang,2012,07,Transport,104.28
+Pahang,2012,08,"Information & Communication",98.87
+Pahang,2012,09,"Recreation, Sport & Culture",101.61
+Pahang,2012,10,Education,103.18
+Pahang,2012,11,"Restaurants & Accommodation",106.32
+Pahang,2012,12,"Insurance & Financial Services",102.18
+Pahang,2012,13,"Personal Care & Miscellaneous",107.98
+Pahang,2012,overall,"Overall CPI",104.97
+Pahang,2013,01,"Food & Beverages",112.98
+Pahang,2013,02,"Alcohol & Tobacco",112.53
+Pahang,2013,03,"Clothing & Footwear",101.51
+Pahang,2013,04,"Housing, Utilities & Fuel",104.75
+Pahang,2013,05,"Furnishings & Household Maintenance",106.76
+Pahang,2013,06,Health,107.32
+Pahang,2013,07,Transport,106.17
+Pahang,2013,08,"Information & Communication",97.8
+Pahang,2013,09,"Recreation, Sport & Culture",101.22
+Pahang,2013,10,Education,105.72
+Pahang,2013,11,"Restaurants & Accommodation",108.78
+Pahang,2013,12,"Insurance & Financial Services",101.96
+Pahang,2013,13,"Personal Care & Miscellaneous",106.11
+Pahang,2013,overall,"Overall CPI",107.42
+Pahang,2014,01,"Food & Beverages",117.28
+Pahang,2014,02,"Alcohol & Tobacco",126.92
+Pahang,2014,03,"Clothing & Footwear",100.97
+Pahang,2014,04,"Housing, Utilities & Fuel",107.57
+Pahang,2014,05,"Furnishings & Household Maintenance",108.28
+Pahang,2014,06,Health,109.59
+Pahang,2014,07,Transport,110.8
+Pahang,2014,08,"Information & Communication",97.08
+Pahang,2014,09,"Recreation, Sport & Culture",103.07
+Pahang,2014,10,Education,108.72
+Pahang,2014,11,"Restaurants & Accommodation",112.28
+Pahang,2014,12,"Insurance & Financial Services",103.52
+Pahang,2014,13,"Personal Care & Miscellaneous",105.32
+Pahang,2014,overall,"Overall CPI",110.58
+Pahang,2015,01,"Food & Beverages",121.32
+Pahang,2015,02,"Alcohol & Tobacco",145.06
+Pahang,2015,03,"Clothing & Footwear",99.89
+Pahang,2015,04,"Housing, Utilities & Fuel",109.59
+Pahang,2015,05,"Furnishings & Household Maintenance",111.18
+Pahang,2015,06,Health,113.4
+Pahang,2015,07,Transport,105.58
+Pahang,2015,08,"Information & Communication",98.96
+Pahang,2015,09,"Recreation, Sport & Culture",103.62
+Pahang,2015,10,Education,111.74
+Pahang,2015,11,"Restaurants & Accommodation",115.68
+Pahang,2015,12,"Insurance & Financial Services",106
+Pahang,2015,13,"Personal Care & Miscellaneous",108.83
+Pahang,2015,overall,"Overall CPI",112.38
+Pahang,2016,01,"Food & Beverages",125.72
+Pahang,2016,02,"Alcohol & Tobacco",171.72
+Pahang,2016,03,"Clothing & Footwear",98.9
+Pahang,2016,04,"Housing, Utilities & Fuel",112.42
+Pahang,2016,05,"Furnishings & Household Maintenance",113.74
+Pahang,2016,06,Health,116.19
+Pahang,2016,07,Transport,100.05
+Pahang,2016,08,"Information & Communication",96.9
+Pahang,2016,09,"Recreation, Sport & Culture",104.72
+Pahang,2016,10,Education,114.37
+Pahang,2016,11,"Restaurants & Accommodation",116.92
+Pahang,2016,12,"Insurance & Financial Services",107.39
+Pahang,2016,13,"Personal Care & Miscellaneous",111.42
+Pahang,2016,overall,"Overall CPI",114.42
+Pahang,2017,01,"Food & Beverages",128.92
+Pahang,2017,02,"Alcohol & Tobacco",171.72
+Pahang,2017,03,"Clothing & Footwear",98.07
+Pahang,2017,04,"Housing, Utilities & Fuel",114.36
+Pahang,2017,05,"Furnishings & Household Maintenance",115.84
+Pahang,2017,06,Health,117.88
+Pahang,2017,07,Transport,113.42
+Pahang,2017,08,"Information & Communication",96.9
+Pahang,2017,09,"Recreation, Sport & Culture",106.33
+Pahang,2017,10,Education,115.79
+Pahang,2017,11,"Restaurants & Accommodation",119.41
+Pahang,2017,12,"Insurance & Financial Services",107.6
+Pahang,2017,13,"Personal Care & Miscellaneous",112.47
+Pahang,2017,overall,"Overall CPI",117.98
+Pahang,2018,01,"Food & Beverages",130.33
+Pahang,2018,02,"Alcohol & Tobacco",172.12
+Pahang,2018,03,"Clothing & Footwear",96.35
+Pahang,2018,04,"Housing, Utilities & Fuel",115.53
+Pahang,2018,05,"Furnishings & Household Maintenance",116.05
+Pahang,2018,06,Health,118.36
+Pahang,2018,07,Transport,114.83
+Pahang,2018,08,"Information & Communication",96.43
+Pahang,2018,09,"Recreation, Sport & Culture",105.82
+Pahang,2018,10,Education,116.72
+Pahang,2018,11,"Restaurants & Accommodation",120.62
+Pahang,2018,12,"Insurance & Financial Services",107.6
+Pahang,2018,13,"Personal Care & Miscellaneous",111.83
+Pahang,2018,overall,"Overall CPI",118.69
+Pahang,2019,01,"Food & Beverages",131.54
+Pahang,2019,02,"Alcohol & Tobacco",175.66
+Pahang,2019,03,"Clothing & Footwear",95.18
+Pahang,2019,04,"Housing, Utilities & Fuel",117.17
+Pahang,2019,05,"Furnishings & Household Maintenance",116.4
+Pahang,2019,06,Health,119.6
+Pahang,2019,07,Transport,110.45
+Pahang,2019,08,"Information & Communication",98.58
+Pahang,2019,09,"Recreation, Sport & Culture",106.72
+Pahang,2019,10,Education,117.99
+Pahang,2019,11,"Restaurants & Accommodation",120.71
+Pahang,2019,12,"Insurance & Financial Services",107.6
+Pahang,2019,13,"Personal Care & Miscellaneous",111.55
+Pahang,2019,overall,"Overall CPI",119
+Pahang,2020,01,"Food & Beverages",133.3
+Pahang,2020,02,"Alcohol & Tobacco",176.1
+Pahang,2020,03,"Clothing & Footwear",94.87
+Pahang,2020,04,"Housing, Utilities & Fuel",113.62
+Pahang,2020,05,"Furnishings & Household Maintenance",117.22
+Pahang,2020,06,Health,121.27
+Pahang,2020,07,Transport,97.06
+Pahang,2020,08,"Information & Communication",104.3
+Pahang,2020,09,"Recreation, Sport & Culture",107.49
+Pahang,2020,10,Education,120.4
+Pahang,2020,11,"Restaurants & Accommodation",120.72
+Pahang,2020,12,"Insurance & Financial Services",107.6
+Pahang,2020,13,"Personal Care & Miscellaneous",113.82
+Pahang,2020,overall,"Overall CPI",117.6
+Pahang,2021,01,"Food & Beverages",136.26
+Pahang,2021,02,"Alcohol & Tobacco",176.6
+Pahang,2021,03,"Clothing & Footwear",94.92
+Pahang,2021,04,"Housing, Utilities & Fuel",116.58
+Pahang,2021,05,"Furnishings & Household Maintenance",118.75
+Pahang,2021,06,Health,121.27
+Pahang,2021,07,Transport,109.91
+Pahang,2021,08,"Information & Communication",104.3
+Pahang,2021,09,"Recreation, Sport & Culture",107.68
+Pahang,2021,10,Education,120.88
+Pahang,2021,11,"Restaurants & Accommodation",120.58
+Pahang,2021,12,"Insurance & Financial Services",107.69
+Pahang,2021,13,"Personal Care & Miscellaneous",114.88
+Pahang,2021,overall,"Overall CPI",121.08
+Pahang,2022,01,"Food & Beverages",142.99
+Pahang,2022,02,"Alcohol & Tobacco",177.05
+Pahang,2022,03,"Clothing & Footwear",95.12
+Pahang,2022,04,"Housing, Utilities & Fuel",118.7
+Pahang,2022,05,"Furnishings & Household Maintenance",123.47
+Pahang,2022,06,Health,121.43
+Pahang,2022,07,Transport,114.55
+Pahang,2022,08,"Information & Communication",104.25
+Pahang,2022,09,"Recreation, Sport & Culture",108.9
+Pahang,2022,10,Education,121.12
+Pahang,2022,11,"Restaurants & Accommodation",125.05
+Pahang,2022,12,"Insurance & Financial Services",107.78
+Pahang,2022,13,"Personal Care & Miscellaneous",116.72
+Pahang,2022,overall,"Overall CPI",124.68
+Pahang,2023,01,"Food & Beverages",149.98
+Pahang,2023,02,"Alcohol & Tobacco",177.65
+Pahang,2023,03,"Clothing & Footwear",95.17
+Pahang,2023,04,"Housing, Utilities & Fuel",119.94
+Pahang,2023,05,"Furnishings & Household Maintenance",128.55
+Pahang,2023,06,Health,124.76
+Pahang,2023,07,Transport,116.72
+Pahang,2023,08,"Information & Communication",102.07
+Pahang,2023,09,"Recreation, Sport & Culture",109.82
+Pahang,2023,10,Education,122.55
+Pahang,2023,11,"Restaurants & Accommodation",134.04
+Pahang,2023,12,"Insurance & Financial Services",107.9
+Pahang,2023,13,"Personal Care & Miscellaneous",119.42
+Pahang,2023,overall,"Overall CPI",128.02
+Pahang,2024,01,"Food & Beverages",153
+Pahang,2024,02,"Alcohol & Tobacco",178.09
+Pahang,2024,03,"Clothing & Footwear",94.12
+Pahang,2024,04,"Housing, Utilities & Fuel",128.18
+Pahang,2024,05,"Furnishings & Household Maintenance",130.18
+Pahang,2024,06,Health,126.23
+Pahang,2024,07,Transport,118.11
+Pahang,2024,08,"Information & Communication",100.85
+Pahang,2024,09,"Recreation, Sport & Culture",110.78
+Pahang,2024,10,Education,123.69
+Pahang,2024,11,"Restaurants & Accommodation",138.57
+Pahang,2024,12,"Insurance & Financial Services",107.9
+Pahang,2024,13,"Personal Care & Miscellaneous",122.67
+Pahang,2024,overall,"Overall CPI",131.12
+Pahang,2025,01,"Food & Beverages",156.11
+Pahang,2025,02,"Alcohol & Tobacco",179.39
+Pahang,2025,03,"Clothing & Footwear",91.8
+Pahang,2025,04,"Housing, Utilities & Fuel",129.74
+Pahang,2025,05,"Furnishings & Household Maintenance",130.42
+Pahang,2025,06,Health,127.72
+Pahang,2025,07,Transport,118.13
+Pahang,2025,08,"Information & Communication",97.46
+Pahang,2025,09,"Recreation, Sport & Culture",112.18
+Pahang,2025,10,Education,124.92
+Pahang,2025,11,"Restaurants & Accommodation",142.12
+Pahang,2025,12,"Insurance & Financial Services",112
+Pahang,2025,13,"Personal Care & Miscellaneous",129.08
+Pahang,2025,overall,"Overall CPI",132.69
+Pahang,2026,01,"Food & Beverages",159.38
+Pahang,2026,02,"Alcohol & Tobacco",184.73
+Pahang,2026,03,"Clothing & Footwear",92.13
+Pahang,2026,04,"Housing, Utilities & Fuel",132.8
+Pahang,2026,05,"Furnishings & Household Maintenance",131.4
+Pahang,2026,06,Health,129.73
+Pahang,2026,07,Transport,119.52
+Pahang,2026,08,"Information & Communication",98.88
+Pahang,2026,09,"Recreation, Sport & Culture",112.81
+Pahang,2026,10,Education,127.64
+Pahang,2026,11,"Restaurants & Accommodation",144.39
+Pahang,2026,12,"Insurance & Financial Services",116.5
+Pahang,2026,13,"Personal Care & Miscellaneous",136.88
+Pahang,2026,overall,"Overall CPI",135.54
+Perak,2010,01,"Food & Beverages",100.01
+Perak,2010,02,"Alcohol & Tobacco",99.99
+Perak,2010,03,"Clothing & Footwear",99.99
+Perak,2010,04,"Housing, Utilities & Fuel",100.02
+Perak,2010,05,"Furnishings & Household Maintenance",99.98
+Perak,2010,06,Health,99.99
+Perak,2010,07,Transport,100.02
+Perak,2010,08,"Information & Communication",99.99
+Perak,2010,09,"Recreation, Sport & Culture",100
+Perak,2010,10,Education,100
+Perak,2010,11,"Restaurants & Accommodation",100.01
+Perak,2010,12,"Insurance & Financial Services",99.95
+Perak,2010,13,"Personal Care & Miscellaneous",100.01
+Perak,2010,overall,"Overall CPI",100
+Perak,2011,01,"Food & Beverages",104.52
+Perak,2011,02,"Alcohol & Tobacco",104.51
+Perak,2011,03,"Clothing & Footwear",99.19
+Perak,2011,04,"Housing, Utilities & Fuel",101.71
+Perak,2011,05,"Furnishings & Household Maintenance",102.02
+Perak,2011,06,Health,101.68
+Perak,2011,07,Transport,103.43
+Perak,2011,08,"Information & Communication",99.43
+Perak,2011,09,"Recreation, Sport & Culture",101.45
+Perak,2011,10,Education,103.02
+Perak,2011,11,"Restaurants & Accommodation",104.6
+Perak,2011,12,"Insurance & Financial Services",101.2
+Perak,2011,13,"Personal Care & Miscellaneous",103.14
+Perak,2011,overall,"Overall CPI",103.01
+Perak,2012,01,"Food & Beverages",106.32
+Perak,2012,02,"Alcohol & Tobacco",105.21
+Perak,2012,03,"Clothing & Footwear",98.68
+Perak,2012,04,"Housing, Utilities & Fuel",103.25
+Perak,2012,05,"Furnishings & Household Maintenance",103.88
+Perak,2012,06,Health,103.81
+Perak,2012,07,Transport,104.09
+Perak,2012,08,"Information & Communication",98.43
+Perak,2012,09,"Recreation, Sport & Culture",101.52
+Perak,2012,10,Education,104.3
+Perak,2012,11,"Restaurants & Accommodation",107.37
+Perak,2012,12,"Insurance & Financial Services",100.74
+Perak,2012,13,"Personal Care & Miscellaneous",105.07
+Perak,2012,overall,"Overall CPI",104.26
+Perak,2013,01,"Food & Beverages",109.41
+Perak,2013,02,"Alcohol & Tobacco",111.14
+Perak,2013,03,"Clothing & Footwear",97.93
+Perak,2013,04,"Housing, Utilities & Fuel",105.08
+Perak,2013,05,"Furnishings & Household Maintenance",105.66
+Perak,2013,06,Health,105.08
+Perak,2013,07,Transport,106.17
+Perak,2013,08,"Information & Communication",97.88
+Perak,2013,09,"Recreation, Sport & Culture",101.56
+Perak,2013,10,Education,105.8
+Perak,2013,11,"Restaurants & Accommodation",109.72
+Perak,2013,12,"Insurance & Financial Services",101.43
+Perak,2013,13,"Personal Care & Miscellaneous",104.78
+Perak,2013,overall,"Overall CPI",106.23
+Perak,2014,01,"Food & Beverages",111.92
+Perak,2014,02,"Alcohol & Tobacco",123.6
+Perak,2014,03,"Clothing & Footwear",97.49
+Perak,2014,04,"Housing, Utilities & Fuel",108.22
+Perak,2014,05,"Furnishings & Household Maintenance",105.88
+Perak,2014,06,Health,106.91
+Perak,2014,07,Transport,111
+Perak,2014,08,"Information & Communication",97.44
+Perak,2014,09,"Recreation, Sport & Culture",103.21
+Perak,2014,10,Education,107.88
+Perak,2014,11,"Restaurants & Accommodation",114.28
+Perak,2014,12,"Insurance & Financial Services",103.83
+Perak,2014,13,"Personal Care & Miscellaneous",105.73
+Perak,2014,overall,"Overall CPI",109.05
+Perak,2015,01,"Food & Beverages",115.54
+Perak,2015,02,"Alcohol & Tobacco",139.81
+Perak,2015,03,"Clothing & Footwear",96.86
+Perak,2015,04,"Housing, Utilities & Fuel",110.12
+Perak,2015,05,"Furnishings & Household Maintenance",108.94
+Perak,2015,06,Health,110.75
+Perak,2015,07,Transport,105.6
+Perak,2015,08,"Information & Communication",100.61
+Perak,2015,09,"Recreation, Sport & Culture",104.16
+Perak,2015,10,Education,110.81
+Perak,2015,11,"Restaurants & Accommodation",119.18
+Perak,2015,12,"Insurance & Financial Services",108.65
+Perak,2015,13,"Personal Care & Miscellaneous",109.98
+Perak,2015,overall,"Overall CPI",110.82
+Perak,2016,01,"Food & Beverages",119.11
+Perak,2016,02,"Alcohol & Tobacco",162.75
+Perak,2016,03,"Clothing & Footwear",95.57
+Perak,2016,04,"Housing, Utilities & Fuel",111.59
+Perak,2016,05,"Furnishings & Household Maintenance",111.38
+Perak,2016,06,Health,113.48
+Perak,2016,07,Transport,100.32
+Perak,2016,08,"Information & Communication",99.5
+Perak,2016,09,"Recreation, Sport & Culture",106.24
+Perak,2016,10,Education,111.81
+Perak,2016,11,"Restaurants & Accommodation",122.27
+Perak,2016,12,"Insurance & Financial Services",110.38
+Perak,2016,13,"Personal Care & Miscellaneous",112.52
+Perak,2016,overall,"Overall CPI",112.34
+Perak,2017,01,"Food & Beverages",122.97
+Perak,2017,02,"Alcohol & Tobacco",162.29
+Perak,2017,03,"Clothing & Footwear",95.42
+Perak,2017,04,"Housing, Utilities & Fuel",112.59
+Perak,2017,05,"Furnishings & Household Maintenance",113.32
+Perak,2017,06,Health,115.44
+Perak,2017,07,Transport,113.32
+Perak,2017,08,"Information & Communication",99.5
+Perak,2017,09,"Recreation, Sport & Culture",108.25
+Perak,2017,10,Education,112.72
+Perak,2017,11,"Restaurants & Accommodation",124.68
+Perak,2017,12,"Insurance & Financial Services",110.9
+Perak,2017,13,"Personal Care & Miscellaneous",113.78
+Perak,2017,overall,"Overall CPI",116.01
+Perak,2018,01,"Food & Beverages",124.31
+Perak,2018,02,"Alcohol & Tobacco",161.9
+Perak,2018,03,"Clothing & Footwear",93.62
+Perak,2018,04,"Housing, Utilities & Fuel",113.47
+Perak,2018,05,"Furnishings & Household Maintenance",113.72
+Perak,2018,06,Health,116.76
+Perak,2018,07,Transport,115.24
+Perak,2018,08,"Information & Communication",98.99
+Perak,2018,09,"Recreation, Sport & Culture",107.73
+Perak,2018,10,Education,114.13
+Perak,2018,11,"Restaurants & Accommodation",125.76
+Perak,2018,12,"Insurance & Financial Services",112.2
+Perak,2018,13,"Personal Care & Miscellaneous",113.19
+Perak,2018,overall,"Overall CPI",116.79
+Perak,2019,01,"Food & Beverages",126.21
+Perak,2019,02,"Alcohol & Tobacco",165.66
+Perak,2019,03,"Clothing & Footwear",92.38
+Perak,2019,04,"Housing, Utilities & Fuel",114.82
+Perak,2019,05,"Furnishings & Household Maintenance",114.67
+Perak,2019,06,Health,118.02
+Perak,2019,07,Transport,111.28
+Perak,2019,08,"Information & Communication",99.98
+Perak,2019,09,"Recreation, Sport & Culture",108.54
+Perak,2019,10,Education,113.71
+Perak,2019,11,"Restaurants & Accommodation",126.18
+Perak,2019,12,"Insurance & Financial Services",116.5
+Perak,2019,13,"Personal Care & Miscellaneous",115.62
+Perak,2019,overall,"Overall CPI",117.49
+Perak,2020,01,"Food & Beverages",128.16
+Perak,2020,02,"Alcohol & Tobacco",166.69
+Perak,2020,03,"Clothing & Footwear",92.07
+Perak,2020,04,"Housing, Utilities & Fuel",110.88
+Perak,2020,05,"Furnishings & Household Maintenance",114.92
+Perak,2020,06,Health,119.58
+Perak,2020,07,Transport,99.29
+Perak,2020,08,"Information & Communication",101.7
+Perak,2020,09,"Recreation, Sport & Culture",109.15
+Perak,2020,10,Education,114.17
+Perak,2020,11,"Restaurants & Accommodation",126.49
+Perak,2020,12,"Insurance & Financial Services",116.5
+Perak,2020,13,"Personal Care & Miscellaneous",118.28
+Perak,2020,overall,"Overall CPI",115.99
+Perak,2021,01,"Food & Beverages",130.5
+Perak,2021,02,"Alcohol & Tobacco",167.51
+Perak,2021,03,"Clothing & Footwear",91.58
+Perak,2021,04,"Housing, Utilities & Fuel",113.58
+Perak,2021,05,"Furnishings & Household Maintenance",117.02
+Perak,2021,06,Health,120.98
+Perak,2021,07,Transport,110.86
+Perak,2021,08,"Information & Communication",101.7
+Perak,2021,09,"Recreation, Sport & Culture",109.34
+Perak,2021,10,Education,114.57
+Perak,2021,11,"Restaurants & Accommodation",127.96
+Perak,2021,12,"Insurance & Financial Services",116.5
+Perak,2021,13,"Personal Care & Miscellaneous",118.67
+Perak,2021,overall,"Overall CPI",119.1
+Perak,2022,01,"Food & Beverages",137.53
+Perak,2022,02,"Alcohol & Tobacco",168.23
+Perak,2022,03,"Clothing & Footwear",91.79
+Perak,2022,04,"Housing, Utilities & Fuel",115.89
+Perak,2022,05,"Furnishings & Household Maintenance",120.93
+Perak,2022,06,Health,123.68
+Perak,2022,07,Transport,114.82
+Perak,2022,08,"Information & Communication",101.7
+Perak,2022,09,"Recreation, Sport & Culture",111.75
+Perak,2022,10,Education,114.99
+Perak,2022,11,"Restaurants & Accommodation",134.11
+Perak,2022,12,"Insurance & Financial Services",116.5
+Perak,2022,13,"Personal Care & Miscellaneous",120.26
+Perak,2022,overall,"Overall CPI",122.95
+Perak,2023,01,"Food & Beverages",144.07
+Perak,2023,02,"Alcohol & Tobacco",169.62
+Perak,2023,03,"Clothing & Footwear",92.01
+Perak,2023,04,"Housing, Utilities & Fuel",117.72
+Perak,2023,05,"Furnishings & Household Maintenance",123.67
+Perak,2023,06,Health,126.55
+Perak,2023,07,Transport,116.94
+Perak,2023,08,"Information & Communication",99.14
+Perak,2023,09,"Recreation, Sport & Culture",115.98
+Perak,2023,10,Education,116.71
+Perak,2023,11,"Restaurants & Accommodation",142.02
+Perak,2023,12,"Insurance & Financial Services",116.5
+Perak,2023,13,"Personal Care & Miscellaneous",122.9
+Perak,2023,overall,"Overall CPI",126.37
+Perak,2024,01,"Food & Beverages",144.96
+Perak,2024,02,"Alcohol & Tobacco",170.71
+Perak,2024,03,"Clothing & Footwear",90.76
+Perak,2024,04,"Housing, Utilities & Fuel",120.22
+Perak,2024,05,"Furnishings & Household Maintenance",123.94
+Perak,2024,06,Health,127.69
+Perak,2024,07,Transport,118.04
+Perak,2024,08,"Information & Communication",98.18
+Perak,2024,09,"Recreation, Sport & Culture",117.45
+Perak,2024,10,Education,118.37
+Perak,2024,11,"Restaurants & Accommodation",146.79
+Perak,2024,12,"Insurance & Financial Services",116.5
+Perak,2024,13,"Personal Care & Miscellaneous",126.6
+Perak,2024,overall,"Overall CPI",127.73
+Perak,2025,01,"Food & Beverages",146.52
+Perak,2025,02,"Alcohol & Tobacco",172.5
+Perak,2025,03,"Clothing & Footwear",90.21
+Perak,2025,04,"Housing, Utilities & Fuel",120.93
+Perak,2025,05,"Furnishings & Household Maintenance",123.73
+Perak,2025,06,Health,128.33
+Perak,2025,07,Transport,118.6
+Perak,2025,08,"Information & Communication",95.82
+Perak,2025,09,"Recreation, Sport & Culture",117.72
+Perak,2025,10,Education,120.13
+Perak,2025,11,"Restaurants & Accommodation",149.62
+Perak,2025,12,"Insurance & Financial Services",119.7
+Perak,2025,13,"Personal Care & Miscellaneous",133.1
+Perak,2025,overall,"Overall CPI",128.81
+Perak,2026,01,"Food & Beverages",148.03
+Perak,2026,02,"Alcohol & Tobacco",176.81
+Perak,2026,03,"Clothing & Footwear",90.03
+Perak,2026,04,"Housing, Utilities & Fuel",121.64
+Perak,2026,05,"Furnishings & Household Maintenance",123.47
+Perak,2026,06,Health,128.2
+Perak,2026,07,Transport,119.37
+Perak,2026,08,"Information & Communication",97.41
+Perak,2026,09,"Recreation, Sport & Culture",118.41
+Perak,2026,10,Education,121.63
+Perak,2026,11,"Restaurants & Accommodation",150.79
+Perak,2026,12,"Insurance & Financial Services",123.21
+Perak,2026,13,"Personal Care & Miscellaneous",138.27
+Perak,2026,overall,"Overall CPI",130.21
+Perlis,2010,01,"Food & Beverages",100.01
+Perlis,2010,02,"Alcohol & Tobacco",100.02
+Perlis,2010,03,"Clothing & Footwear",99.99
+Perlis,2010,04,"Housing, Utilities & Fuel",100
+Perlis,2010,05,"Furnishings & Household Maintenance",100.01
+Perlis,2010,06,Health,100.01
+Perlis,2010,07,Transport,100.02
+Perlis,2010,08,"Information & Communication",99.98
+Perlis,2010,09,"Recreation, Sport & Culture",99.98
+Perlis,2010,10,Education,100
+Perlis,2010,11,"Restaurants & Accommodation",100
+Perlis,2010,12,"Insurance & Financial Services",100
+Perlis,2010,13,"Personal Care & Miscellaneous",100.01
+Perlis,2010,overall,"Overall CPI",100
+Perlis,2011,01,"Food & Beverages",104.07
+Perlis,2011,02,"Alcohol & Tobacco",105.5
+Perlis,2011,03,"Clothing & Footwear",100.98
+Perlis,2011,04,"Housing, Utilities & Fuel",99.87
+Perlis,2011,05,"Furnishings & Household Maintenance",100.41
+Perlis,2011,06,Health,101.31
+Perlis,2011,07,Transport,105.18
+Perlis,2011,08,"Information & Communication",99.55
+Perlis,2011,09,"Recreation, Sport & Culture",101.82
+Perlis,2011,10,Education,100.28
+Perlis,2011,11,"Restaurants & Accommodation",105.62
+Perlis,2011,12,"Insurance & Financial Services",108.37
+Perlis,2011,13,"Personal Care & Miscellaneous",105.2
+Perlis,2011,overall,"Overall CPI",102.82
+Perlis,2012,01,"Food & Beverages",104.59
+Perlis,2012,02,"Alcohol & Tobacco",105.87
+Perlis,2012,03,"Clothing & Footwear",101.42
+Perlis,2012,04,"Housing, Utilities & Fuel",103.46
+Perlis,2012,05,"Furnishings & Household Maintenance",101.37
+Perlis,2012,06,Health,102.54
+Perlis,2012,07,Transport,105.83
+Perlis,2012,08,"Information & Communication",99.16
+Perlis,2012,09,"Recreation, Sport & Culture",101.66
+Perlis,2012,10,Education,102.19
+Perlis,2012,11,"Restaurants & Accommodation",107.72
+Perlis,2012,12,"Insurance & Financial Services",108.46
+Perlis,2012,13,"Personal Care & Miscellaneous",107.82
+Perlis,2012,overall,"Overall CPI",104.16
+Perlis,2013,01,"Food & Beverages",106.02
+Perlis,2013,02,"Alcohol & Tobacco",113.46
+Perlis,2013,03,"Clothing & Footwear",101.3
+Perlis,2013,04,"Housing, Utilities & Fuel",106.38
+Perlis,2013,05,"Furnishings & Household Maintenance",101.24
+Perlis,2013,06,Health,103.48
+Perlis,2013,07,Transport,108.11
+Perlis,2013,08,"Information & Communication",98.9
+Perlis,2013,09,"Recreation, Sport & Culture",102.3
+Perlis,2013,10,Education,104.8
+Perlis,2013,11,"Restaurants & Accommodation",109.52
+Perlis,2013,12,"Insurance & Financial Services",114.25
+Perlis,2013,13,"Personal Care & Miscellaneous",106.85
+Perlis,2013,overall,"Overall CPI",105.88
+Perlis,2014,01,"Food & Beverages",108.14
+Perlis,2014,02,"Alcohol & Tobacco",129.54
+Perlis,2014,03,"Clothing & Footwear",99.97
+Perlis,2014,04,"Housing, Utilities & Fuel",108.02
+Perlis,2014,05,"Furnishings & Household Maintenance",102.22
+Perlis,2014,06,Health,103.98
+Perlis,2014,07,Transport,113.99
+Perlis,2014,08,"Information & Communication",98.42
+Perlis,2014,09,"Recreation, Sport & Culture",104.14
+Perlis,2014,10,Education,115
+Perlis,2014,11,"Restaurants & Accommodation",112.04
+Perlis,2014,12,"Insurance & Financial Services",108.5
+Perlis,2014,13,"Personal Care & Miscellaneous",103.61
+Perlis,2014,overall,"Overall CPI",108.28
+Perlis,2015,01,"Food & Beverages",110.88
+Perlis,2015,02,"Alcohol & Tobacco",149.58
+Perlis,2015,03,"Clothing & Footwear",99.06
+Perlis,2015,04,"Housing, Utilities & Fuel",109.39
+Perlis,2015,05,"Furnishings & Household Maintenance",103.55
+Perlis,2015,06,Health,106.21
+Perlis,2015,07,Transport,107.6
+Perlis,2015,08,"Information & Communication",101.01
+Perlis,2015,09,"Recreation, Sport & Culture",104.97
+Perlis,2015,10,Education,116.3
+Perlis,2015,11,"Restaurants & Accommodation",116.17
+Perlis,2015,12,"Insurance & Financial Services",113.94
+Perlis,2015,13,"Personal Care & Miscellaneous",105.28
+Perlis,2015,overall,"Overall CPI",109.28
+Perlis,2016,01,"Food & Beverages",115.32
+Perlis,2016,02,"Alcohol & Tobacco",179.42
+Perlis,2016,03,"Clothing & Footwear",100.19
+Perlis,2016,04,"Housing, Utilities & Fuel",110.92
+Perlis,2016,05,"Furnishings & Household Maintenance",103.88
+Perlis,2016,06,Health,108.78
+Perlis,2016,07,Transport,99.82
+Perlis,2016,08,"Information & Communication",98.88
+Perlis,2016,09,"Recreation, Sport & Culture",107.22
+Perlis,2016,10,Education,116.73
+Perlis,2016,11,"Restaurants & Accommodation",120.22
+Perlis,2016,12,"Insurance & Financial Services",115.34
+Perlis,2016,13,"Personal Care & Miscellaneous",106.56
+Perlis,2016,overall,"Overall CPI",110.87
+Perlis,2017,01,"Food & Beverages",120.77
+Perlis,2017,02,"Alcohol & Tobacco",179.5
+Perlis,2017,03,"Clothing & Footwear",98.05
+Perlis,2017,04,"Housing, Utilities & Fuel",111.91
+Perlis,2017,05,"Furnishings & Household Maintenance",105.92
+Perlis,2017,06,Health,112
+Perlis,2017,07,Transport,115.16
+Perlis,2017,08,"Information & Communication",98.82
+Perlis,2017,09,"Recreation, Sport & Culture",109
+Perlis,2017,10,Education,118.92
+Perlis,2017,11,"Restaurants & Accommodation",123.57
+Perlis,2017,12,"Insurance & Financial Services",115.2
+Perlis,2017,13,"Personal Care & Miscellaneous",107.71
+Perlis,2017,overall,"Overall CPI",115.25
+Perlis,2018,01,"Food & Beverages",120.32
+Perlis,2018,02,"Alcohol & Tobacco",180.22
+Perlis,2018,03,"Clothing & Footwear",93.08
+Perlis,2018,04,"Housing, Utilities & Fuel",112.88
+Perlis,2018,05,"Furnishings & Household Maintenance",106.02
+Perlis,2018,06,Health,113.24
+Perlis,2018,07,Transport,116.57
+Perlis,2018,08,"Information & Communication",98.3
+Perlis,2018,09,"Recreation, Sport & Culture",108.58
+Perlis,2018,10,Education,119
+Perlis,2018,11,"Restaurants & Accommodation",124.19
+Perlis,2018,12,"Insurance & Financial Services",115.2
+Perlis,2018,13,"Personal Care & Miscellaneous",106.67
+Perlis,2018,overall,"Overall CPI",115.18
+Perlis,2019,01,"Food & Beverages",122.21
+Perlis,2019,02,"Alcohol & Tobacco",183.9
+Perlis,2019,03,"Clothing & Footwear",90.72
+Perlis,2019,04,"Housing, Utilities & Fuel",113.95
+Perlis,2019,05,"Furnishings & Household Maintenance",107.02
+Perlis,2019,06,Health,114.25
+Perlis,2019,07,Transport,110.98
+Perlis,2019,08,"Information & Communication",99.62
+Perlis,2019,09,"Recreation, Sport & Culture",112.41
+Perlis,2019,10,Education,125.67
+Perlis,2019,11,"Restaurants & Accommodation",125.38
+Perlis,2019,12,"Insurance & Financial Services",115.2
+Perlis,2019,13,"Personal Care & Miscellaneous",106.34
+Perlis,2019,overall,"Overall CPI",115.62
+Perlis,2020,01,"Food & Beverages",122.87
+Perlis,2020,02,"Alcohol & Tobacco",183.9
+Perlis,2020,03,"Clothing & Footwear",89.98
+Perlis,2020,04,"Housing, Utilities & Fuel",109.6
+Perlis,2020,05,"Furnishings & Household Maintenance",107.1
+Perlis,2020,06,Health,115
+Perlis,2020,07,Transport,95.21
+Perlis,2020,08,"Information & Communication",102.1
+Perlis,2020,09,"Recreation, Sport & Culture",115
+Perlis,2020,10,Education,126
+Perlis,2020,11,"Restaurants & Accommodation",124.28
+Perlis,2020,12,"Insurance & Financial Services",120.62
+Perlis,2020,13,"Personal Care & Miscellaneous",108.01
+Perlis,2020,overall,"Overall CPI",113.15
+Perlis,2021,01,"Food & Beverages",124.59
+Perlis,2021,02,"Alcohol & Tobacco",183.9
+Perlis,2021,03,"Clothing & Footwear",90.28
+Perlis,2021,04,"Housing, Utilities & Fuel",112.17
+Perlis,2021,05,"Furnishings & Household Maintenance",109.58
+Perlis,2021,06,Health,115.71
+Perlis,2021,07,Transport,110.17
+Perlis,2021,08,"Information & Communication",102.1
+Perlis,2021,09,"Recreation, Sport & Culture",115.59
+Perlis,2021,10,Education,126
+Perlis,2021,11,"Restaurants & Accommodation",123.07
+Perlis,2021,12,"Insurance & Financial Services",121.7
+Perlis,2021,13,"Personal Care & Miscellaneous",108.47
+Perlis,2021,overall,"Overall CPI",116.46
+Perlis,2022,01,"Food & Beverages",130.7
+Perlis,2022,02,"Alcohol & Tobacco",183.9
+Perlis,2022,03,"Clothing & Footwear",90.15
+Perlis,2022,04,"Housing, Utilities & Fuel",114.84
+Perlis,2022,05,"Furnishings & Household Maintenance",113.1
+Perlis,2022,06,Health,117.54
+Perlis,2022,07,Transport,112.33
+Perlis,2022,08,"Information & Communication",102.09
+Perlis,2022,09,"Recreation, Sport & Culture",118.65
+Perlis,2022,10,Education,126
+Perlis,2022,11,"Restaurants & Accommodation",131.03
+Perlis,2022,12,"Insurance & Financial Services",121.7
+Perlis,2022,13,"Personal Care & Miscellaneous",110.42
+Perlis,2022,overall,"Overall CPI",120.17
+Perlis,2023,01,"Food & Beverages",135.34
+Perlis,2023,02,"Alcohol & Tobacco",184.17
+Perlis,2023,03,"Clothing & Footwear",89.66
+Perlis,2023,04,"Housing, Utilities & Fuel",115.9
+Perlis,2023,05,"Furnishings & Household Maintenance",115.26
+Perlis,2023,06,Health,119.68
+Perlis,2023,07,Transport,112.32
+Perlis,2023,08,"Information & Communication",99.69
+Perlis,2023,09,"Recreation, Sport & Culture",124.12
+Perlis,2023,10,Education,126
+Perlis,2023,11,"Restaurants & Accommodation",141.72
+Perlis,2023,12,"Insurance & Financial Services",121.7
+Perlis,2023,13,"Personal Care & Miscellaneous",113.02
+Perlis,2023,overall,"Overall CPI",122.75
+Perlis,2024,01,"Food & Beverages",137.65
+Perlis,2024,02,"Alcohol & Tobacco",184.7
+Perlis,2024,03,"Clothing & Footwear",88.51
+Perlis,2024,04,"Housing, Utilities & Fuel",119.68
+Perlis,2024,05,"Furnishings & Household Maintenance",116.39
+Perlis,2024,06,Health,120.78
+Perlis,2024,07,Transport,114.18
+Perlis,2024,08,"Information & Communication",98.42
+Perlis,2024,09,"Recreation, Sport & Culture",127.17
+Perlis,2024,10,Education,126
+Perlis,2024,11,"Restaurants & Accommodation",147.08
+Perlis,2024,12,"Insurance & Financial Services",121.7
+Perlis,2024,13,"Personal Care & Miscellaneous",115.32
+Perlis,2024,overall,"Overall CPI",124.88
+Perlis,2025,01,"Food & Beverages",139.54
+Perlis,2025,02,"Alcohol & Tobacco",185.6
+Perlis,2025,03,"Clothing & Footwear",88.48
+Perlis,2025,04,"Housing, Utilities & Fuel",120.72
+Perlis,2025,05,"Furnishings & Household Maintenance",116.72
+Perlis,2025,06,Health,121.92
+Perlis,2025,07,Transport,114.84
+Perlis,2025,08,"Information & Communication",95.17
+Perlis,2025,09,"Recreation, Sport & Culture",129.02
+Perlis,2025,10,Education,125.6
+Perlis,2025,11,"Restaurants & Accommodation",148.1
+Perlis,2025,12,"Insurance & Financial Services",123.2
+Perlis,2025,13,"Personal Care & Miscellaneous",121.9
+Perlis,2025,overall,"Overall CPI",126.07
+Perlis,2026,01,"Food & Beverages",140.38
+Perlis,2026,02,"Alcohol & Tobacco",190.37
+Perlis,2026,03,"Clothing & Footwear",88.57
+Perlis,2026,04,"Housing, Utilities & Fuel",122.77
+Perlis,2026,05,"Furnishings & Household Maintenance",116.44
+Perlis,2026,06,Health,121.81
+Perlis,2026,07,Transport,116.46
+Perlis,2026,08,"Information & Communication",97
+Perlis,2026,09,"Recreation, Sport & Culture",129.87
+Perlis,2026,10,Education,124.4
+Perlis,2026,11,"Restaurants & Accommodation",152.33
+Perlis,2026,12,"Insurance & Financial Services",124.88
+Perlis,2026,13,"Personal Care & Miscellaneous",123.92
+Perlis,2026,overall,"Overall CPI",127.44
+"Pulau Pinang",2010,01,"Food & Beverages",100
+"Pulau Pinang",2010,02,"Alcohol & Tobacco",100.02
+"Pulau Pinang",2010,03,"Clothing & Footwear",99.99
+"Pulau Pinang",2010,04,"Housing, Utilities & Fuel",99.98
+"Pulau Pinang",2010,05,"Furnishings & Household Maintenance",99.98
+"Pulau Pinang",2010,06,Health,100.01
+"Pulau Pinang",2010,07,Transport,100
+"Pulau Pinang",2010,08,"Information & Communication",100
+"Pulau Pinang",2010,09,"Recreation, Sport & Culture",100.01
+"Pulau Pinang",2010,10,Education,99.99
+"Pulau Pinang",2010,11,"Restaurants & Accommodation",100
+"Pulau Pinang",2010,12,"Insurance & Financial Services",100
+"Pulau Pinang",2010,13,"Personal Care & Miscellaneous",100.01
+"Pulau Pinang",2010,overall,"Overall CPI",100
+"Pulau Pinang",2011,01,"Food & Beverages",105.3
+"Pulau Pinang",2011,02,"Alcohol & Tobacco",104.02
+"Pulau Pinang",2011,03,"Clothing & Footwear",99.77
+"Pulau Pinang",2011,04,"Housing, Utilities & Fuel",101.68
+"Pulau Pinang",2011,05,"Furnishings & Household Maintenance",101.06
+"Pulau Pinang",2011,06,Health,104.81
+"Pulau Pinang",2011,07,Transport,104.68
+"Pulau Pinang",2011,08,"Information & Communication",99.72
+"Pulau Pinang",2011,09,"Recreation, Sport & Culture",101.86
+"Pulau Pinang",2011,10,Education,102.13
+"Pulau Pinang",2011,11,"Restaurants & Accommodation",105.63
+"Pulau Pinang",2011,12,"Insurance & Financial Services",100
+"Pulau Pinang",2011,13,"Personal Care & Miscellaneous",102.95
+"Pulau Pinang",2011,overall,"Overall CPI",103.28
+"Pulau Pinang",2012,01,"Food & Beverages",108.56
+"Pulau Pinang",2012,02,"Alcohol & Tobacco",104.44
+"Pulau Pinang",2012,03,"Clothing & Footwear",99.55
+"Pulau Pinang",2012,04,"Housing, Utilities & Fuel",102.81
+"Pulau Pinang",2012,05,"Furnishings & Household Maintenance",103.55
+"Pulau Pinang",2012,06,Health,106.88
+"Pulau Pinang",2012,07,Transport,105.33
+"Pulau Pinang",2012,08,"Information & Communication",98.78
+"Pulau Pinang",2012,09,"Recreation, Sport & Culture",102.82
+"Pulau Pinang",2012,10,Education,105.44
+"Pulau Pinang",2012,11,"Restaurants & Accommodation",109.42
+"Pulau Pinang",2012,12,"Insurance & Financial Services",101.81
+"Pulau Pinang",2012,13,"Personal Care & Miscellaneous",105.48
+"Pulau Pinang",2012,overall,"Overall CPI",105.11
+"Pulau Pinang",2013,01,"Food & Beverages",112.45
+"Pulau Pinang",2013,02,"Alcohol & Tobacco",110.33
+"Pulau Pinang",2013,03,"Clothing & Footwear",97.69
+"Pulau Pinang",2013,04,"Housing, Utilities & Fuel",105.29
+"Pulau Pinang",2013,05,"Furnishings & Household Maintenance",103.48
+"Pulau Pinang",2013,06,Health,108.85
+"Pulau Pinang",2013,07,Transport,107.56
+"Pulau Pinang",2013,08,"Information & Communication",98.07
+"Pulau Pinang",2013,09,"Recreation, Sport & Culture",102.66
+"Pulau Pinang",2013,10,Education,105.86
+"Pulau Pinang",2013,11,"Restaurants & Accommodation",112.32
+"Pulau Pinang",2013,12,"Insurance & Financial Services",102.38
+"Pulau Pinang",2013,13,"Personal Care & Miscellaneous",105.86
+"Pulau Pinang",2013,overall,"Overall CPI",107.28
+"Pulau Pinang",2014,01,"Food & Beverages",116.87
+"Pulau Pinang",2014,02,"Alcohol & Tobacco",121.81
+"Pulau Pinang",2014,03,"Clothing & Footwear",97.62
+"Pulau Pinang",2014,04,"Housing, Utilities & Fuel",109.16
+"Pulau Pinang",2014,05,"Furnishings & Household Maintenance",104.52
+"Pulau Pinang",2014,06,Health,111.25
+"Pulau Pinang",2014,07,Transport,113.42
+"Pulau Pinang",2014,08,"Information & Communication",97.27
+"Pulau Pinang",2014,09,"Recreation, Sport & Culture",104.12
+"Pulau Pinang",2014,10,Education,107.73
+"Pulau Pinang",2014,11,"Restaurants & Accommodation",116.88
+"Pulau Pinang",2014,12,"Insurance & Financial Services",104.26
+"Pulau Pinang",2014,13,"Personal Care & Miscellaneous",106.94
+"Pulau Pinang",2014,overall,"Overall CPI",110.73
+"Pulau Pinang",2015,01,"Food & Beverages",121.66
+"Pulau Pinang",2015,02,"Alcohol & Tobacco",137.33
+"Pulau Pinang",2015,03,"Clothing & Footwear",97.49
+"Pulau Pinang",2015,04,"Housing, Utilities & Fuel",112.24
+"Pulau Pinang",2015,05,"Furnishings & Household Maintenance",107.59
+"Pulau Pinang",2015,06,Health,116.94
+"Pulau Pinang",2015,07,Transport,108.18
+"Pulau Pinang",2015,08,"Information & Communication",98.36
+"Pulau Pinang",2015,09,"Recreation, Sport & Culture",106.14
+"Pulau Pinang",2015,10,Education,109.63
+"Pulau Pinang",2015,11,"Restaurants & Accommodation",121.77
+"Pulau Pinang",2015,12,"Insurance & Financial Services",109.15
+"Pulau Pinang",2015,13,"Personal Care & Miscellaneous",111.67
+"Pulau Pinang",2015,overall,"Overall CPI",113.42
+"Pulau Pinang",2016,01,"Food & Beverages",127.6
+"Pulau Pinang",2016,02,"Alcohol & Tobacco",159.52
+"Pulau Pinang",2016,03,"Clothing & Footwear",97.5
+"Pulau Pinang",2016,04,"Housing, Utilities & Fuel",115.38
+"Pulau Pinang",2016,05,"Furnishings & Household Maintenance",111.18
+"Pulau Pinang",2016,06,Health,122.12
+"Pulau Pinang",2016,07,Transport,102.27
+"Pulau Pinang",2016,08,"Information & Communication",96.27
+"Pulau Pinang",2016,09,"Recreation, Sport & Culture",107.72
+"Pulau Pinang",2016,10,Education,112.67
+"Pulau Pinang",2016,11,"Restaurants & Accommodation",126.26
+"Pulau Pinang",2016,12,"Insurance & Financial Services",110.97
+"Pulau Pinang",2016,13,"Personal Care & Miscellaneous",115.46
+"Pulau Pinang",2016,overall,"Overall CPI",116.22
+"Pulau Pinang",2017,01,"Food & Beverages",133.23
+"Pulau Pinang",2017,02,"Alcohol & Tobacco",160.67
+"Pulau Pinang",2017,03,"Clothing & Footwear",97.84
+"Pulau Pinang",2017,04,"Housing, Utilities & Fuel",118.12
+"Pulau Pinang",2017,05,"Furnishings & Household Maintenance",114.52
+"Pulau Pinang",2017,06,Health,127.14
+"Pulau Pinang",2017,07,Transport,116.24
+"Pulau Pinang",2017,08,"Information & Communication",95.98
+"Pulau Pinang",2017,09,"Recreation, Sport & Culture",109.72
+"Pulau Pinang",2017,10,Education,118.29
+"Pulau Pinang",2017,11,"Restaurants & Accommodation",129.37
+"Pulau Pinang",2017,12,"Insurance & Financial Services",111.3
+"Pulau Pinang",2017,13,"Personal Care & Miscellaneous",118.48
+"Pulau Pinang",2017,overall,"Overall CPI",120.9
+"Pulau Pinang",2018,01,"Food & Beverages",135.46
+"Pulau Pinang",2018,02,"Alcohol & Tobacco",161.09
+"Pulau Pinang",2018,03,"Clothing & Footwear",96.08
+"Pulau Pinang",2018,04,"Housing, Utilities & Fuel",119.94
+"Pulau Pinang",2018,05,"Furnishings & Household Maintenance",113.89
+"Pulau Pinang",2018,06,Health,127.74
+"Pulau Pinang",2018,07,Transport,117.58
+"Pulau Pinang",2018,08,"Information & Communication",94.88
+"Pulau Pinang",2018,09,"Recreation, Sport & Culture",109.62
+"Pulau Pinang",2018,10,Education,118.29
+"Pulau Pinang",2018,11,"Restaurants & Accommodation",130.76
+"Pulau Pinang",2018,12,"Insurance & Financial Services",112.67
+"Pulau Pinang",2018,13,"Personal Care & Miscellaneous",117.71
+"Pulau Pinang",2018,overall,"Overall CPI",122.02
+"Pulau Pinang",2019,01,"Food & Beverages",137.96
+"Pulau Pinang",2019,02,"Alcohol & Tobacco",164.91
+"Pulau Pinang",2019,03,"Clothing & Footwear",93.71
+"Pulau Pinang",2019,04,"Housing, Utilities & Fuel",122.58
+"Pulau Pinang",2019,05,"Furnishings & Household Maintenance",115.38
+"Pulau Pinang",2019,06,Health,128.33
+"Pulau Pinang",2019,07,Transport,113.16
+"Pulau Pinang",2019,08,"Information & Communication",95.3
+"Pulau Pinang",2019,09,"Recreation, Sport & Culture",110.64
+"Pulau Pinang",2019,10,Education,118.74
+"Pulau Pinang",2019,11,"Restaurants & Accommodation",132.92
+"Pulau Pinang",2019,12,"Insurance & Financial Services",115.7
+"Pulau Pinang",2019,13,"Personal Care & Miscellaneous",120.12
+"Pulau Pinang",2019,overall,"Overall CPI",123.33
+"Pulau Pinang",2020,01,"Food & Beverages",139.76
+"Pulau Pinang",2020,02,"Alcohol & Tobacco",164.56
+"Pulau Pinang",2020,03,"Clothing & Footwear",91.78
+"Pulau Pinang",2020,04,"Housing, Utilities & Fuel",121.38
+"Pulau Pinang",2020,05,"Furnishings & Household Maintenance",115.68
+"Pulau Pinang",2020,06,Health,129.61
+"Pulau Pinang",2020,07,Transport,100.38
+"Pulau Pinang",2020,08,"Information & Communication",95.9
+"Pulau Pinang",2020,09,"Recreation, Sport & Culture",111.25
+"Pulau Pinang",2020,10,Education,119.2
+"Pulau Pinang",2020,11,"Restaurants & Accommodation",134.12
+"Pulau Pinang",2020,12,"Insurance & Financial Services",115.7
+"Pulau Pinang",2020,13,"Personal Care & Miscellaneous",122.92
+"Pulau Pinang",2020,overall,"Overall CPI",122.26
+"Pulau Pinang",2021,01,"Food & Beverages",141.35
+"Pulau Pinang",2021,02,"Alcohol & Tobacco",165.7
+"Pulau Pinang",2021,03,"Clothing & Footwear",90.65
+"Pulau Pinang",2021,04,"Housing, Utilities & Fuel",124.08
+"Pulau Pinang",2021,05,"Furnishings & Household Maintenance",117.22
+"Pulau Pinang",2021,06,Health,130.03
+"Pulau Pinang",2021,07,Transport,112.45
+"Pulau Pinang",2021,08,"Information & Communication",96.08
+"Pulau Pinang",2021,09,"Recreation, Sport & Culture",111.08
+"Pulau Pinang",2021,10,Education,119.54
+"Pulau Pinang",2021,11,"Restaurants & Accommodation",134.71
+"Pulau Pinang",2021,12,"Insurance & Financial Services",115.7
+"Pulau Pinang",2021,13,"Personal Care & Miscellaneous",123.04
+"Pulau Pinang",2021,overall,"Overall CPI",124.89
+"Pulau Pinang",2022,01,"Food & Beverages",149.86
+"Pulau Pinang",2022,02,"Alcohol & Tobacco",167.04
+"Pulau Pinang",2022,03,"Clothing & Footwear",90.83
+"Pulau Pinang",2022,04,"Housing, Utilities & Fuel",125.99
+"Pulau Pinang",2022,05,"Furnishings & Household Maintenance",120.29
+"Pulau Pinang",2022,06,Health,130.98
+"Pulau Pinang",2022,07,Transport,117.79
+"Pulau Pinang",2022,08,"Information & Communication",96.02
+"Pulau Pinang",2022,09,"Recreation, Sport & Culture",113.7
+"Pulau Pinang",2022,10,Education,122.23
+"Pulau Pinang",2022,11,"Restaurants & Accommodation",142.59
+"Pulau Pinang",2022,12,"Insurance & Financial Services",115.7
+"Pulau Pinang",2022,13,"Personal Care & Miscellaneous",124.62
+"Pulau Pinang",2022,overall,"Overall CPI",128.9
+"Pulau Pinang",2023,01,"Food & Beverages",157.39
+"Pulau Pinang",2023,02,"Alcohol & Tobacco",167.7
+"Pulau Pinang",2023,03,"Clothing & Footwear",89.48
+"Pulau Pinang",2023,04,"Housing, Utilities & Fuel",128.14
+"Pulau Pinang",2023,05,"Furnishings & Household Maintenance",122.06
+"Pulau Pinang",2023,06,Health,134.27
+"Pulau Pinang",2023,07,Transport,118.68
+"Pulau Pinang",2023,08,"Information & Communication",93.19
+"Pulau Pinang",2023,09,"Recreation, Sport & Culture",112.79
+"Pulau Pinang",2023,10,Education,123.18
+"Pulau Pinang",2023,11,"Restaurants & Accommodation",148.55
+"Pulau Pinang",2023,12,"Insurance & Financial Services",115.7
+"Pulau Pinang",2023,13,"Personal Care & Miscellaneous",127.42
+"Pulau Pinang",2023,overall,"Overall CPI",131.82
+"Pulau Pinang",2024,01,"Food & Beverages",161.56
+"Pulau Pinang",2024,02,"Alcohol & Tobacco",169.58
+"Pulau Pinang",2024,03,"Clothing & Footwear",88.9
+"Pulau Pinang",2024,04,"Housing, Utilities & Fuel",135.86
+"Pulau Pinang",2024,05,"Furnishings & Household Maintenance",125.02
+"Pulau Pinang",2024,06,Health,135.32
+"Pulau Pinang",2024,07,Transport,120.11
+"Pulau Pinang",2024,08,"Information & Communication",91.3
+"Pulau Pinang",2024,09,"Recreation, Sport & Culture",118.06
+"Pulau Pinang",2024,10,Education,123.93
+"Pulau Pinang",2024,11,"Restaurants & Accommodation",155.01
+"Pulau Pinang",2024,12,"Insurance & Financial Services",115.7
+"Pulau Pinang",2024,13,"Personal Care & Miscellaneous",131.54
+"Pulau Pinang",2024,overall,"Overall CPI",135.73
+"Pulau Pinang",2025,01,"Food & Beverages",164.24
+"Pulau Pinang",2025,02,"Alcohol & Tobacco",172.62
+"Pulau Pinang",2025,03,"Clothing & Footwear",87.87
+"Pulau Pinang",2025,04,"Housing, Utilities & Fuel",137.33
+"Pulau Pinang",2025,05,"Furnishings & Household Maintenance",125.18
+"Pulau Pinang",2025,06,Health,135.48
+"Pulau Pinang",2025,07,Transport,119.99
+"Pulau Pinang",2025,08,"Information & Communication",86.8
+"Pulau Pinang",2025,09,"Recreation, Sport & Culture",119.75
+"Pulau Pinang",2025,10,Education,126.86
+"Pulau Pinang",2025,11,"Restaurants & Accommodation",160.69
+"Pulau Pinang",2025,12,"Insurance & Financial Services",122.35
+"Pulau Pinang",2025,13,"Personal Care & Miscellaneous",136.25
+"Pulau Pinang",2025,overall,"Overall CPI",137.3
+"Pulau Pinang",2026,01,"Food & Beverages",166.53
+"Pulau Pinang",2026,02,"Alcohol & Tobacco",176.87
+"Pulau Pinang",2026,03,"Clothing & Footwear",87.22
+"Pulau Pinang",2026,04,"Housing, Utilities & Fuel",139.3
+"Pulau Pinang",2026,05,"Furnishings & Household Maintenance",123.94
+"Pulau Pinang",2026,06,Health,135.47
+"Pulau Pinang",2026,07,Transport,121.46
+"Pulau Pinang",2026,08,"Information & Communication",88.62
+"Pulau Pinang",2026,09,"Recreation, Sport & Culture",121.59
+"Pulau Pinang",2026,10,Education,129.19
+"Pulau Pinang",2026,11,"Restaurants & Accommodation",163.17
+"Pulau Pinang",2026,12,"Insurance & Financial Services",129.62
+"Pulau Pinang",2026,13,"Personal Care & Miscellaneous",139.07
+"Pulau Pinang",2026,overall,"Overall CPI",139.41
+Sabah,2010,01,"Food & Beverages",100.01
+Sabah,2010,02,"Alcohol & Tobacco",100
+Sabah,2010,03,"Clothing & Footwear",99.99
+Sabah,2010,04,"Housing, Utilities & Fuel",100.02
+Sabah,2010,05,"Furnishings & Household Maintenance",99.99
+Sabah,2010,06,Health,99.98
+Sabah,2010,07,Transport,100
+Sabah,2010,08,"Information & Communication",100
+Sabah,2010,09,"Recreation, Sport & Culture",99.99
+Sabah,2010,10,Education,100
+Sabah,2010,11,"Restaurants & Accommodation",99.99
+Sabah,2010,12,"Insurance & Financial Services",100
+Sabah,2010,13,"Personal Care & Miscellaneous",100.01
+Sabah,2010,overall,"Overall CPI",100
+Sabah,2011,01,"Food & Beverages",104.78
+Sabah,2011,02,"Alcohol & Tobacco",105.04
+Sabah,2011,03,"Clothing & Footwear",99.59
+Sabah,2011,04,"Housing, Utilities & Fuel",101.26
+Sabah,2011,05,"Furnishings & Household Maintenance",101.98
+Sabah,2011,06,Health,103.72
+Sabah,2011,07,Transport,103.18
+Sabah,2011,08,"Information & Communication",100.05
+Sabah,2011,09,"Recreation, Sport & Culture",103.88
+Sabah,2011,10,Education,101.57
+Sabah,2011,11,"Restaurants & Accommodation",105.32
+Sabah,2011,12,"Insurance & Financial Services",99.85
+Sabah,2011,13,"Personal Care & Miscellaneous",102.22
+Sabah,2011,overall,"Overall CPI",102.92
+Sabah,2012,01,"Food & Beverages",107.49
+Sabah,2012,02,"Alcohol & Tobacco",105.7
+Sabah,2012,03,"Clothing & Footwear",98.62
+Sabah,2012,04,"Housing, Utilities & Fuel",102.61
+Sabah,2012,05,"Furnishings & Household Maintenance",105.87
+Sabah,2012,06,Health,106.72
+Sabah,2012,07,Transport,103.88
+Sabah,2012,08,"Information & Communication",99.76
+Sabah,2012,09,"Recreation, Sport & Culture",106.49
+Sabah,2012,10,Education,103.16
+Sabah,2012,11,"Restaurants & Accommodation",108.82
+Sabah,2012,12,"Insurance & Financial Services",100.79
+Sabah,2012,13,"Personal Care & Miscellaneous",104.38
+Sabah,2012,overall,"Overall CPI",104.67
+Sabah,2013,01,"Food & Beverages",110.72
+Sabah,2013,02,"Alcohol & Tobacco",112.76
+Sabah,2013,03,"Clothing & Footwear",97.94
+Sabah,2013,04,"Housing, Utilities & Fuel",103.72
+Sabah,2013,05,"Furnishings & Household Maintenance",108.48
+Sabah,2013,06,Health,111.88
+Sabah,2013,07,Transport,106.44
+Sabah,2013,08,"Information & Communication",99.37
+Sabah,2013,09,"Recreation, Sport & Culture",106.62
+Sabah,2013,10,Education,104.58
+Sabah,2013,11,"Restaurants & Accommodation",113.65
+Sabah,2013,12,"Insurance & Financial Services",111.09
+Sabah,2013,13,"Personal Care & Miscellaneous",107.08
+Sabah,2013,overall,"Overall CPI",106.85
+Sabah,2014,01,"Food & Beverages",112.42
+Sabah,2014,02,"Alcohol & Tobacco",127.09
+Sabah,2014,03,"Clothing & Footwear",96.94
+Sabah,2014,04,"Housing, Utilities & Fuel",105.88
+Sabah,2014,05,"Furnishings & Household Maintenance",108.69
+Sabah,2014,06,Health,114.61
+Sabah,2014,07,Transport,109.89
+Sabah,2014,08,"Information & Communication",98.93
+Sabah,2014,09,"Recreation, Sport & Culture",109.66
+Sabah,2014,10,Education,106.31
+Sabah,2014,11,"Restaurants & Accommodation",118.68
+Sabah,2014,12,"Insurance & Financial Services",111.87
+Sabah,2014,13,"Personal Care & Miscellaneous",107.67
+Sabah,2014,overall,"Overall CPI",108.94
+Sabah,2015,01,"Food & Beverages",114.6
+Sabah,2015,02,"Alcohol & Tobacco",145.13
+Sabah,2015,03,"Clothing & Footwear",97.28
+Sabah,2015,04,"Housing, Utilities & Fuel",105.04
+Sabah,2015,05,"Furnishings & Household Maintenance",110.58
+Sabah,2015,06,Health,120.13
+Sabah,2015,07,Transport,105.59
+Sabah,2015,08,"Information & Communication",101.85
+Sabah,2015,09,"Recreation, Sport & Culture",111.41
+Sabah,2015,10,Education,107.66
+Sabah,2015,11,"Restaurants & Accommodation",125.54
+Sabah,2015,12,"Insurance & Financial Services",114.35
+Sabah,2015,13,"Personal Care & Miscellaneous",112.14
+Sabah,2015,overall,"Overall CPI",109.83
+Sabah,2016,01,"Food & Beverages",116.53
+Sabah,2016,02,"Alcohol & Tobacco",171.06
+Sabah,2016,03,"Clothing & Footwear",97.1
+Sabah,2016,04,"Housing, Utilities & Fuel",106.34
+Sabah,2016,05,"Furnishings & Household Maintenance",111.36
+Sabah,2016,06,Health,122.91
+Sabah,2016,07,Transport,100.01
+Sabah,2016,08,"Information & Communication",99.74
+Sabah,2016,09,"Recreation, Sport & Culture",114.4
+Sabah,2016,10,Education,108.68
+Sabah,2016,11,"Restaurants & Accommodation",129.07
+Sabah,2016,12,"Insurance & Financial Services",114.6
+Sabah,2016,13,"Personal Care & Miscellaneous",113.97
+Sabah,2016,overall,"Overall CPI",110.62
+Sabah,2017,01,"Food & Beverages",121.16
+Sabah,2017,02,"Alcohol & Tobacco",171.1
+Sabah,2017,03,"Clothing & Footwear",96.29
+Sabah,2017,04,"Housing, Utilities & Fuel",107.54
+Sabah,2017,05,"Furnishings & Household Maintenance",112.69
+Sabah,2017,06,Health,124.77
+Sabah,2017,07,Transport,111.29
+Sabah,2017,08,"Information & Communication",99.51
+Sabah,2017,09,"Recreation, Sport & Culture",116.73
+Sabah,2017,10,Education,110.07
+Sabah,2017,11,"Restaurants & Accommodation",130.85
+Sabah,2017,12,"Insurance & Financial Services",114.06
+Sabah,2017,13,"Personal Care & Miscellaneous",114.76
+Sabah,2017,overall,"Overall CPI",114.11
+Sabah,2018,01,"Food & Beverages",122.43
+Sabah,2018,02,"Alcohol & Tobacco",170.13
+Sabah,2018,03,"Clothing & Footwear",94.11
+Sabah,2018,04,"Housing, Utilities & Fuel",109
+Sabah,2018,05,"Furnishings & Household Maintenance",112.54
+Sabah,2018,06,Health,126.04
+Sabah,2018,07,Transport,113.35
+Sabah,2018,08,"Information & Communication",98.51
+Sabah,2018,09,"Recreation, Sport & Culture",115.94
+Sabah,2018,10,Education,111.22
+Sabah,2018,11,"Restaurants & Accommodation",132.82
+Sabah,2018,12,"Insurance & Financial Services",111.9
+Sabah,2018,13,"Personal Care & Miscellaneous",111.71
+Sabah,2018,overall,"Overall CPI",114.84
+Sabah,2019,01,"Food & Beverages",122.97
+Sabah,2019,02,"Alcohol & Tobacco",172.06
+Sabah,2019,03,"Clothing & Footwear",92.19
+Sabah,2019,04,"Housing, Utilities & Fuel",110.42
+Sabah,2019,05,"Furnishings & Household Maintenance",112.62
+Sabah,2019,06,Health,126.88
+Sabah,2019,07,Transport,109.82
+Sabah,2019,08,"Information & Communication",98.73
+Sabah,2019,09,"Recreation, Sport & Culture",116.45
+Sabah,2019,10,Education,112.32
+Sabah,2019,11,"Restaurants & Accommodation",134.44
+Sabah,2019,12,"Insurance & Financial Services",110.49
+Sabah,2019,13,"Personal Care & Miscellaneous",111.69
+Sabah,2019,overall,"Overall CPI",114.96
+Sabah,2020,01,"Food & Beverages",123.24
+Sabah,2020,02,"Alcohol & Tobacco",172.22
+Sabah,2020,03,"Clothing & Footwear",91.44
+Sabah,2020,04,"Housing, Utilities & Fuel",108.08
+Sabah,2020,05,"Furnishings & Household Maintenance",112.23
+Sabah,2020,06,Health,128.32
+Sabah,2020,07,Transport,98.02
+Sabah,2020,08,"Information & Communication",99.1
+Sabah,2020,09,"Recreation, Sport & Culture",116.38
+Sabah,2020,10,Education,112.64
+Sabah,2020,11,"Restaurants & Accommodation",135.28
+Sabah,2020,12,"Insurance & Financial Services",110.5
+Sabah,2020,13,"Personal Care & Miscellaneous",113.37
+Sabah,2020,overall,"Overall CPI",112.82
+Sabah,2021,01,"Food & Beverages",124.01
+Sabah,2021,02,"Alcohol & Tobacco",172.6
+Sabah,2021,03,"Clothing & Footwear",91.01
+Sabah,2021,04,"Housing, Utilities & Fuel",106.9
+Sabah,2021,05,"Furnishings & Household Maintenance",113.32
+Sabah,2021,06,Health,128.7
+Sabah,2021,07,Transport,110.3
+Sabah,2021,08,"Information & Communication",99.1
+Sabah,2021,09,"Recreation, Sport & Culture",119.22
+Sabah,2021,10,Education,112.1
+Sabah,2021,11,"Restaurants & Accommodation",135.79
+Sabah,2021,12,"Insurance & Financial Services",110.5
+Sabah,2021,13,"Personal Care & Miscellaneous",114.24
+Sabah,2021,overall,"Overall CPI",114.62
+Sabah,2022,01,"Food & Beverages",130.29
+Sabah,2022,02,"Alcohol & Tobacco",172.96
+Sabah,2022,03,"Clothing & Footwear",91.12
+Sabah,2022,04,"Housing, Utilities & Fuel",108.87
+Sabah,2022,05,"Furnishings & Household Maintenance",115.86
+Sabah,2022,06,Health,130.55
+Sabah,2022,07,Transport,114.19
+Sabah,2022,08,"Information & Communication",98.98
+Sabah,2022,09,"Recreation, Sport & Culture",119.38
+Sabah,2022,10,Education,113.69
+Sabah,2022,11,"Restaurants & Accommodation",145.73
+Sabah,2022,12,"Insurance & Financial Services",110.5
+Sabah,2022,13,"Personal Care & Miscellaneous",115.96
+Sabah,2022,overall,"Overall CPI",118
+Sabah,2023,01,"Food & Beverages",135.57
+Sabah,2023,02,"Alcohol & Tobacco",173.37
+Sabah,2023,03,"Clothing & Footwear",91
+Sabah,2023,04,"Housing, Utilities & Fuel",111.68
+Sabah,2023,05,"Furnishings & Household Maintenance",117.82
+Sabah,2023,06,Health,132.41
+Sabah,2023,07,Transport,114.22
+Sabah,2023,08,"Information & Communication",97.87
+Sabah,2023,09,"Recreation, Sport & Culture",120.56
+Sabah,2023,10,Education,116.31
+Sabah,2023,11,"Restaurants & Accommodation",153.51
+Sabah,2023,12,"Insurance & Financial Services",110.41
+Sabah,2023,13,"Personal Care & Miscellaneous",118.67
+Sabah,2023,overall,"Overall CPI",120.77
+Sabah,2024,01,"Food & Beverages",137.68
+Sabah,2024,02,"Alcohol & Tobacco",174.58
+Sabah,2024,03,"Clothing & Footwear",90.7
+Sabah,2024,04,"Housing, Utilities & Fuel",113.41
+Sabah,2024,05,"Furnishings & Household Maintenance",118.4
+Sabah,2024,06,Health,133.87
+Sabah,2024,07,Transport,114.48
+Sabah,2024,08,"Information & Communication",97.39
+Sabah,2024,09,"Recreation, Sport & Culture",120.58
+Sabah,2024,10,Education,118.7
+Sabah,2024,11,"Restaurants & Accommodation",158.26
+Sabah,2024,12,"Insurance & Financial Services",111.09
+Sabah,2024,13,"Personal Care & Miscellaneous",122.17
+Sabah,2024,overall,"Overall CPI",122.27
+Sabah,2025,01,"Food & Beverages",140.38
+Sabah,2025,02,"Alcohol & Tobacco",174.28
+Sabah,2025,03,"Clothing & Footwear",89.58
+Sabah,2025,04,"Housing, Utilities & Fuel",114.76
+Sabah,2025,05,"Furnishings & Household Maintenance",118.15
+Sabah,2025,06,Health,135.22
+Sabah,2025,07,Transport,114.62
+Sabah,2025,08,"Information & Communication",95.25
+Sabah,2025,09,"Recreation, Sport & Culture",121.79
+Sabah,2025,10,Education,121.35
+Sabah,2025,11,"Restaurants & Accommodation",165.56
+Sabah,2025,12,"Insurance & Financial Services",116.03
+Sabah,2025,13,"Personal Care & Miscellaneous",126.02
+Sabah,2025,overall,"Overall CPI",123.69
+Sabah,2026,01,"Food & Beverages",141.16
+Sabah,2026,02,"Alcohol & Tobacco",179
+Sabah,2026,03,"Clothing & Footwear",88.24
+Sabah,2026,04,"Housing, Utilities & Fuel",117.92
+Sabah,2026,05,"Furnishings & Household Maintenance",117.89
+Sabah,2026,06,Health,135.69
+Sabah,2026,07,Transport,118.4
+Sabah,2026,08,"Information & Communication",96.07
+Sabah,2026,09,"Recreation, Sport & Culture",123.97
+Sabah,2026,10,Education,123.5
+Sabah,2026,11,"Restaurants & Accommodation",166.47
+Sabah,2026,12,"Insurance & Financial Services",121.63
+Sabah,2026,13,"Personal Care & Miscellaneous",129.12
+Sabah,2026,overall,"Overall CPI",125.82
+Sarawak,2010,01,"Food & Beverages",100
+Sarawak,2010,02,"Alcohol & Tobacco",100.01
+Sarawak,2010,03,"Clothing & Footwear",100.02
+Sarawak,2010,04,"Housing, Utilities & Fuel",99.99
+Sarawak,2010,05,"Furnishings & Household Maintenance",100.01
+Sarawak,2010,06,Health,100.01
+Sarawak,2010,07,Transport,100
+Sarawak,2010,08,"Information & Communication",100.02
+Sarawak,2010,09,"Recreation, Sport & Culture",100.01
+Sarawak,2010,10,Education,100.01
+Sarawak,2010,11,"Restaurants & Accommodation",100.02
+Sarawak,2010,12,"Insurance & Financial Services",100
+Sarawak,2010,13,"Personal Care & Miscellaneous",100.02
+Sarawak,2010,overall,"Overall CPI",99.98
+Sarawak,2011,01,"Food & Beverages",103.31
+Sarawak,2011,02,"Alcohol & Tobacco",103.68
+Sarawak,2011,03,"Clothing & Footwear",99.07
+Sarawak,2011,04,"Housing, Utilities & Fuel",102.32
+Sarawak,2011,05,"Furnishings & Household Maintenance",100.85
+Sarawak,2011,06,Health,103.28
+Sarawak,2011,07,Transport,104.42
+Sarawak,2011,08,"Information & Communication",99.89
+Sarawak,2011,09,"Recreation, Sport & Culture",100.75
+Sarawak,2011,10,Education,101.6
+Sarawak,2011,11,"Restaurants & Accommodation",105.02
+Sarawak,2011,12,"Insurance & Financial Services",100
+Sarawak,2011,13,"Personal Care & Miscellaneous",101.36
+Sarawak,2011,overall,"Overall CPI",102.62
+Sarawak,2012,01,"Food & Beverages",106.76
+Sarawak,2012,02,"Alcohol & Tobacco",104.09
+Sarawak,2012,03,"Clothing & Footwear",98.02
+Sarawak,2012,04,"Housing, Utilities & Fuel",103.37
+Sarawak,2012,05,"Furnishings & Household Maintenance",101.95
+Sarawak,2012,06,Health,105.64
+Sarawak,2012,07,Transport,105.27
+Sarawak,2012,08,"Information & Communication",99.2
+Sarawak,2012,09,"Recreation, Sport & Culture",100.32
+Sarawak,2012,10,Education,102.24
+Sarawak,2012,11,"Restaurants & Accommodation",107.78
+Sarawak,2012,12,"Insurance & Financial Services",101.22
+Sarawak,2012,13,"Personal Care & Miscellaneous",103.09
+Sarawak,2012,overall,"Overall CPI",104.35
+Sarawak,2013,01,"Food & Beverages",109.96
+Sarawak,2013,02,"Alcohol & Tobacco",108.58
+Sarawak,2013,03,"Clothing & Footwear",97.97
+Sarawak,2013,04,"Housing, Utilities & Fuel",105.25
+Sarawak,2013,05,"Furnishings & Household Maintenance",101.97
+Sarawak,2013,06,Health,106.51
+Sarawak,2013,07,Transport,107.82
+Sarawak,2013,08,"Information & Communication",98.32
+Sarawak,2013,09,"Recreation, Sport & Culture",99.9
+Sarawak,2013,10,Education,103.97
+Sarawak,2013,11,"Restaurants & Accommodation",110.68
+Sarawak,2013,12,"Insurance & Financial Services",100.49
+Sarawak,2013,13,"Personal Care & Miscellaneous",103.15
+Sarawak,2013,overall,"Overall CPI",106.36
+Sarawak,2014,01,"Food & Beverages",113.82
+Sarawak,2014,02,"Alcohol & Tobacco",117.89
+Sarawak,2014,03,"Clothing & Footwear",97.18
+Sarawak,2014,04,"Housing, Utilities & Fuel",107.6
+Sarawak,2014,05,"Furnishings & Household Maintenance",102.51
+Sarawak,2014,06,Health,112.31
+Sarawak,2014,07,Transport,113.67
+Sarawak,2014,08,"Information & Communication",97.58
+Sarawak,2014,09,"Recreation, Sport & Culture",101.29
+Sarawak,2014,10,Education,104.78
+Sarawak,2014,11,"Restaurants & Accommodation",113.72
+Sarawak,2014,12,"Insurance & Financial Services",101.28
+Sarawak,2014,13,"Personal Care & Miscellaneous",104.27
+Sarawak,2014,overall,"Overall CPI",109.44
+Sarawak,2015,01,"Food & Beverages",117.71
+Sarawak,2015,02,"Alcohol & Tobacco",130.78
+Sarawak,2015,03,"Clothing & Footwear",97.6
+Sarawak,2015,04,"Housing, Utilities & Fuel",105.82
+Sarawak,2015,05,"Furnishings & Household Maintenance",104.46
+Sarawak,2015,06,Health,117.31
+Sarawak,2015,07,Transport,110.86
+Sarawak,2015,08,"Information & Communication",99.56
+Sarawak,2015,09,"Recreation, Sport & Culture",102.62
+Sarawak,2015,10,Education,106.2
+Sarawak,2015,11,"Restaurants & Accommodation",116.88
+Sarawak,2015,12,"Insurance & Financial Services",105.45
+Sarawak,2015,13,"Personal Care & Miscellaneous",108.82
+Sarawak,2015,overall,"Overall CPI",110.94
+Sarawak,2016,01,"Food & Beverages",121.29
+Sarawak,2016,02,"Alcohol & Tobacco",148.72
+Sarawak,2016,03,"Clothing & Footwear",96.58
+Sarawak,2016,04,"Housing, Utilities & Fuel",108.42
+Sarawak,2016,05,"Furnishings & Household Maintenance",105.98
+Sarawak,2016,06,Health,120.06
+Sarawak,2016,07,Transport,104.48
+Sarawak,2016,08,"Information & Communication",96.98
+Sarawak,2016,09,"Recreation, Sport & Culture",104.11
+Sarawak,2016,10,Education,108.17
+Sarawak,2016,11,"Restaurants & Accommodation",119.72
+Sarawak,2016,12,"Insurance & Financial Services",108.11
+Sarawak,2016,13,"Personal Care & Miscellaneous",112.07
+Sarawak,2016,overall,"Overall CPI",112.63
+Sarawak,2017,01,"Food & Beverages",124.37
+Sarawak,2017,02,"Alcohol & Tobacco",148.48
+Sarawak,2017,03,"Clothing & Footwear",95.39
+Sarawak,2017,04,"Housing, Utilities & Fuel",109.3
+Sarawak,2017,05,"Furnishings & Household Maintenance",108.32
+Sarawak,2017,06,Health,122.93
+Sarawak,2017,07,Transport,120.37
+Sarawak,2017,08,"Information & Communication",96.36
+Sarawak,2017,09,"Recreation, Sport & Culture",104.73
+Sarawak,2017,10,Education,109.44
+Sarawak,2017,11,"Restaurants & Accommodation",122.11
+Sarawak,2017,12,"Insurance & Financial Services",108.8
+Sarawak,2017,13,"Personal Care & Miscellaneous",113.93
+Sarawak,2017,overall,"Overall CPI",115.97
+Sarawak,2018,01,"Food & Beverages",126.38
+Sarawak,2018,02,"Alcohol & Tobacco",145.74
+Sarawak,2018,03,"Clothing & Footwear",93.33
+Sarawak,2018,04,"Housing, Utilities & Fuel",110.18
+Sarawak,2018,05,"Furnishings & Household Maintenance",107.26
+Sarawak,2018,06,Health,125.52
+Sarawak,2018,07,Transport,122.56
+Sarawak,2018,08,"Information & Communication",94.87
+Sarawak,2018,09,"Recreation, Sport & Culture",104.59
+Sarawak,2018,10,Education,110.74
+Sarawak,2018,11,"Restaurants & Accommodation",124.09
+Sarawak,2018,12,"Insurance & Financial Services",105.42
+Sarawak,2018,13,"Personal Care & Miscellaneous",111.79
+Sarawak,2018,overall,"Overall CPI",116.69
+Sarawak,2019,01,"Food & Beverages",127.71
+Sarawak,2019,02,"Alcohol & Tobacco",146.63
+Sarawak,2019,03,"Clothing & Footwear",90.96
+Sarawak,2019,04,"Housing, Utilities & Fuel",111.22
+Sarawak,2019,05,"Furnishings & Household Maintenance",108.06
+Sarawak,2019,06,Health,127.08
+Sarawak,2019,07,Transport,117.55
+Sarawak,2019,08,"Information & Communication",95.29
+Sarawak,2019,09,"Recreation, Sport & Culture",104.89
+Sarawak,2019,10,Education,111.26
+Sarawak,2019,11,"Restaurants & Accommodation",126.68
+Sarawak,2019,12,"Insurance & Financial Services",103
+Sarawak,2019,13,"Personal Care & Miscellaneous",111.43
+Sarawak,2019,overall,"Overall CPI",116.75
+Sarawak,2020,01,"Food & Beverages",128.52
+Sarawak,2020,02,"Alcohol & Tobacco",146.85
+Sarawak,2020,03,"Clothing & Footwear",90.22
+Sarawak,2020,04,"Housing, Utilities & Fuel",109.23
+Sarawak,2020,05,"Furnishings & Household Maintenance",107.93
+Sarawak,2020,06,Health,128.91
+Sarawak,2020,07,Transport,101.58
+Sarawak,2020,08,"Information & Communication",95.9
+Sarawak,2020,09,"Recreation, Sport & Culture",104.42
+Sarawak,2020,10,Education,114.42
+Sarawak,2020,11,"Restaurants & Accommodation",127.28
+Sarawak,2020,12,"Insurance & Financial Services",103
+Sarawak,2020,13,"Personal Care & Miscellaneous",114.17
+Sarawak,2020,overall,"Overall CPI",114.69
+Sarawak,2021,01,"Food & Beverages",129.93
+Sarawak,2021,02,"Alcohol & Tobacco",147.31
+Sarawak,2021,03,"Clothing & Footwear",89.77
+Sarawak,2021,04,"Housing, Utilities & Fuel",108.7
+Sarawak,2021,05,"Furnishings & Household Maintenance",108.92
+Sarawak,2021,06,Health,129.19
+Sarawak,2021,07,Transport,117.58
+Sarawak,2021,08,"Information & Communication",95.91
+Sarawak,2021,09,"Recreation, Sport & Culture",102.82
+Sarawak,2021,10,Education,113.58
+Sarawak,2021,11,"Restaurants & Accommodation",128.13
+Sarawak,2021,12,"Insurance & Financial Services",103
+Sarawak,2021,13,"Personal Care & Miscellaneous",114.79
+Sarawak,2021,overall,"Overall CPI",117.11
+Sarawak,2022,01,"Food & Beverages",137.08
+Sarawak,2022,02,"Alcohol & Tobacco",147.55
+Sarawak,2022,03,"Clothing & Footwear",89.76
+Sarawak,2022,04,"Housing, Utilities & Fuel",109.68
+Sarawak,2022,05,"Furnishings & Household Maintenance",111.44
+Sarawak,2022,06,Health,128.18
+Sarawak,2022,07,Transport,122.22
+Sarawak,2022,08,"Information & Communication",95.9
+Sarawak,2022,09,"Recreation, Sport & Culture",107.78
+Sarawak,2022,10,Education,115.33
+Sarawak,2022,11,"Restaurants & Accommodation",134.78
+Sarawak,2022,12,"Insurance & Financial Services",103
+Sarawak,2022,13,"Personal Care & Miscellaneous",116.18
+Sarawak,2022,overall,"Overall CPI",120.79
+Sarawak,2023,01,"Food & Beverages",145.46
+Sarawak,2023,02,"Alcohol & Tobacco",148.86
+Sarawak,2023,03,"Clothing & Footwear",90.02
+Sarawak,2023,04,"Housing, Utilities & Fuel",111.68
+Sarawak,2023,05,"Furnishings & Household Maintenance",114.04
+Sarawak,2023,06,Health,130.32
+Sarawak,2023,07,Transport,123.12
+Sarawak,2023,08,"Information & Communication",94.37
+Sarawak,2023,09,"Recreation, Sport & Culture",108.45
+Sarawak,2023,10,Education,118.12
+Sarawak,2023,11,"Restaurants & Accommodation",141.95
+Sarawak,2023,12,"Insurance & Financial Services",103
+Sarawak,2023,13,"Personal Care & Miscellaneous",119.15
+Sarawak,2023,overall,"Overall CPI",124.53
+Sarawak,2024,01,"Food & Beverages",148.2
+Sarawak,2024,02,"Alcohol & Tobacco",150.28
+Sarawak,2024,03,"Clothing & Footwear",90.04
+Sarawak,2024,04,"Housing, Utilities & Fuel",118.01
+Sarawak,2024,05,"Furnishings & Household Maintenance",114.96
+Sarawak,2024,06,Health,132.22
+Sarawak,2024,07,Transport,124.15
+Sarawak,2024,08,"Information & Communication",93.31
+Sarawak,2024,09,"Recreation, Sport & Culture",110.72
+Sarawak,2024,10,Education,119.38
+Sarawak,2024,11,"Restaurants & Accommodation",146.62
+Sarawak,2024,12,"Insurance & Financial Services",103
+Sarawak,2024,13,"Personal Care & Miscellaneous",121.88
+Sarawak,2024,overall,"Overall CPI",127.48
+Sarawak,2025,01,"Food & Beverages",149.75
+Sarawak,2025,02,"Alcohol & Tobacco",150.96
+Sarawak,2025,03,"Clothing & Footwear",89.82
+Sarawak,2025,04,"Housing, Utilities & Fuel",120.16
+Sarawak,2025,05,"Furnishings & Household Maintenance",115.42
+Sarawak,2025,06,Health,133.28
+Sarawak,2025,07,Transport,124.71
+Sarawak,2025,08,"Information & Communication",89.94
+Sarawak,2025,09,"Recreation, Sport & Culture",111.88
+Sarawak,2025,10,Education,120.63
+Sarawak,2025,11,"Restaurants & Accommodation",150.8
+Sarawak,2025,12,"Insurance & Financial Services",103.8
+Sarawak,2025,13,"Personal Care & Miscellaneous",126.06
+Sarawak,2025,overall,"Overall CPI",128.71
+Sarawak,2026,01,"Food & Beverages",150.57
+Sarawak,2026,02,"Alcohol & Tobacco",153.99
+Sarawak,2026,03,"Clothing & Footwear",89.54
+Sarawak,2026,04,"Housing, Utilities & Fuel",119.07
+Sarawak,2026,05,"Furnishings & Household Maintenance",115.89
+Sarawak,2026,06,Health,134.08
+Sarawak,2026,07,Transport,126.27
+Sarawak,2026,08,"Information & Communication",91.36
+Sarawak,2026,09,"Recreation, Sport & Culture",112.23
+Sarawak,2026,10,Education,122.58
+Sarawak,2026,11,"Restaurants & Accommodation",154.67
+Sarawak,2026,12,"Insurance & Financial Services",104.64
+Sarawak,2026,13,"Personal Care & Miscellaneous",129.06
+Sarawak,2026,overall,"Overall CPI",129.39
+Selangor,2010,01,"Food & Beverages",100
+Selangor,2010,02,"Alcohol & Tobacco",100.01
+Selangor,2010,03,"Clothing & Footwear",99.99
+Selangor,2010,04,"Housing, Utilities & Fuel",100.01
+Selangor,2010,05,"Furnishings & Household Maintenance",99.98
+Selangor,2010,06,Health,99.99
+Selangor,2010,07,Transport,99.99
+Selangor,2010,08,"Information & Communication",100.01
+Selangor,2010,09,"Recreation, Sport & Culture",100
+Selangor,2010,10,Education,100.02
+Selangor,2010,11,"Restaurants & Accommodation",99.99
+Selangor,2010,12,"Insurance & Financial Services",100
+Selangor,2010,13,"Personal Care & Miscellaneous",100.01
+Selangor,2010,overall,"Overall CPI",99.98
+Selangor,2011,01,"Food & Beverages",105.19
+Selangor,2011,02,"Alcohol & Tobacco",104.41
+Selangor,2011,03,"Clothing & Footwear",101.16
+Selangor,2011,04,"Housing, Utilities & Fuel",101.72
+Selangor,2011,05,"Furnishings & Household Maintenance",103.51
+Selangor,2011,06,Health,103.12
+Selangor,2011,07,Transport,105.06
+Selangor,2011,08,"Information & Communication",100.12
+Selangor,2011,09,"Recreation, Sport & Culture",101.84
+Selangor,2011,10,Education,102.38
+Selangor,2011,11,"Restaurants & Accommodation",107.1
+Selangor,2011,12,"Insurance & Financial Services",99.75
+Selangor,2011,13,"Personal Care & Miscellaneous",101.82
+Selangor,2011,overall,"Overall CPI",103.38
+Selangor,2012,01,"Food & Beverages",108.03
+Selangor,2012,02,"Alcohol & Tobacco",104.52
+Selangor,2012,03,"Clothing & Footwear",101.2
+Selangor,2012,04,"Housing, Utilities & Fuel",103.62
+Selangor,2012,05,"Furnishings & Household Maintenance",105.21
+Selangor,2012,06,Health,105.02
+Selangor,2012,07,Transport,105.78
+Selangor,2012,08,"Information & Communication",99.4
+Selangor,2012,09,"Recreation, Sport & Culture",103.33
+Selangor,2012,10,Education,104.6
+Selangor,2012,11,"Restaurants & Accommodation",111.32
+Selangor,2012,12,"Insurance & Financial Services",98.72
+Selangor,2012,13,"Personal Care & Miscellaneous",102.72
+Selangor,2012,overall,"Overall CPI",105.13
+Selangor,2013,01,"Food & Beverages",112.35
+Selangor,2013,02,"Alcohol & Tobacco",110.82
+Selangor,2013,03,"Clothing & Footwear",100.51
+Selangor,2013,04,"Housing, Utilities & Fuel",105.78
+Selangor,2013,05,"Furnishings & Household Maintenance",107.12
+Selangor,2013,06,Health,106.86
+Selangor,2013,07,Transport,107.18
+Selangor,2013,08,"Information & Communication",98.98
+Selangor,2013,09,"Recreation, Sport & Culture",104.02
+Selangor,2013,10,Education,108.07
+Selangor,2013,11,"Restaurants & Accommodation",114.74
+Selangor,2013,12,"Insurance & Financial Services",99.42
+Selangor,2013,13,"Personal Care & Miscellaneous",102.45
+Selangor,2013,overall,"Overall CPI",107.47
+Selangor,2014,01,"Food & Beverages",116.87
+Selangor,2014,02,"Alcohol & Tobacco",123.69
+Selangor,2014,03,"Clothing & Footwear",101.27
+Selangor,2014,04,"Housing, Utilities & Fuel",109.82
+Selangor,2014,05,"Furnishings & Household Maintenance",108.9
+Selangor,2014,06,Health,110.5
+Selangor,2014,07,Transport,111.95
+Selangor,2014,08,"Information & Communication",98.22
+Selangor,2014,09,"Recreation, Sport & Culture",105.64
+Selangor,2014,10,Education,111.42
+Selangor,2014,11,"Restaurants & Accommodation",122.38
+Selangor,2014,12,"Insurance & Financial Services",99.8
+Selangor,2014,13,"Personal Care & Miscellaneous",102.19
+Selangor,2014,overall,"Overall CPI",111.16
+Selangor,2015,01,"Food & Beverages",121.65
+Selangor,2015,02,"Alcohol & Tobacco",140.22
+Selangor,2015,03,"Clothing & Footwear",102.53
+Selangor,2015,04,"Housing, Utilities & Fuel",113.54
+Selangor,2015,05,"Furnishings & Household Maintenance",112.08
+Selangor,2015,06,Health,115.09
+Selangor,2015,07,Transport,107.09
+Selangor,2015,08,"Information & Communication",99.66
+Selangor,2015,09,"Recreation, Sport & Culture",108.09
+Selangor,2015,10,Education,113.34
+Selangor,2015,11,"Restaurants & Accommodation",127.62
+Selangor,2015,12,"Insurance & Financial Services",104.32
+Selangor,2015,13,"Personal Care & Miscellaneous",106.24
+Selangor,2015,overall,"Overall CPI",114.02
+Selangor,2016,01,"Food & Beverages",126.6
+Selangor,2016,02,"Alcohol & Tobacco",164.32
+Selangor,2016,03,"Clothing & Footwear",102.48
+Selangor,2016,04,"Housing, Utilities & Fuel",116.48
+Selangor,2016,05,"Furnishings & Household Maintenance",114.99
+Selangor,2016,06,Health,117.98
+Selangor,2016,07,Transport,103.1
+Selangor,2016,08,"Information & Communication",98.23
+Selangor,2016,09,"Recreation, Sport & Culture",111.05
+Selangor,2016,10,Education,116.05
+Selangor,2016,11,"Restaurants & Accommodation",131.12
+Selangor,2016,12,"Insurance & Financial Services",107.14
+Selangor,2016,13,"Personal Care & Miscellaneous",109.12
+Selangor,2016,overall,"Overall CPI",116.61
+Selangor,2017,01,"Food & Beverages",131.98
+Selangor,2017,02,"Alcohol & Tobacco",164.2
+Selangor,2017,03,"Clothing & Footwear",102.27
+Selangor,2017,04,"Housing, Utilities & Fuel",120.09
+Selangor,2017,05,"Furnishings & Household Maintenance",117.78
+Selangor,2017,06,Health,120.92
+Selangor,2017,07,Transport,116.42
+Selangor,2017,08,"Information & Communication",97.93
+Selangor,2017,09,"Recreation, Sport & Culture",113.96
+Selangor,2017,10,Education,117.56
+Selangor,2017,11,"Restaurants & Accommodation",135.42
+Selangor,2017,12,"Insurance & Financial Services",107.4
+Selangor,2017,13,"Personal Care & Miscellaneous",110.08
+Selangor,2017,overall,"Overall CPI",121.47
+Selangor,2018,01,"Food & Beverages",134.16
+Selangor,2018,02,"Alcohol & Tobacco",164.43
+Selangor,2018,03,"Clothing & Footwear",100.98
+Selangor,2018,04,"Housing, Utilities & Fuel",123.53
+Selangor,2018,05,"Furnishings & Household Maintenance",119
+Selangor,2018,06,Health,121.98
+Selangor,2018,07,Transport,118.74
+Selangor,2018,08,"Information & Communication",95.69
+Selangor,2018,09,"Recreation, Sport & Culture",113.29
+Selangor,2018,10,Education,118.58
+Selangor,2018,11,"Restaurants & Accommodation",137.66
+Selangor,2018,12,"Insurance & Financial Services",104.72
+Selangor,2018,13,"Personal Care & Miscellaneous",108.45
+Selangor,2018,overall,"Overall CPI",123.16
+Selangor,2019,01,"Food & Beverages",136.64
+Selangor,2019,02,"Alcohol & Tobacco",167
+Selangor,2019,03,"Clothing & Footwear",99.74
+Selangor,2019,04,"Housing, Utilities & Fuel",126.33
+Selangor,2019,05,"Furnishings & Household Maintenance",121.59
+Selangor,2019,06,Health,122.76
+Selangor,2019,07,Transport,115.59
+Selangor,2019,08,"Information & Communication",95.65
+Selangor,2019,09,"Recreation, Sport & Culture",113.87
+Selangor,2019,10,Education,120.76
+Selangor,2019,11,"Restaurants & Accommodation",139.22
+Selangor,2019,12,"Insurance & Financial Services",102.76
+Selangor,2019,13,"Personal Care & Miscellaneous",108.29
+Selangor,2019,overall,"Overall CPI",124.25
+Selangor,2020,01,"Food & Beverages",139.42
+Selangor,2020,02,"Alcohol & Tobacco",167.48
+Selangor,2020,03,"Clothing & Footwear",99.05
+Selangor,2020,04,"Housing, Utilities & Fuel",124.59
+Selangor,2020,05,"Furnishings & Household Maintenance",121.88
+Selangor,2020,06,Health,124.06
+Selangor,2020,07,Transport,105.88
+Selangor,2020,08,"Information & Communication",96.4
+Selangor,2020,09,"Recreation, Sport & Culture",114.92
+Selangor,2020,10,Education,122.19
+Selangor,2020,11,"Restaurants & Accommodation",141.38
+Selangor,2020,12,"Insurance & Financial Services",102.3
+Selangor,2020,13,"Personal Care & Miscellaneous",112.4
+Selangor,2020,overall,"Overall CPI",123.52
+Selangor,2021,01,"Food & Beverages",142.83
+Selangor,2021,02,"Alcohol & Tobacco",168.32
+Selangor,2021,03,"Clothing & Footwear",98.68
+Selangor,2021,04,"Housing, Utilities & Fuel",126.62
+Selangor,2021,05,"Furnishings & Household Maintenance",124.97
+Selangor,2021,06,Health,124.94
+Selangor,2021,07,Transport,116.64
+Selangor,2021,08,"Information & Communication",96.4
+Selangor,2021,09,"Recreation, Sport & Culture",115.81
+Selangor,2021,10,Education,122.55
+Selangor,2021,11,"Restaurants & Accommodation",142.28
+Selangor,2021,12,"Insurance & Financial Services",102.3
+Selangor,2021,13,"Personal Care & Miscellaneous",113.23
+Selangor,2021,overall,"Overall CPI",126.79
+Selangor,2022,01,"Food & Beverages",153.31
+Selangor,2022,02,"Alcohol & Tobacco",169.32
+Selangor,2022,03,"Clothing & Footwear",99.38
+Selangor,2022,04,"Housing, Utilities & Fuel",129.2
+Selangor,2022,05,"Furnishings & Household Maintenance",130.97
+Selangor,2022,06,Health,126.67
+Selangor,2022,07,Transport,123.6
+Selangor,2022,08,"Information & Communication",96.41
+Selangor,2022,09,"Recreation, Sport & Culture",119.82
+Selangor,2022,10,Education,124.57
+Selangor,2022,11,"Restaurants & Accommodation",148.38
+Selangor,2022,12,"Insurance & Financial Services",102.3
+Selangor,2022,13,"Personal Care & Miscellaneous",116.01
+Selangor,2022,overall,"Overall CPI",132.08
+Selangor,2023,01,"Food & Beverages",162.55
+Selangor,2023,02,"Alcohol & Tobacco",170.59
+Selangor,2023,03,"Clothing & Footwear",100.29
+Selangor,2023,04,"Housing, Utilities & Fuel",130.92
+Selangor,2023,05,"Furnishings & Household Maintenance",133.53
+Selangor,2023,06,Health,129.88
+Selangor,2023,07,Transport,125.94
+Selangor,2023,08,"Information & Communication",93.57
+Selangor,2023,09,"Recreation, Sport & Culture",121.73
+Selangor,2023,10,Education,125.84
+Selangor,2023,11,"Restaurants & Accommodation",157.59
+Selangor,2023,12,"Insurance & Financial Services",102.38
+Selangor,2023,13,"Personal Care & Miscellaneous",119.45
+Selangor,2023,overall,"Overall CPI",135.85
+Selangor,2024,01,"Food & Beverages",167.94
+Selangor,2024,02,"Alcohol & Tobacco",171.38
+Selangor,2024,03,"Clothing & Footwear",100.62
+Selangor,2024,04,"Housing, Utilities & Fuel",134.17
+Selangor,2024,05,"Furnishings & Household Maintenance",134.52
+Selangor,2024,06,Health,133.4
+Selangor,2024,07,Transport,127.45
+Selangor,2024,08,"Information & Communication",92.16
+Selangor,2024,09,"Recreation, Sport & Culture",123.89
+Selangor,2024,10,Education,128.09
+Selangor,2024,11,"Restaurants & Accommodation",162.81
+Selangor,2024,12,"Insurance & Financial Services",102.2
+Selangor,2024,13,"Personal Care & Miscellaneous",124.22
+Selangor,2024,overall,"Overall CPI",138.82
+Selangor,2025,01,"Food & Beverages",172.56
+Selangor,2025,02,"Alcohol & Tobacco",172.44
+Selangor,2025,03,"Clothing & Footwear",101.3
+Selangor,2025,04,"Housing, Utilities & Fuel",137.02
+Selangor,2025,05,"Furnishings & Household Maintenance",134.82
+Selangor,2025,06,Health,135.33
+Selangor,2025,07,Transport,128.17
+Selangor,2025,08,"Information & Communication",87.32
+Selangor,2025,09,"Recreation, Sport & Culture",124.49
+Selangor,2025,10,Education,130.31
+Selangor,2025,11,"Restaurants & Accommodation",168.61
+Selangor,2025,12,"Insurance & Financial Services",105.58
+Selangor,2025,13,"Personal Care & Miscellaneous",129.99
+Selangor,2025,overall,"Overall CPI",141.15
+Selangor,2026,01,"Food & Beverages",174.5
+Selangor,2026,02,"Alcohol & Tobacco",176.26
+Selangor,2026,03,"Clothing & Footwear",102.21
+Selangor,2026,04,"Housing, Utilities & Fuel",138.71
+Selangor,2026,05,"Furnishings & Household Maintenance",135.71
+Selangor,2026,06,Health,136.8
+Selangor,2026,07,Transport,130.89
+Selangor,2026,08,"Information & Communication",88.89
+Selangor,2026,09,"Recreation, Sport & Culture",125.61
+Selangor,2026,10,Education,132.02
+Selangor,2026,11,"Restaurants & Accommodation",173.44
+Selangor,2026,12,"Insurance & Financial Services",107.73
+Selangor,2026,13,"Personal Care & Miscellaneous",136.93
+Selangor,2026,overall,"Overall CPI",143.44
+Terengganu,2010,01,"Food & Beverages",99.99
+Terengganu,2010,02,"Alcohol & Tobacco",100
+Terengganu,2010,03,"Clothing & Footwear",100.01
+Terengganu,2010,04,"Housing, Utilities & Fuel",99.99
+Terengganu,2010,05,"Furnishings & Household Maintenance",99.99
+Terengganu,2010,06,Health,100
+Terengganu,2010,07,Transport,99.99
+Terengganu,2010,08,"Information & Communication",100.02
+Terengganu,2010,09,"Recreation, Sport & Culture",100
+Terengganu,2010,10,Education,99.98
+Terengganu,2010,11,"Restaurants & Accommodation",100.01
+Terengganu,2010,12,"Insurance & Financial Services",100
+Terengganu,2010,13,"Personal Care & Miscellaneous",100
+Terengganu,2010,overall,"Overall CPI",99.99
+Terengganu,2011,01,"Food & Beverages",105.69
+Terengganu,2011,02,"Alcohol & Tobacco",105.49
+Terengganu,2011,03,"Clothing & Footwear",99.72
+Terengganu,2011,04,"Housing, Utilities & Fuel",102.23
+Terengganu,2011,05,"Furnishings & Household Maintenance",100.46
+Terengganu,2011,06,Health,102.53
+Terengganu,2011,07,Transport,104.08
+Terengganu,2011,08,"Information & Communication",99.34
+Terengganu,2011,09,"Recreation, Sport & Culture",101.01
+Terengganu,2011,10,Education,101.07
+Terengganu,2011,11,"Restaurants & Accommodation",104.08
+Terengganu,2011,12,"Insurance & Financial Services",99.8
+Terengganu,2011,13,"Personal Care & Miscellaneous",103.06
+Terengganu,2011,overall,"Overall CPI",103.65
+Terengganu,2012,01,"Food & Beverages",107.23
+Terengganu,2012,02,"Alcohol & Tobacco",105.81
+Terengganu,2012,03,"Clothing & Footwear",99.68
+Terengganu,2012,04,"Housing, Utilities & Fuel",103.78
+Terengganu,2012,05,"Furnishings & Household Maintenance",102.01
+Terengganu,2012,06,Health,104.3
+Terengganu,2012,07,Transport,104.94
+Terengganu,2012,08,"Information & Communication",98.9
+Terengganu,2012,09,"Recreation, Sport & Culture",101.22
+Terengganu,2012,10,Education,107.26
+Terengganu,2012,11,"Restaurants & Accommodation",105.89
+Terengganu,2012,12,"Insurance & Financial Services",101.15
+Terengganu,2012,13,"Personal Care & Miscellaneous",105.12
+Terengganu,2012,overall,"Overall CPI",104.93
+Terengganu,2013,01,"Food & Beverages",110.44
+Terengganu,2013,02,"Alcohol & Tobacco",113.3
+Terengganu,2013,03,"Clothing & Footwear",99.11
+Terengganu,2013,04,"Housing, Utilities & Fuel",105.33
+Terengganu,2013,05,"Furnishings & Household Maintenance",103.17
+Terengganu,2013,06,Health,106.28
+Terengganu,2013,07,Transport,106.97
+Terengganu,2013,08,"Information & Communication",98.4
+Terengganu,2013,09,"Recreation, Sport & Culture",101.19
+Terengganu,2013,10,Education,112.78
+Terengganu,2013,11,"Restaurants & Accommodation",106.05
+Terengganu,2013,12,"Insurance & Financial Services",107.33
+Terengganu,2013,13,"Personal Care & Miscellaneous",105.59
+Terengganu,2013,overall,"Overall CPI",106.98
+Terengganu,2014,01,"Food & Beverages",113.32
+Terengganu,2014,02,"Alcohol & Tobacco",129.16
+Terengganu,2014,03,"Clothing & Footwear",98.97
+Terengganu,2014,04,"Housing, Utilities & Fuel",107.85
+Terengganu,2014,05,"Furnishings & Household Maintenance",103.8
+Terengganu,2014,06,Health,108.81
+Terengganu,2014,07,Transport,111.97
+Terengganu,2014,08,"Information & Communication",97.47
+Terengganu,2014,09,"Recreation, Sport & Culture",102.08
+Terengganu,2014,10,Education,113.81
+Terengganu,2014,11,"Restaurants & Accommodation",108.44
+Terengganu,2014,12,"Insurance & Financial Services",112.48
+Terengganu,2014,13,"Personal Care & Miscellaneous",106.42
+Terengganu,2014,overall,"Overall CPI",109.81
+Terengganu,2015,01,"Food & Beverages",116.14
+Terengganu,2015,02,"Alcohol & Tobacco",148.79
+Terengganu,2015,03,"Clothing & Footwear",98.66
+Terengganu,2015,04,"Housing, Utilities & Fuel",110.2
+Terengganu,2015,05,"Furnishings & Household Maintenance",107.55
+Terengganu,2015,06,Health,113.47
+Terengganu,2015,07,Transport,106.94
+Terengganu,2015,08,"Information & Communication",99.16
+Terengganu,2015,09,"Recreation, Sport & Culture",102.24
+Terengganu,2015,10,Education,117.17
+Terengganu,2015,11,"Restaurants & Accommodation",110.67
+Terengganu,2015,12,"Insurance & Financial Services",120.55
+Terengganu,2015,13,"Personal Care & Miscellaneous",112.23
+Terengganu,2015,overall,"Overall CPI",111.42
+Terengganu,2016,01,"Food & Beverages",119.82
+Terengganu,2016,02,"Alcohol & Tobacco",177.88
+Terengganu,2016,03,"Clothing & Footwear",98.01
+Terengganu,2016,04,"Housing, Utilities & Fuel",111.59
+Terengganu,2016,05,"Furnishings & Household Maintenance",110.26
+Terengganu,2016,06,Health,115.68
+Terengganu,2016,07,Transport,101.25
+Terengganu,2016,08,"Information & Communication",97.28
+Terengganu,2016,09,"Recreation, Sport & Culture",103.76
+Terengganu,2016,10,Education,118.82
+Terengganu,2016,11,"Restaurants & Accommodation",113.45
+Terengganu,2016,12,"Insurance & Financial Services",125.1
+Terengganu,2016,13,"Personal Care & Miscellaneous",115.42
+Terengganu,2016,overall,"Overall CPI",113.03
+Terengganu,2017,01,"Food & Beverages",123.07
+Terengganu,2017,02,"Alcohol & Tobacco",177.9
+Terengganu,2017,03,"Clothing & Footwear",97.1
+Terengganu,2017,04,"Housing, Utilities & Fuel",112.71
+Terengganu,2017,05,"Furnishings & Household Maintenance",111.52
+Terengganu,2017,06,Health,118.89
+Terengganu,2017,07,Transport,114.28
+Terengganu,2017,08,"Information & Communication",97.08
+Terengganu,2017,09,"Recreation, Sport & Culture",106.23
+Terengganu,2017,10,Education,118.8
+Terengganu,2017,11,"Restaurants & Accommodation",115.26
+Terengganu,2017,12,"Insurance & Financial Services",125.8
+Terengganu,2017,13,"Personal Care & Miscellaneous",116.65
+Terengganu,2017,overall,"Overall CPI",116.45
+Terengganu,2018,01,"Food & Beverages",124.41
+Terengganu,2018,02,"Alcohol & Tobacco",178.43
+Terengganu,2018,03,"Clothing & Footwear",95.47
+Terengganu,2018,04,"Housing, Utilities & Fuel",113.83
+Terengganu,2018,05,"Furnishings & Household Maintenance",110.66
+Terengganu,2018,06,Health,120.19
+Terengganu,2018,07,Transport,115.56
+Terengganu,2018,08,"Information & Communication",96.22
+Terengganu,2018,09,"Recreation, Sport & Culture",105.32
+Terengganu,2018,10,Education,119.83
+Terengganu,2018,11,"Restaurants & Accommodation",116.62
+Terengganu,2018,12,"Insurance & Financial Services",123.7
+Terengganu,2018,13,"Personal Care & Miscellaneous",114.46
+Terengganu,2018,overall,"Overall CPI",116.96
+Terengganu,2019,01,"Food & Beverages",125.85
+Terengganu,2019,02,"Alcohol & Tobacco",182.38
+Terengganu,2019,03,"Clothing & Footwear",93.83
+Terengganu,2019,04,"Housing, Utilities & Fuel",114.94
+Terengganu,2019,05,"Furnishings & Household Maintenance",110.52
+Terengganu,2019,06,Health,121.4
+Terengganu,2019,07,Transport,110.62
+Terengganu,2019,08,"Information & Communication",96.7
+Terengganu,2019,09,"Recreation, Sport & Culture",106.27
+Terengganu,2019,10,Education,125.13
+Terengganu,2019,11,"Restaurants & Accommodation",117.82
+Terengganu,2019,12,"Insurance & Financial Services",122.2
+Terengganu,2019,13,"Personal Care & Miscellaneous",116.08
+Terengganu,2019,overall,"Overall CPI",117.05
+Terengganu,2020,01,"Food & Beverages",127.65
+Terengganu,2020,02,"Alcohol & Tobacco",182.79
+Terengganu,2020,03,"Clothing & Footwear",93.25
+Terengganu,2020,04,"Housing, Utilities & Fuel",111.18
+Terengganu,2020,05,"Furnishings & Household Maintenance",110.66
+Terengganu,2020,06,Health,123.41
+Terengganu,2020,07,Transport,98.32
+Terengganu,2020,08,"Information & Communication",97.6
+Terengganu,2020,09,"Recreation, Sport & Culture",107.52
+Terengganu,2020,10,Education,126.61
+Terengganu,2020,11,"Restaurants & Accommodation",119.26
+Terengganu,2020,12,"Insurance & Financial Services",122.2
+Terengganu,2020,13,"Personal Care & Miscellaneous",122.23
+Terengganu,2020,overall,"Overall CPI",115.55
+Terengganu,2021,01,"Food & Beverages",130.51
+Terengganu,2021,02,"Alcohol & Tobacco",183.24
+Terengganu,2021,03,"Clothing & Footwear",92.88
+Terengganu,2021,04,"Housing, Utilities & Fuel",113.46
+Terengganu,2021,05,"Furnishings & Household Maintenance",112.53
+Terengganu,2021,06,Health,124.19
+Terengganu,2021,07,Transport,112.81
+Terengganu,2021,08,"Information & Communication",97.51
+Terengganu,2021,09,"Recreation, Sport & Culture",108.06
+Terengganu,2021,10,Education,128.09
+Terengganu,2021,11,"Restaurants & Accommodation",121.38
+Terengganu,2021,12,"Insurance & Financial Services",122.2
+Terengganu,2021,13,"Personal Care & Miscellaneous",123.77
+Terengganu,2021,overall,"Overall CPI",119.52
+Terengganu,2022,01,"Food & Beverages",136.92
+Terengganu,2022,02,"Alcohol & Tobacco",183.75
+Terengganu,2022,03,"Clothing & Footwear",93.52
+Terengganu,2022,04,"Housing, Utilities & Fuel",114.94
+Terengganu,2022,05,"Furnishings & Household Maintenance",115.5
+Terengganu,2022,06,Health,125.5
+Terengganu,2022,07,Transport,117.13
+Terengganu,2022,08,"Information & Communication",97.35
+Terengganu,2022,09,"Recreation, Sport & Culture",109.57
+Terengganu,2022,10,Education,128.89
+Terengganu,2022,11,"Restaurants & Accommodation",126.13
+Terengganu,2022,12,"Insurance & Financial Services",122.2
+Terengganu,2022,13,"Personal Care & Miscellaneous",126.56
+Terengganu,2022,overall,"Overall CPI",123.17
+Terengganu,2023,01,"Food & Beverages",141.81
+Terengganu,2023,02,"Alcohol & Tobacco",184.2
+Terengganu,2023,03,"Clothing & Footwear",94.12
+Terengganu,2023,04,"Housing, Utilities & Fuel",115.2
+Terengganu,2023,05,"Furnishings & Household Maintenance",117.63
+Terengganu,2023,06,Health,126.68
+Terengganu,2023,07,Transport,117.88
+Terengganu,2023,08,"Information & Communication",95.1
+Terengganu,2023,09,"Recreation, Sport & Culture",110.53
+Terengganu,2023,10,Education,129.25
+Terengganu,2023,11,"Restaurants & Accommodation",130.76
+Terengganu,2023,12,"Insurance & Financial Services",122.2
+Terengganu,2023,13,"Personal Care & Miscellaneous",130.47
+Terengganu,2023,overall,"Overall CPI",125.38
+Terengganu,2024,01,"Food & Beverages",144.36
+Terengganu,2024,02,"Alcohol & Tobacco",184.56
+Terengganu,2024,03,"Clothing & Footwear",94.25
+Terengganu,2024,04,"Housing, Utilities & Fuel",117.68
+Terengganu,2024,05,"Furnishings & Household Maintenance",118.4
+Terengganu,2024,06,Health,127.54
+Terengganu,2024,07,Transport,118.81
+Terengganu,2024,08,"Information & Communication",93.74
+Terengganu,2024,09,"Recreation, Sport & Culture",110.77
+Terengganu,2024,10,Education,132.67
+Terengganu,2024,11,"Restaurants & Accommodation",134.52
+Terengganu,2024,12,"Insurance & Financial Services",122.2
+Terengganu,2024,13,"Personal Care & Miscellaneous",134.93
+Terengganu,2024,overall,"Overall CPI",127.27
+Terengganu,2025,01,"Food & Beverages",147.83
+Terengganu,2025,02,"Alcohol & Tobacco",185.53
+Terengganu,2025,03,"Clothing & Footwear",94.78
+Terengganu,2025,04,"Housing, Utilities & Fuel",118.94
+Terengganu,2025,05,"Furnishings & Household Maintenance",118.75
+Terengganu,2025,06,Health,128.34
+Terengganu,2025,07,Transport,119.07
+Terengganu,2025,08,"Information & Communication",90.06
+Terengganu,2025,09,"Recreation, Sport & Culture",111.92
+Terengganu,2025,10,Education,128.42
+Terengganu,2025,11,"Restaurants & Accommodation",139.55
+Terengganu,2025,12,"Insurance & Financial Services",123.4
+Terengganu,2025,13,"Personal Care & Miscellaneous",139.82
+Terengganu,2025,overall,"Overall CPI",128.92
+Terengganu,2026,01,"Food & Beverages",148.56
+Terengganu,2026,02,"Alcohol & Tobacco",190.46
+Terengganu,2026,03,"Clothing & Footwear",95.09
+Terengganu,2026,04,"Housing, Utilities & Fuel",122.68
+Terengganu,2026,05,"Furnishings & Household Maintenance",119.03
+Terengganu,2026,06,Health,129.36
+Terengganu,2026,07,Transport,121.77
+Terengganu,2026,08,"Information & Communication",91.96
+Terengganu,2026,09,"Recreation, Sport & Culture",112.64
+Terengganu,2026,10,Education,130.3
+Terengganu,2026,11,"Restaurants & Accommodation",141.63
+Terengganu,2026,12,"Insurance & Financial Services",124.73
+Terengganu,2026,13,"Personal Care & Miscellaneous",143.39
+Terengganu,2026,overall,"Overall CPI",130.81
+"W.P. Kuala Lumpur",2010,01,"Food & Beverages",100
+"W.P. Kuala Lumpur",2010,02,"Alcohol & Tobacco",99.98
+"W.P. Kuala Lumpur",2010,03,"Clothing & Footwear",100
+"W.P. Kuala Lumpur",2010,04,"Housing, Utilities & Fuel",100
+"W.P. Kuala Lumpur",2010,05,"Furnishings & Household Maintenance",100
+"W.P. Kuala Lumpur",2010,06,Health,100.01
+"W.P. Kuala Lumpur",2010,07,Transport,100.01
+"W.P. Kuala Lumpur",2010,08,"Information & Communication",99.99
+"W.P. Kuala Lumpur",2010,09,"Recreation, Sport & Culture",100
+"W.P. Kuala Lumpur",2010,10,Education,99.99
+"W.P. Kuala Lumpur",2010,11,"Restaurants & Accommodation",100.01
+"W.P. Kuala Lumpur",2010,12,"Insurance & Financial Services",100
+"W.P. Kuala Lumpur",2010,13,"Personal Care & Miscellaneous",100
+"W.P. Kuala Lumpur",2010,overall,"Overall CPI",100.01
+"W.P. Kuala Lumpur",2011,01,"Food & Beverages",103.82
+"W.P. Kuala Lumpur",2011,02,"Alcohol & Tobacco",104.5
+"W.P. Kuala Lumpur",2011,03,"Clothing & Footwear",100.18
+"W.P. Kuala Lumpur",2011,04,"Housing, Utilities & Fuel",101.46
+"W.P. Kuala Lumpur",2011,05,"Furnishings & Household Maintenance",100.15
+"W.P. Kuala Lumpur",2011,06,Health,102.36
+"W.P. Kuala Lumpur",2011,07,Transport,105.51
+"W.P. Kuala Lumpur",2011,08,"Information & Communication",99.14
+"W.P. Kuala Lumpur",2011,09,"Recreation, Sport & Culture",100.92
+"W.P. Kuala Lumpur",2011,10,Education,104.18
+"W.P. Kuala Lumpur",2011,11,"Restaurants & Accommodation",106.22
+"W.P. Kuala Lumpur",2011,12,"Insurance & Financial Services",100
+"W.P. Kuala Lumpur",2011,13,"Personal Care & Miscellaneous",102.79
+"W.P. Kuala Lumpur",2011,overall,"Overall CPI",102.66
+"W.P. Kuala Lumpur",2012,01,"Food & Beverages",106.01
+"W.P. Kuala Lumpur",2012,02,"Alcohol & Tobacco",105.14
+"W.P. Kuala Lumpur",2012,03,"Clothing & Footwear",97.78
+"W.P. Kuala Lumpur",2012,04,"Housing, Utilities & Fuel",103.45
+"W.P. Kuala Lumpur",2012,05,"Furnishings & Household Maintenance",100.44
+"W.P. Kuala Lumpur",2012,06,Health,103.74
+"W.P. Kuala Lumpur",2012,07,Transport,106.12
+"W.P. Kuala Lumpur",2012,08,"Information & Communication",98.48
+"W.P. Kuala Lumpur",2012,09,"Recreation, Sport & Culture",101.78
+"W.P. Kuala Lumpur",2012,10,Education,108.16
+"W.P. Kuala Lumpur",2012,11,"Restaurants & Accommodation",108.38
+"W.P. Kuala Lumpur",2012,12,"Insurance & Financial Services",101.22
+"W.P. Kuala Lumpur",2012,13,"Personal Care & Miscellaneous",104.75
+"W.P. Kuala Lumpur",2012,overall,"Overall CPI",104.12
+"W.P. Kuala Lumpur",2013,01,"Food & Beverages",108.64
+"W.P. Kuala Lumpur",2013,02,"Alcohol & Tobacco",110.97
+"W.P. Kuala Lumpur",2013,03,"Clothing & Footwear",97.68
+"W.P. Kuala Lumpur",2013,04,"Housing, Utilities & Fuel",105.31
+"W.P. Kuala Lumpur",2013,05,"Furnishings & Household Maintenance",101.76
+"W.P. Kuala Lumpur",2013,06,Health,105.18
+"W.P. Kuala Lumpur",2013,07,Transport,108.32
+"W.P. Kuala Lumpur",2013,08,"Information & Communication",96.8
+"W.P. Kuala Lumpur",2013,09,"Recreation, Sport & Culture",101.22
+"W.P. Kuala Lumpur",2013,10,Education,109.18
+"W.P. Kuala Lumpur",2013,11,"Restaurants & Accommodation",110.2
+"W.P. Kuala Lumpur",2013,12,"Insurance & Financial Services",101.85
+"W.P. Kuala Lumpur",2013,13,"Personal Care & Miscellaneous",105.29
+"W.P. Kuala Lumpur",2013,overall,"Overall CPI",105.75
+"W.P. Kuala Lumpur",2014,01,"Food & Beverages",111.87
+"W.P. Kuala Lumpur",2014,02,"Alcohol & Tobacco",123.06
+"W.P. Kuala Lumpur",2014,03,"Clothing & Footwear",97.56
+"W.P. Kuala Lumpur",2014,04,"Housing, Utilities & Fuel",110.72
+"W.P. Kuala Lumpur",2014,05,"Furnishings & Household Maintenance",102.09
+"W.P. Kuala Lumpur",2014,06,Health,106.9
+"W.P. Kuala Lumpur",2014,07,Transport,114.14
+"W.P. Kuala Lumpur",2014,08,"Information & Communication",95.58
+"W.P. Kuala Lumpur",2014,09,"Recreation, Sport & Culture",102.41
+"W.P. Kuala Lumpur",2014,10,Education,111.82
+"W.P. Kuala Lumpur",2014,11,"Restaurants & Accommodation",115.35
+"W.P. Kuala Lumpur",2014,12,"Insurance & Financial Services",101.87
+"W.P. Kuala Lumpur",2014,13,"Personal Care & Miscellaneous",105.85
+"W.P. Kuala Lumpur",2014,overall,"Overall CPI",109.34
+"W.P. Kuala Lumpur",2015,01,"Food & Beverages",116.68
+"W.P. Kuala Lumpur",2015,02,"Alcohol & Tobacco",138.83
+"W.P. Kuala Lumpur",2015,03,"Clothing & Footwear",100.1
+"W.P. Kuala Lumpur",2015,04,"Housing, Utilities & Fuel",114.46
+"W.P. Kuala Lumpur",2015,05,"Furnishings & Household Maintenance",105.99
+"W.P. Kuala Lumpur",2015,06,Health,113.48
+"W.P. Kuala Lumpur",2015,07,Transport,108.59
+"W.P. Kuala Lumpur",2015,08,"Information & Communication",96.37
+"W.P. Kuala Lumpur",2015,09,"Recreation, Sport & Culture",104.9
+"W.P. Kuala Lumpur",2015,10,Education,116.48
+"W.P. Kuala Lumpur",2015,11,"Restaurants & Accommodation",123.25
+"W.P. Kuala Lumpur",2015,12,"Insurance & Financial Services",103.93
+"W.P. Kuala Lumpur",2015,13,"Personal Care & Miscellaneous",109.38
+"W.P. Kuala Lumpur",2015,overall,"Overall CPI",112.37
+"W.P. Kuala Lumpur",2016,01,"Food & Beverages",121.57
+"W.P. Kuala Lumpur",2016,02,"Alcohol & Tobacco",161.16
+"W.P. Kuala Lumpur",2016,03,"Clothing & Footwear",98.93
+"W.P. Kuala Lumpur",2016,04,"Housing, Utilities & Fuel",117.49
+"W.P. Kuala Lumpur",2016,05,"Furnishings & Household Maintenance",110.03
+"W.P. Kuala Lumpur",2016,06,Health,114.7
+"W.P. Kuala Lumpur",2016,07,Transport,106.54
+"W.P. Kuala Lumpur",2016,08,"Information & Communication",95
+"W.P. Kuala Lumpur",2016,09,"Recreation, Sport & Culture",110.38
+"W.P. Kuala Lumpur",2016,10,Education,117.73
+"W.P. Kuala Lumpur",2016,11,"Restaurants & Accommodation",127.16
+"W.P. Kuala Lumpur",2016,12,"Insurance & Financial Services",106.2
+"W.P. Kuala Lumpur",2016,13,"Personal Care & Miscellaneous",112.92
+"W.P. Kuala Lumpur",2016,overall,"Overall CPI",115.49
+"W.P. Kuala Lumpur",2017,01,"Food & Beverages",127.1
+"W.P. Kuala Lumpur",2017,02,"Alcohol & Tobacco",162.13
+"W.P. Kuala Lumpur",2017,03,"Clothing & Footwear",96.84
+"W.P. Kuala Lumpur",2017,04,"Housing, Utilities & Fuel",120.58
+"W.P. Kuala Lumpur",2017,05,"Furnishings & Household Maintenance",112.85
+"W.P. Kuala Lumpur",2017,06,Health,116.84
+"W.P. Kuala Lumpur",2017,07,Transport,121.29
+"W.P. Kuala Lumpur",2017,08,"Information & Communication",94.24
+"W.P. Kuala Lumpur",2017,09,"Recreation, Sport & Culture",111.76
+"W.P. Kuala Lumpur",2017,10,Education,119.13
+"W.P. Kuala Lumpur",2017,11,"Restaurants & Accommodation",128.94
+"W.P. Kuala Lumpur",2017,12,"Insurance & Financial Services",106.2
+"W.P. Kuala Lumpur",2017,13,"Personal Care & Miscellaneous",113.63
+"W.P. Kuala Lumpur",2017,overall,"Overall CPI",119.83
+"W.P. Kuala Lumpur",2018,01,"Food & Beverages",132.22
+"W.P. Kuala Lumpur",2018,02,"Alcohol & Tobacco",162.04
+"W.P. Kuala Lumpur",2018,03,"Clothing & Footwear",90.9
+"W.P. Kuala Lumpur",2018,04,"Housing, Utilities & Fuel",123.12
+"W.P. Kuala Lumpur",2018,05,"Furnishings & Household Maintenance",114.05
+"W.P. Kuala Lumpur",2018,06,Health,117.12
+"W.P. Kuala Lumpur",2018,07,Transport,122.68
+"W.P. Kuala Lumpur",2018,08,"Information & Communication",91.02
+"W.P. Kuala Lumpur",2018,09,"Recreation, Sport & Culture",111.17
+"W.P. Kuala Lumpur",2018,10,Education,124.54
+"W.P. Kuala Lumpur",2018,11,"Restaurants & Accommodation",130.48
+"W.P. Kuala Lumpur",2018,12,"Insurance & Financial Services",105.94
+"W.P. Kuala Lumpur",2018,13,"Personal Care & Miscellaneous",110.95
+"W.P. Kuala Lumpur",2018,overall,"Overall CPI",121.49
+"W.P. Kuala Lumpur",2019,01,"Food & Beverages",136.78
+"W.P. Kuala Lumpur",2019,02,"Alcohol & Tobacco",161.31
+"W.P. Kuala Lumpur",2019,03,"Clothing & Footwear",86.83
+"W.P. Kuala Lumpur",2019,04,"Housing, Utilities & Fuel",125.74
+"W.P. Kuala Lumpur",2019,05,"Furnishings & Household Maintenance",117.49
+"W.P. Kuala Lumpur",2019,06,Health,115.77
+"W.P. Kuala Lumpur",2019,07,Transport,119.72
+"W.P. Kuala Lumpur",2019,08,"Information & Communication",91.38
+"W.P. Kuala Lumpur",2019,09,"Recreation, Sport & Culture",111.48
+"W.P. Kuala Lumpur",2019,10,Education,126.32
+"W.P. Kuala Lumpur",2019,11,"Restaurants & Accommodation",132.42
+"W.P. Kuala Lumpur",2019,12,"Insurance & Financial Services",105.5
+"W.P. Kuala Lumpur",2019,13,"Personal Care & Miscellaneous",110.45
+"W.P. Kuala Lumpur",2019,overall,"Overall CPI",123.04
+"W.P. Kuala Lumpur",2020,01,"Food & Beverages",137.82
+"W.P. Kuala Lumpur",2020,02,"Alcohol & Tobacco",163.21
+"W.P. Kuala Lumpur",2020,03,"Clothing & Footwear",86.08
+"W.P. Kuala Lumpur",2020,04,"Housing, Utilities & Fuel",125.72
+"W.P. Kuala Lumpur",2020,05,"Furnishings & Household Maintenance",118.71
+"W.P. Kuala Lumpur",2020,06,Health,117.69
+"W.P. Kuala Lumpur",2020,07,Transport,110.84
+"W.P. Kuala Lumpur",2020,08,"Information & Communication",91.9
+"W.P. Kuala Lumpur",2020,09,"Recreation, Sport & Culture",110.78
+"W.P. Kuala Lumpur",2020,10,Education,127.66
+"W.P. Kuala Lumpur",2020,11,"Restaurants & Accommodation",129.38
+"W.P. Kuala Lumpur",2020,12,"Insurance & Financial Services",105.6
+"W.P. Kuala Lumpur",2020,13,"Personal Care & Miscellaneous",113.1
+"W.P. Kuala Lumpur",2020,overall,"Overall CPI",122.3
+"W.P. Kuala Lumpur",2021,01,"Food & Beverages",139.6
+"W.P. Kuala Lumpur",2021,02,"Alcohol & Tobacco",166.1
+"W.P. Kuala Lumpur",2021,03,"Clothing & Footwear",85.77
+"W.P. Kuala Lumpur",2021,04,"Housing, Utilities & Fuel",127.94
+"W.P. Kuala Lumpur",2021,05,"Furnishings & Household Maintenance",120.81
+"W.P. Kuala Lumpur",2021,06,Health,118.18
+"W.P. Kuala Lumpur",2021,07,Transport,119.22
+"W.P. Kuala Lumpur",2021,08,"Information & Communication",91.9
+"W.P. Kuala Lumpur",2021,09,"Recreation, Sport & Culture",112.05
+"W.P. Kuala Lumpur",2021,10,Education,127.89
+"W.P. Kuala Lumpur",2021,11,"Restaurants & Accommodation",129.43
+"W.P. Kuala Lumpur",2021,12,"Insurance & Financial Services",105.6
+"W.P. Kuala Lumpur",2021,13,"Personal Care & Miscellaneous",113.82
+"W.P. Kuala Lumpur",2021,overall,"Overall CPI",124.73
+"W.P. Kuala Lumpur",2022,01,"Food & Beverages",146.65
+"W.P. Kuala Lumpur",2022,02,"Alcohol & Tobacco",168.32
+"W.P. Kuala Lumpur",2022,03,"Clothing & Footwear",83.76
+"W.P. Kuala Lumpur",2022,04,"Housing, Utilities & Fuel",130.22
+"W.P. Kuala Lumpur",2022,05,"Furnishings & Household Maintenance",124.14
+"W.P. Kuala Lumpur",2022,06,Health,115.33
+"W.P. Kuala Lumpur",2022,07,Transport,124.91
+"W.P. Kuala Lumpur",2022,08,"Information & Communication",91.92
+"W.P. Kuala Lumpur",2022,09,"Recreation, Sport & Culture",112.68
+"W.P. Kuala Lumpur",2022,10,Education,128.12
+"W.P. Kuala Lumpur",2022,11,"Restaurants & Accommodation",137.87
+"W.P. Kuala Lumpur",2022,12,"Insurance & Financial Services",105.58
+"W.P. Kuala Lumpur",2022,13,"Personal Care & Miscellaneous",117.88
+"W.P. Kuala Lumpur",2022,overall,"Overall CPI",128.48
+"W.P. Kuala Lumpur",2023,01,"Food & Beverages",152.7
+"W.P. Kuala Lumpur",2023,02,"Alcohol & Tobacco",170.48
+"W.P. Kuala Lumpur",2023,03,"Clothing & Footwear",82.08
+"W.P. Kuala Lumpur",2023,04,"Housing, Utilities & Fuel",133.3
+"W.P. Kuala Lumpur",2023,05,"Furnishings & Household Maintenance",127.11
+"W.P. Kuala Lumpur",2023,06,Health,113.79
+"W.P. Kuala Lumpur",2023,07,Transport,124.33
+"W.P. Kuala Lumpur",2023,08,"Information & Communication",86.8
+"W.P. Kuala Lumpur",2023,09,"Recreation, Sport & Culture",115.55
+"W.P. Kuala Lumpur",2023,10,Education,130.5
+"W.P. Kuala Lumpur",2023,11,"Restaurants & Accommodation",147.41
+"W.P. Kuala Lumpur",2023,12,"Insurance & Financial Services",105.3
+"W.P. Kuala Lumpur",2023,13,"Personal Care & Miscellaneous",120.75
+"W.P. Kuala Lumpur",2023,overall,"Overall CPI",131.17
+"W.P. Kuala Lumpur",2024,01,"Food & Beverages",154.75
+"W.P. Kuala Lumpur",2024,02,"Alcohol & Tobacco",174.3
+"W.P. Kuala Lumpur",2024,03,"Clothing & Footwear",78.84
+"W.P. Kuala Lumpur",2024,04,"Housing, Utilities & Fuel",136.47
+"W.P. Kuala Lumpur",2024,05,"Furnishings & Household Maintenance",126.95
+"W.P. Kuala Lumpur",2024,06,Health,118.2
+"W.P. Kuala Lumpur",2024,07,Transport,123.53
+"W.P. Kuala Lumpur",2024,08,"Information & Communication",84.61
+"W.P. Kuala Lumpur",2024,09,"Recreation, Sport & Culture",118.97
+"W.P. Kuala Lumpur",2024,10,Education,131.52
+"W.P. Kuala Lumpur",2024,11,"Restaurants & Accommodation",152.63
+"W.P. Kuala Lumpur",2024,12,"Insurance & Financial Services",108
+"W.P. Kuala Lumpur",2024,13,"Personal Care & Miscellaneous",122.27
+"W.P. Kuala Lumpur",2024,overall,"Overall CPI",132.95
+"W.P. Kuala Lumpur",2025,01,"Food & Beverages",158.12
+"W.P. Kuala Lumpur",2025,02,"Alcohol & Tobacco",177.52
+"W.P. Kuala Lumpur",2025,03,"Clothing & Footwear",77.39
+"W.P. Kuala Lumpur",2025,04,"Housing, Utilities & Fuel",138.78
+"W.P. Kuala Lumpur",2025,05,"Furnishings & Household Maintenance",126.99
+"W.P. Kuala Lumpur",2025,06,Health,117.68
+"W.P. Kuala Lumpur",2025,07,Transport,123.62
+"W.P. Kuala Lumpur",2025,08,"Information & Communication",80.18
+"W.P. Kuala Lumpur",2025,09,"Recreation, Sport & Culture",122.42
+"W.P. Kuala Lumpur",2025,10,Education,133.75
+"W.P. Kuala Lumpur",2025,11,"Restaurants & Accommodation",156.52
+"W.P. Kuala Lumpur",2025,12,"Insurance & Financial Services",112.6
+"W.P. Kuala Lumpur",2025,13,"Personal Care & Miscellaneous",126.2
+"W.P. Kuala Lumpur",2025,overall,"Overall CPI",134.69
+"W.P. Kuala Lumpur",2026,01,"Food & Beverages",160.83
+"W.P. Kuala Lumpur",2026,02,"Alcohol & Tobacco",180.8
+"W.P. Kuala Lumpur",2026,03,"Clothing & Footwear",78
+"W.P. Kuala Lumpur",2026,04,"Housing, Utilities & Fuel",140.68
+"W.P. Kuala Lumpur",2026,05,"Furnishings & Household Maintenance",126.92
+"W.P. Kuala Lumpur",2026,06,Health,119.47
+"W.P. Kuala Lumpur",2026,07,Transport,128.34
+"W.P. Kuala Lumpur",2026,08,"Information & Communication",82.06
+"W.P. Kuala Lumpur",2026,09,"Recreation, Sport & Culture",122.67
+"W.P. Kuala Lumpur",2026,10,Education,137.86
+"W.P. Kuala Lumpur",2026,11,"Restaurants & Accommodation",158.28
+"W.P. Kuala Lumpur",2026,12,"Insurance & Financial Services",114.33
+"W.P. Kuala Lumpur",2026,13,"Personal Care & Miscellaneous",130.54
+"W.P. Kuala Lumpur",2026,overall,"Overall CPI",137.16
+"W.P. Labuan",2010,01,"Food & Beverages",99.99
+"W.P. Labuan",2010,02,"Alcohol & Tobacco",100
+"W.P. Labuan",2010,03,"Clothing & Footwear",99.99
+"W.P. Labuan",2010,04,"Housing, Utilities & Fuel",99.99
+"W.P. Labuan",2010,05,"Furnishings & Household Maintenance",100
+"W.P. Labuan",2010,06,Health,99.97
+"W.P. Labuan",2010,07,Transport,100
+"W.P. Labuan",2010,08,"Information & Communication",100
+"W.P. Labuan",2010,09,"Recreation, Sport & Culture",100
+"W.P. Labuan",2010,10,Education,100
+"W.P. Labuan",2010,11,"Restaurants & Accommodation",99.99
+"W.P. Labuan",2010,12,"Insurance & Financial Services",100
+"W.P. Labuan",2010,13,"Personal Care & Miscellaneous",100.01
+"W.P. Labuan",2010,overall,"Overall CPI",99.98
+"W.P. Labuan",2011,01,"Food & Beverages",102.84
+"W.P. Labuan",2011,02,"Alcohol & Tobacco",100
+"W.P. Labuan",2011,03,"Clothing & Footwear",98.27
+"W.P. Labuan",2011,04,"Housing, Utilities & Fuel",104.89
+"W.P. Labuan",2011,05,"Furnishings & Household Maintenance",101.67
+"W.P. Labuan",2011,06,Health,101.1
+"W.P. Labuan",2011,07,Transport,104.59
+"W.P. Labuan",2011,08,"Information & Communication",100
+"W.P. Labuan",2011,09,"Recreation, Sport & Culture",105.44
+"W.P. Labuan",2011,10,Education,101.58
+"W.P. Labuan",2011,11,"Restaurants & Accommodation",106.39
+"W.P. Labuan",2011,12,"Insurance & Financial Services",99.7
+"W.P. Labuan",2011,13,"Personal Care & Miscellaneous",99.95
+"W.P. Labuan",2011,overall,"Overall CPI",103.35
+"W.P. Labuan",2012,01,"Food & Beverages",108.22
+"W.P. Labuan",2012,02,"Alcohol & Tobacco",100
+"W.P. Labuan",2012,03,"Clothing & Footwear",97.12
+"W.P. Labuan",2012,04,"Housing, Utilities & Fuel",108.93
+"W.P. Labuan",2012,05,"Furnishings & Household Maintenance",105.49
+"W.P. Labuan",2012,06,Health,98.52
+"W.P. Labuan",2012,07,Transport,105.12
+"W.P. Labuan",2012,08,"Information & Communication",100
+"W.P. Labuan",2012,09,"Recreation, Sport & Culture",110.07
+"W.P. Labuan",2012,10,Education,105.64
+"W.P. Labuan",2012,11,"Restaurants & Accommodation",107.84
+"W.P. Labuan",2012,12,"Insurance & Financial Services",100.16
+"W.P. Labuan",2012,13,"Personal Care & Miscellaneous",100.27
+"W.P. Labuan",2012,overall,"Overall CPI",106.6
+"W.P. Labuan",2013,01,"Food & Beverages",111.72
+"W.P. Labuan",2013,02,"Alcohol & Tobacco",100
+"W.P. Labuan",2013,03,"Clothing & Footwear",97.38
+"W.P. Labuan",2013,04,"Housing, Utilities & Fuel",112.17
+"W.P. Labuan",2013,05,"Furnishings & Household Maintenance",108.69
+"W.P. Labuan",2013,06,Health,98.14
+"W.P. Labuan",2013,07,Transport,107.26
+"W.P. Labuan",2013,08,"Information & Communication",100
+"W.P. Labuan",2013,09,"Recreation, Sport & Culture",110.66
+"W.P. Labuan",2013,10,Education,119.11
+"W.P. Labuan",2013,11,"Restaurants & Accommodation",114.72
+"W.P. Labuan",2013,12,"Insurance & Financial Services",100.7
+"W.P. Labuan",2013,13,"Personal Care & Miscellaneous",102.63
+"W.P. Labuan",2013,overall,"Overall CPI",109.46
+"W.P. Labuan",2014,01,"Food & Beverages",112.87
+"W.P. Labuan",2014,02,"Alcohol & Tobacco",100
+"W.P. Labuan",2014,03,"Clothing & Footwear",97.24
+"W.P. Labuan",2014,04,"Housing, Utilities & Fuel",119.18
+"W.P. Labuan",2014,05,"Furnishings & Household Maintenance",108.9
+"W.P. Labuan",2014,06,Health,105.97
+"W.P. Labuan",2014,07,Transport,113.01
+"W.P. Labuan",2014,08,"Information & Communication",100
+"W.P. Labuan",2014,09,"Recreation, Sport & Culture",114.65
+"W.P. Labuan",2014,10,Education,122.37
+"W.P. Labuan",2014,11,"Restaurants & Accommodation",125.31
+"W.P. Labuan",2014,12,"Insurance & Financial Services",101.37
+"W.P. Labuan",2014,13,"Personal Care & Miscellaneous",103.65
+"W.P. Labuan",2014,overall,"Overall CPI",113.19
+"W.P. Labuan",2015,01,"Food & Beverages",115.32
+"W.P. Labuan",2015,02,"Alcohol & Tobacco",109.11
+"W.P. Labuan",2015,03,"Clothing & Footwear",98.64
+"W.P. Labuan",2015,04,"Housing, Utilities & Fuel",123.15
+"W.P. Labuan",2015,05,"Furnishings & Household Maintenance",108.92
+"W.P. Labuan",2015,06,Health,109.22
+"W.P. Labuan",2015,07,Transport,105.62
+"W.P. Labuan",2015,08,"Information & Communication",103.45
+"W.P. Labuan",2015,09,"Recreation, Sport & Culture",115.27
+"W.P. Labuan",2015,10,Education,126.2
+"W.P. Labuan",2015,11,"Restaurants & Accommodation",127.35
+"W.P. Labuan",2015,12,"Insurance & Financial Services",104.46
+"W.P. Labuan",2015,13,"Personal Care & Miscellaneous",105.98
+"W.P. Labuan",2015,overall,"Overall CPI",114.79
+"W.P. Labuan",2016,01,"Food & Beverages",116.29
+"W.P. Labuan",2016,02,"Alcohol & Tobacco",123.77
+"W.P. Labuan",2016,03,"Clothing & Footwear",99.17
+"W.P. Labuan",2016,04,"Housing, Utilities & Fuel",125.34
+"W.P. Labuan",2016,05,"Furnishings & Household Maintenance",107.83
+"W.P. Labuan",2016,06,Health,114.84
+"W.P. Labuan",2016,07,Transport,98.18
+"W.P. Labuan",2016,08,"Information & Communication",101.84
+"W.P. Labuan",2016,09,"Recreation, Sport & Culture",117.48
+"W.P. Labuan",2016,10,Education,126.3
+"W.P. Labuan",2016,11,"Restaurants & Accommodation",127.6
+"W.P. Labuan",2016,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2016,13,"Personal Care & Miscellaneous",105.73
+"W.P. Labuan",2016,overall,"Overall CPI",115.24
+"W.P. Labuan",2017,01,"Food & Beverages",119.28
+"W.P. Labuan",2017,02,"Alcohol & Tobacco",129.75
+"W.P. Labuan",2017,03,"Clothing & Footwear",94.6
+"W.P. Labuan",2017,04,"Housing, Utilities & Fuel",125.05
+"W.P. Labuan",2017,05,"Furnishings & Household Maintenance",105.57
+"W.P. Labuan",2017,06,Health,123.55
+"W.P. Labuan",2017,07,Transport,113.57
+"W.P. Labuan",2017,08,"Information & Communication",101.21
+"W.P. Labuan",2017,09,"Recreation, Sport & Culture",118.61
+"W.P. Labuan",2017,10,Education,126.3
+"W.P. Labuan",2017,11,"Restaurants & Accommodation",127.02
+"W.P. Labuan",2017,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2017,13,"Personal Care & Miscellaneous",104.49
+"W.P. Labuan",2017,overall,"Overall CPI",117.57
+"W.P. Labuan",2018,01,"Food & Beverages",120.84
+"W.P. Labuan",2018,02,"Alcohol & Tobacco",130.02
+"W.P. Labuan",2018,03,"Clothing & Footwear",92.48
+"W.P. Labuan",2018,04,"Housing, Utilities & Fuel",123.55
+"W.P. Labuan",2018,05,"Furnishings & Household Maintenance",105.89
+"W.P. Labuan",2018,06,Health,126.85
+"W.P. Labuan",2018,07,Transport,116.04
+"W.P. Labuan",2018,08,"Information & Communication",100.23
+"W.P. Labuan",2018,09,"Recreation, Sport & Culture",117.71
+"W.P. Labuan",2018,10,Education,129.4
+"W.P. Labuan",2018,11,"Restaurants & Accommodation",127.9
+"W.P. Labuan",2018,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2018,13,"Personal Care & Miscellaneous",105.98
+"W.P. Labuan",2018,overall,"Overall CPI",117.86
+"W.P. Labuan",2019,01,"Food & Beverages",122.28
+"W.P. Labuan",2019,02,"Alcohol & Tobacco",132.7
+"W.P. Labuan",2019,03,"Clothing & Footwear",91.56
+"W.P. Labuan",2019,04,"Housing, Utilities & Fuel",123.77
+"W.P. Labuan",2019,05,"Furnishings & Household Maintenance",107.54
+"W.P. Labuan",2019,06,Health,128.3
+"W.P. Labuan",2019,07,Transport,111.91
+"W.P. Labuan",2019,08,"Information & Communication",99.62
+"W.P. Labuan",2019,09,"Recreation, Sport & Culture",118.17
+"W.P. Labuan",2019,10,Education,130
+"W.P. Labuan",2019,11,"Restaurants & Accommodation",129.02
+"W.P. Labuan",2019,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2019,13,"Personal Care & Miscellaneous",109.33
+"W.P. Labuan",2019,overall,"Overall CPI",118.25
+"W.P. Labuan",2020,01,"Food & Beverages",123.16
+"W.P. Labuan",2020,02,"Alcohol & Tobacco",132.7
+"W.P. Labuan",2020,03,"Clothing & Footwear",89.4
+"W.P. Labuan",2020,04,"Housing, Utilities & Fuel",120.47
+"W.P. Labuan",2020,05,"Furnishings & Household Maintenance",107.34
+"W.P. Labuan",2020,06,Health,130.02
+"W.P. Labuan",2020,07,Transport,97.37
+"W.P. Labuan",2020,08,"Information & Communication",100.3
+"W.P. Labuan",2020,09,"Recreation, Sport & Culture",118.19
+"W.P. Labuan",2020,10,Education,130.2
+"W.P. Labuan",2020,11,"Restaurants & Accommodation",126.41
+"W.P. Labuan",2020,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2020,13,"Personal Care & Miscellaneous",111.83
+"W.P. Labuan",2020,overall,"Overall CPI",116.04
+"W.P. Labuan",2021,01,"Food & Beverages",124.83
+"W.P. Labuan",2021,02,"Alcohol & Tobacco",132.7
+"W.P. Labuan",2021,03,"Clothing & Footwear",89.22
+"W.P. Labuan",2021,04,"Housing, Utilities & Fuel",118.65
+"W.P. Labuan",2021,05,"Furnishings & Household Maintenance",106.98
+"W.P. Labuan",2021,06,Health,130.45
+"W.P. Labuan",2021,07,Transport,111.8
+"W.P. Labuan",2021,08,"Information & Communication",100.3
+"W.P. Labuan",2021,09,"Recreation, Sport & Culture",121.59
+"W.P. Labuan",2021,10,Education,130.2
+"W.P. Labuan",2021,11,"Restaurants & Accommodation",125.77
+"W.P. Labuan",2021,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2021,13,"Personal Care & Miscellaneous",113.15
+"W.P. Labuan",2021,overall,"Overall CPI",117.83
+"W.P. Labuan",2022,01,"Food & Beverages",129.15
+"W.P. Labuan",2022,02,"Alcohol & Tobacco",132.7
+"W.P. Labuan",2022,03,"Clothing & Footwear",88.93
+"W.P. Labuan",2022,04,"Housing, Utilities & Fuel",120.02
+"W.P. Labuan",2022,05,"Furnishings & Household Maintenance",107.71
+"W.P. Labuan",2022,06,Health,131.65
+"W.P. Labuan",2022,07,Transport,120.27
+"W.P. Labuan",2022,08,"Information & Communication",99.7
+"W.P. Labuan",2022,09,"Recreation, Sport & Culture",121.94
+"W.P. Labuan",2022,10,Education,130.2
+"W.P. Labuan",2022,11,"Restaurants & Accommodation",128.61
+"W.P. Labuan",2022,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2022,13,"Personal Care & Miscellaneous",113.5
+"W.P. Labuan",2022,overall,"Overall CPI",120.57
+"W.P. Labuan",2023,01,"Food & Beverages",133.83
+"W.P. Labuan",2023,02,"Alcohol & Tobacco",132.9
+"W.P. Labuan",2023,03,"Clothing & Footwear",88.86
+"W.P. Labuan",2023,04,"Housing, Utilities & Fuel",121.82
+"W.P. Labuan",2023,05,"Furnishings & Household Maintenance",109.18
+"W.P. Labuan",2023,06,Health,136.88
+"W.P. Labuan",2023,07,Transport,117.5
+"W.P. Labuan",2023,08,"Information & Communication",97.19
+"W.P. Labuan",2023,09,"Recreation, Sport & Culture",122.06
+"W.P. Labuan",2023,10,Education,132.42
+"W.P. Labuan",2023,11,"Restaurants & Accommodation",136.16
+"W.P. Labuan",2023,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2023,13,"Personal Care & Miscellaneous",115.71
+"W.P. Labuan",2023,overall,"Overall CPI",122.52
+"W.P. Labuan",2024,01,"Food & Beverages",135.71
+"W.P. Labuan",2024,02,"Alcohol & Tobacco",133.3
+"W.P. Labuan",2024,03,"Clothing & Footwear",87
+"W.P. Labuan",2024,04,"Housing, Utilities & Fuel",122.78
+"W.P. Labuan",2024,05,"Furnishings & Household Maintenance",105.6
+"W.P. Labuan",2024,06,Health,139.43
+"W.P. Labuan",2024,07,Transport,116.24
+"W.P. Labuan",2024,08,"Information & Communication",95.65
+"W.P. Labuan",2024,09,"Recreation, Sport & Culture",124.6
+"W.P. Labuan",2024,10,Education,133.2
+"W.P. Labuan",2024,11,"Restaurants & Accommodation",145.33
+"W.P. Labuan",2024,12,"Insurance & Financial Services",105.5
+"W.P. Labuan",2024,13,"Personal Care & Miscellaneous",118.83
+"W.P. Labuan",2024,overall,"Overall CPI",123.29
+"W.P. Labuan",2025,01,"Food & Beverages",138.87
+"W.P. Labuan",2025,02,"Alcohol & Tobacco",134.89
+"W.P. Labuan",2025,03,"Clothing & Footwear",85.18
+"W.P. Labuan",2025,04,"Housing, Utilities & Fuel",123.61
+"W.P. Labuan",2025,05,"Furnishings & Household Maintenance",103.06
+"W.P. Labuan",2025,06,Health,137.78
+"W.P. Labuan",2025,07,Transport,115.02
+"W.P. Labuan",2025,08,"Information & Communication",91.67
+"W.P. Labuan",2025,09,"Recreation, Sport & Culture",124.6
+"W.P. Labuan",2025,10,Education,140.26
+"W.P. Labuan",2025,11,"Restaurants & Accommodation",149.88
+"W.P. Labuan",2025,12,"Insurance & Financial Services",109.18
+"W.P. Labuan",2025,13,"Personal Care & Miscellaneous",125.53
+"W.P. Labuan",2025,overall,"Overall CPI",124.25
+"W.P. Labuan",2026,01,"Food & Beverages",140.06
+"W.P. Labuan",2026,02,"Alcohol & Tobacco",139.2
+"W.P. Labuan",2026,03,"Clothing & Footwear",83.14
+"W.P. Labuan",2026,04,"Housing, Utilities & Fuel",127.34
+"W.P. Labuan",2026,05,"Furnishings & Household Maintenance",102.11
+"W.P. Labuan",2026,06,Health,143.14
+"W.P. Labuan",2026,07,Transport,116.23
+"W.P. Labuan",2026,08,"Information & Communication",94.63
+"W.P. Labuan",2026,09,"Recreation, Sport & Culture",124.27
+"W.P. Labuan",2026,10,Education,149.68
+"W.P. Labuan",2026,11,"Restaurants & Accommodation",156.01
+"W.P. Labuan",2026,12,"Insurance & Financial Services",116.88
+"W.P. Labuan",2026,13,"Personal Care & Miscellaneous",131.78
+"W.P. Labuan",2026,overall,"Overall CPI",126.81
+"W.P. Putrajaya",2010,01,"Food & Beverages",100
+"W.P. Putrajaya",2010,02,"Alcohol & Tobacco",99.95
+"W.P. Putrajaya",2010,03,"Clothing & Footwear",100
+"W.P. Putrajaya",2010,04,"Housing, Utilities & Fuel",99.98
+"W.P. Putrajaya",2010,05,"Furnishings & Household Maintenance",99.99
+"W.P. Putrajaya",2010,06,Health,99.99
+"W.P. Putrajaya",2010,07,Transport,100.01
+"W.P. Putrajaya",2010,08,"Information & Communication",100.01
+"W.P. Putrajaya",2010,09,"Recreation, Sport & Culture",100
+"W.P. Putrajaya",2010,10,Education,99.97
+"W.P. Putrajaya",2010,11,"Restaurants & Accommodation",99.99
+"W.P. Putrajaya",2010,12,"Insurance & Financial Services",100
+"W.P. Putrajaya",2010,13,"Personal Care & Miscellaneous",100
+"W.P. Putrajaya",2010,overall,"Overall CPI",100.01
+"W.P. Putrajaya",2011,01,"Food & Beverages",103.72
+"W.P. Putrajaya",2011,02,"Alcohol & Tobacco",105.5
+"W.P. Putrajaya",2011,03,"Clothing & Footwear",97.83
+"W.P. Putrajaya",2011,04,"Housing, Utilities & Fuel",102.92
+"W.P. Putrajaya",2011,05,"Furnishings & Household Maintenance",101.16
+"W.P. Putrajaya",2011,06,Health,101
+"W.P. Putrajaya",2011,07,Transport,106.14
+"W.P. Putrajaya",2011,08,"Information & Communication",99.02
+"W.P. Putrajaya",2011,09,"Recreation, Sport & Culture",100.12
+"W.P. Putrajaya",2011,10,Education,101.92
+"W.P. Putrajaya",2011,11,"Restaurants & Accommodation",107.52
+"W.P. Putrajaya",2011,12,"Insurance & Financial Services",99.83
+"W.P. Putrajaya",2011,13,"Personal Care & Miscellaneous",101.69
+"W.P. Putrajaya",2011,overall,"Overall CPI",103.32
+"W.P. Putrajaya",2012,01,"Food & Beverages",106.1
+"W.P. Putrajaya",2012,02,"Alcohol & Tobacco",105.87
+"W.P. Putrajaya",2012,03,"Clothing & Footwear",93.82
+"W.P. Putrajaya",2012,04,"Housing, Utilities & Fuel",104.94
+"W.P. Putrajaya",2012,05,"Furnishings & Household Maintenance",106.52
+"W.P. Putrajaya",2012,06,Health,104.27
+"W.P. Putrajaya",2012,07,Transport,106.78
+"W.P. Putrajaya",2012,08,"Information & Communication",98.28
+"W.P. Putrajaya",2012,09,"Recreation, Sport & Culture",101.55
+"W.P. Putrajaya",2012,10,Education,103.62
+"W.P. Putrajaya",2012,11,"Restaurants & Accommodation",112.2
+"W.P. Putrajaya",2012,12,"Insurance & Financial Services",101.82
+"W.P. Putrajaya",2012,13,"Personal Care & Miscellaneous",103.14
+"W.P. Putrajaya",2012,overall,"Overall CPI",105.06
+"W.P. Putrajaya",2013,01,"Food & Beverages",111.45
+"W.P. Putrajaya",2013,02,"Alcohol & Tobacco",113.53
+"W.P. Putrajaya",2013,03,"Clothing & Footwear",90.76
+"W.P. Putrajaya",2013,04,"Housing, Utilities & Fuel",105.68
+"W.P. Putrajaya",2013,05,"Furnishings & Household Maintenance",108.09
+"W.P. Putrajaya",2013,06,Health,104.22
+"W.P. Putrajaya",2013,07,Transport,108.91
+"W.P. Putrajaya",2013,08,"Information & Communication",97.6
+"W.P. Putrajaya",2013,09,"Recreation, Sport & Culture",100.91
+"W.P. Putrajaya",2013,10,Education,104.31
+"W.P. Putrajaya",2013,11,"Restaurants & Accommodation",112.57
+"W.P. Putrajaya",2013,12,"Insurance & Financial Services",102.7
+"W.P. Putrajaya",2013,13,"Personal Care & Miscellaneous",105.06
+"W.P. Putrajaya",2013,overall,"Overall CPI",107.02
+"W.P. Putrajaya",2014,01,"Food & Beverages",117.03
+"W.P. Putrajaya",2014,02,"Alcohol & Tobacco",129.74
+"W.P. Putrajaya",2014,03,"Clothing & Footwear",89.21
+"W.P. Putrajaya",2014,04,"Housing, Utilities & Fuel",108.38
+"W.P. Putrajaya",2014,05,"Furnishings & Household Maintenance",108.63
+"W.P. Putrajaya",2014,06,Health,104.5
+"W.P. Putrajaya",2014,07,Transport,115.03
+"W.P. Putrajaya",2014,08,"Information & Communication",96.42
+"W.P. Putrajaya",2014,09,"Recreation, Sport & Culture",102.62
+"W.P. Putrajaya",2014,10,Education,107.65
+"W.P. Putrajaya",2014,11,"Restaurants & Accommodation",112.95
+"W.P. Putrajaya",2014,12,"Insurance & Financial Services",101.99
+"W.P. Putrajaya",2014,13,"Personal Care & Miscellaneous",105
+"W.P. Putrajaya",2014,overall,"Overall CPI",110.55
+"W.P. Putrajaya",2015,01,"Food & Beverages",122.18
+"W.P. Putrajaya",2015,02,"Alcohol & Tobacco",149.66
+"W.P. Putrajaya",2015,03,"Clothing & Footwear",88.47
+"W.P. Putrajaya",2015,04,"Housing, Utilities & Fuel",110.88
+"W.P. Putrajaya",2015,05,"Furnishings & Household Maintenance",115.92
+"W.P. Putrajaya",2015,06,Health,109.08
+"W.P. Putrajaya",2015,07,Transport,109.46
+"W.P. Putrajaya",2015,08,"Information & Communication",99
+"W.P. Putrajaya",2015,09,"Recreation, Sport & Culture",103.45
+"W.P. Putrajaya",2015,10,Education,115.72
+"W.P. Putrajaya",2015,11,"Restaurants & Accommodation",119.89
+"W.P. Putrajaya",2015,12,"Insurance & Financial Services",103.56
+"W.P. Putrajaya",2015,13,"Personal Care & Miscellaneous",107.19
+"W.P. Putrajaya",2015,overall,"Overall CPI",112.81
+"W.P. Putrajaya",2016,01,"Food & Beverages",127.85
+"W.P. Putrajaya",2016,02,"Alcohol & Tobacco",179.4
+"W.P. Putrajaya",2016,03,"Clothing & Footwear",90.78
+"W.P. Putrajaya",2016,04,"Housing, Utilities & Fuel",112.46
+"W.P. Putrajaya",2016,05,"Furnishings & Household Maintenance",122.95
+"W.P. Putrajaya",2016,06,Health,107.21
+"W.P. Putrajaya",2016,07,Transport,104.95
+"W.P. Putrajaya",2016,08,"Information & Communication",99.5
+"W.P. Putrajaya",2016,09,"Recreation, Sport & Culture",106.48
+"W.P. Putrajaya",2016,10,Education,116.97
+"W.P. Putrajaya",2016,11,"Restaurants & Accommodation",125.22
+"W.P. Putrajaya",2016,12,"Insurance & Financial Services",104.3
+"W.P. Putrajaya",2016,13,"Personal Care & Miscellaneous",109.8
+"W.P. Putrajaya",2016,overall,"Overall CPI",115.45
+"W.P. Putrajaya",2017,01,"Food & Beverages",132.81
+"W.P. Putrajaya",2017,02,"Alcohol & Tobacco",179.4
+"W.P. Putrajaya",2017,03,"Clothing & Footwear",90.31
+"W.P. Putrajaya",2017,04,"Housing, Utilities & Fuel",113.16
+"W.P. Putrajaya",2017,05,"Furnishings & Household Maintenance",124.01
+"W.P. Putrajaya",2017,06,Health,111.28
+"W.P. Putrajaya",2017,07,Transport,115.86
+"W.P. Putrajaya",2017,08,"Information & Communication",99.5
+"W.P. Putrajaya",2017,09,"Recreation, Sport & Culture",108.59
+"W.P. Putrajaya",2017,10,Education,118.98
+"W.P. Putrajaya",2017,11,"Restaurants & Accommodation",134.95
+"W.P. Putrajaya",2017,12,"Insurance & Financial Services",104.3
+"W.P. Putrajaya",2017,13,"Personal Care & Miscellaneous",110.89
+"W.P. Putrajaya",2017,overall,"Overall CPI",118.71
+"W.P. Putrajaya",2018,01,"Food & Beverages",133.92
+"W.P. Putrajaya",2018,02,"Alcohol & Tobacco",179.68
+"W.P. Putrajaya",2018,03,"Clothing & Footwear",88.09
+"W.P. Putrajaya",2018,04,"Housing, Utilities & Fuel",114.98
+"W.P. Putrajaya",2018,05,"Furnishings & Household Maintenance",123.67
+"W.P. Putrajaya",2018,06,Health,109.48
+"W.P. Putrajaya",2018,07,Transport,117.61
+"W.P. Putrajaya",2018,08,"Information & Communication",96.88
+"W.P. Putrajaya",2018,09,"Recreation, Sport & Culture",106.98
+"W.P. Putrajaya",2018,10,Education,119
+"W.P. Putrajaya",2018,11,"Restaurants & Accommodation",132.78
+"W.P. Putrajaya",2018,12,"Insurance & Financial Services",101.21
+"W.P. Putrajaya",2018,13,"Personal Care & Miscellaneous",106.08
+"W.P. Putrajaya",2018,overall,"Overall CPI",118.99
+"W.P. Putrajaya",2019,01,"Food & Beverages",139.02
+"W.P. Putrajaya",2019,02,"Alcohol & Tobacco",182.75
+"W.P. Putrajaya",2019,03,"Clothing & Footwear",87.37
+"W.P. Putrajaya",2019,04,"Housing, Utilities & Fuel",115.75
+"W.P. Putrajaya",2019,05,"Furnishings & Household Maintenance",125.6
+"W.P. Putrajaya",2019,06,Health,109.09
+"W.P. Putrajaya",2019,07,Transport,116.26
+"W.P. Putrajaya",2019,08,"Information & Communication",96.6
+"W.P. Putrajaya",2019,09,"Recreation, Sport & Culture",106.31
+"W.P. Putrajaya",2019,10,Education,125.79
+"W.P. Putrajaya",2019,11,"Restaurants & Accommodation",134.49
+"W.P. Putrajaya",2019,12,"Insurance & Financial Services",103.6
+"W.P. Putrajaya",2019,13,"Personal Care & Miscellaneous",107.45
+"W.P. Putrajaya",2019,overall,"Overall CPI",120.32
+"W.P. Putrajaya",2020,01,"Food & Beverages",143.09
+"W.P. Putrajaya",2020,02,"Alcohol & Tobacco",183.32
+"W.P. Putrajaya",2020,03,"Clothing & Footwear",86.31
+"W.P. Putrajaya",2020,04,"Housing, Utilities & Fuel",114.68
+"W.P. Putrajaya",2020,05,"Furnishings & Household Maintenance",122.3
+"W.P. Putrajaya",2020,06,Health,108.92
+"W.P. Putrajaya",2020,07,Transport,108.32
+"W.P. Putrajaya",2020,08,"Information & Communication",96.6
+"W.P. Putrajaya",2020,09,"Recreation, Sport & Culture",106.77
+"W.P. Putrajaya",2020,10,Education,121.59
+"W.P. Putrajaya",2020,11,"Restaurants & Accommodation",138.41
+"W.P. Putrajaya",2020,12,"Insurance & Financial Services",108.42
+"W.P. Putrajaya",2020,13,"Personal Care & Miscellaneous",115.99
+"W.P. Putrajaya",2020,overall,"Overall CPI",120.04
+"W.P. Putrajaya",2021,01,"Food & Beverages",148.29
+"W.P. Putrajaya",2021,02,"Alcohol & Tobacco",184.15
+"W.P. Putrajaya",2021,03,"Clothing & Footwear",86.47
+"W.P. Putrajaya",2021,04,"Housing, Utilities & Fuel",120.48
+"W.P. Putrajaya",2021,05,"Furnishings & Household Maintenance",129.92
+"W.P. Putrajaya",2021,06,Health,109.68
+"W.P. Putrajaya",2021,07,Transport,117.07
+"W.P. Putrajaya",2021,08,"Information & Communication",96.3
+"W.P. Putrajaya",2021,09,"Recreation, Sport & Culture",106.91
+"W.P. Putrajaya",2021,10,Education,126.7
+"W.P. Putrajaya",2021,11,"Restaurants & Accommodation",138.99
+"W.P. Putrajaya",2021,12,"Insurance & Financial Services",109.1
+"W.P. Putrajaya",2021,13,"Personal Care & Miscellaneous",117.01
+"W.P. Putrajaya",2021,overall,"Overall CPI",124.73
+"W.P. Putrajaya",2022,01,"Food & Beverages",159.71
+"W.P. Putrajaya",2022,02,"Alcohol & Tobacco",185.72
+"W.P. Putrajaya",2022,03,"Clothing & Footwear",87.29
+"W.P. Putrajaya",2022,04,"Housing, Utilities & Fuel",130.47
+"W.P. Putrajaya",2022,05,"Furnishings & Household Maintenance",133.55
+"W.P. Putrajaya",2022,06,Health,111.29
+"W.P. Putrajaya",2022,07,Transport,132.73
+"W.P. Putrajaya",2022,08,"Information & Communication",96.03
+"W.P. Putrajaya",2022,09,"Recreation, Sport & Culture",107.49
+"W.P. Putrajaya",2022,10,Education,129.42
+"W.P. Putrajaya",2022,11,"Restaurants & Accommodation",164.6
+"W.P. Putrajaya",2022,12,"Insurance & Financial Services",109.1
+"W.P. Putrajaya",2022,13,"Personal Care & Miscellaneous",121.27
+"W.P. Putrajaya",2022,overall,"Overall CPI",133.82
+"W.P. Putrajaya",2023,01,"Food & Beverages",169.21
+"W.P. Putrajaya",2023,02,"Alcohol & Tobacco",186.69
+"W.P. Putrajaya",2023,03,"Clothing & Footwear",88.08
+"W.P. Putrajaya",2023,04,"Housing, Utilities & Fuel",136.94
+"W.P. Putrajaya",2023,05,"Furnishings & Household Maintenance",136.89
+"W.P. Putrajaya",2023,06,Health,113.37
+"W.P. Putrajaya",2023,07,Transport,133.58
+"W.P. Putrajaya",2023,08,"Information & Communication",90.62
+"W.P. Putrajaya",2023,09,"Recreation, Sport & Culture",108.65
+"W.P. Putrajaya",2023,10,Education,130.5
+"W.P. Putrajaya",2023,11,"Restaurants & Accommodation",173.62
+"W.P. Putrajaya",2023,12,"Insurance & Financial Services",109.56
+"W.P. Putrajaya",2023,13,"Personal Care & Miscellaneous",122.96
+"W.P. Putrajaya",2023,overall,"Overall CPI",138.28
+"W.P. Putrajaya",2024,01,"Food & Beverages",173.28
+"W.P. Putrajaya",2024,02,"Alcohol & Tobacco",187.3
+"W.P. Putrajaya",2024,03,"Clothing & Footwear",89
+"W.P. Putrajaya",2024,04,"Housing, Utilities & Fuel",138.07
+"W.P. Putrajaya",2024,05,"Furnishings & Household Maintenance",137.54
+"W.P. Putrajaya",2024,06,Health,117.19
+"W.P. Putrajaya",2024,07,Transport,135.92
+"W.P. Putrajaya",2024,08,"Information & Communication",88.62
+"W.P. Putrajaya",2024,09,"Recreation, Sport & Culture",112.31
+"W.P. Putrajaya",2024,10,Education,130.5
+"W.P. Putrajaya",2024,11,"Restaurants & Accommodation",175.28
+"W.P. Putrajaya",2024,12,"Insurance & Financial Services",109.6
+"W.P. Putrajaya",2024,13,"Personal Care & Miscellaneous",127.64
+"W.P. Putrajaya",2024,overall,"Overall CPI",140.27
+"W.P. Putrajaya",2025,01,"Food & Beverages",177.93
+"W.P. Putrajaya",2025,02,"Alcohol & Tobacco",188.4
+"W.P. Putrajaya",2025,03,"Clothing & Footwear",88.4
+"W.P. Putrajaya",2025,04,"Housing, Utilities & Fuel",137.72
+"W.P. Putrajaya",2025,05,"Furnishings & Household Maintenance",134.66
+"W.P. Putrajaya",2025,06,Health,120.96
+"W.P. Putrajaya",2025,07,Transport,136.49
+"W.P. Putrajaya",2025,08,"Information & Communication",85
+"W.P. Putrajaya",2025,09,"Recreation, Sport & Culture",114.92
+"W.P. Putrajaya",2025,10,Education,131.64
+"W.P. Putrajaya",2025,11,"Restaurants & Accommodation",172.88
+"W.P. Putrajaya",2025,12,"Insurance & Financial Services",114.7
+"W.P. Putrajaya",2025,13,"Personal Care & Miscellaneous",133.85
+"W.P. Putrajaya",2025,overall,"Overall CPI",141.29
+"W.P. Putrajaya",2026,01,"Food & Beverages",180.18
+"W.P. Putrajaya",2026,02,"Alcohol & Tobacco",193.9
+"W.P. Putrajaya",2026,03,"Clothing & Footwear",88.19
+"W.P. Putrajaya",2026,04,"Housing, Utilities & Fuel",139.02
+"W.P. Putrajaya",2026,05,"Furnishings & Household Maintenance",134.21
+"W.P. Putrajaya",2026,06,Health,121.64
+"W.P. Putrajaya",2026,07,Transport,140.23
+"W.P. Putrajaya",2026,08,"Information & Communication",86.3
+"W.P. Putrajaya",2026,09,"Recreation, Sport & Culture",115.92
+"W.P. Putrajaya",2026,10,Education,132.9
+"W.P. Putrajaya",2026,11,"Restaurants & Accommodation",180.6
+"W.P. Putrajaya",2026,12,"Insurance & Financial Services",120.29
+"W.P. Putrajaya",2026,13,"Personal Care & Miscellaneous",141.73
+"W.P. Putrajaya",2026,overall,"Overall CPI",143.7
