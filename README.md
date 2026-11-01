@@ -43,13 +43,13 @@ malaysia-household-economy-analytics/
 ---
 
 ## 🛠️ Tech Stack & End-to-End Pipeline
-1. **Python (`Pandas`):
+1. **Python (`Pandas`):**
 ** Cleaned 3 raw OpenDOSM datasets (`cpi_2d_state.csv`, `hies_state.csv`, `hh_income_state.csv`), resolved 1970 missing values, mapped 2-digit UN COICOP division codes to readable categories, aggregated monthly CPI readings (`45,024 rows`) into annual indices, and engineered a master `dim_states` regional reference table.
-2. **MySQL (`CTEs`, `Window Functions`, `Views`):
+2. **MySQL (`CTEs`, `Window Functions`, `Views`):**
 ** Designed a relational database (`malaysia_economy_db`), authored multi-table `INNER JOIN` queries, ranked state affordability via `DENSE_RANK() OVER (PARTITION BY region)`, evaluated survey-over-survey wage growth against inflation using `LAG()`, and deployed a reusable summary view (`vw_state_affordability_summary`).
-3. **Microsoft Excel (`PivotTables`, `XLOOKUP`, `What-If Modeling`):
+3. **Microsoft Excel (`PivotTables`, `XLOOKUP`, `What-If Modeling`):**
 ** Built a regional audit PivotTable and an interactive **Household Inflation Stress-Test Simulator** using multi-criteria `XLOOKUP` and conditional risk formatting to model the impact of an `+8.0%` cost-of-living shock on state household buffers.
-4. **Power BI (`Star Schema`, `Explicit DAX`):
+4. **Power BI (`Star Schema`, `Explicit DAX`):**
 ** Modeled a `1-to-Many (1:*)` Star Schema using `Dim_States` and a DAX `GENERATESERIES` calendar table (`Dim_Calendar`), authored custom DAX measures for non-consecutive survey growth (`Wage Growth %`), and designed a 2-page executive dashboard.
 
 ---
